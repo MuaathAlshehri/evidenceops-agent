@@ -236,8 +236,5 @@ Approval Check
 
 ## Author
 
-Muath Al-Buraya
+Muath AL Biryaa
 
-Information Systems
-
-Imam Mohammad Ibn Saud Islamic University
