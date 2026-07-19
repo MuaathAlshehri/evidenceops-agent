@@ -1,0 +1,215 @@
+--- Page 3 ---
+Al Principles in Media
+Executive Summary
+In the light of the accelerating use of Artificial Intelligence (Al) in media, alongside the growing
+challenges related to deepfakes, public opinion manipulation, algorithmic influence, fraudulent
+content that is misleading and false, and the difficulty of regulating content among cross-border
+digital platforms.
+This document establishes guiding principles for the use of Al across the media content lifecycle,
+including production, editing, publication, and redistribution on media and digital platforms to ensure
+responsible and safe use, mitigate associated risks, preserve media integrity, and protect societal values
+and individual rights.
+Based on the Anti-Cyber Crime Law, the Personal Data Protection Law and its executive regulations, the
+regulatory requirements issued by relevant authorities in the fields of data and Al, and in accordance with
+the Al Ethics Principles and Deepfake Guidelines, this document forms part of the national efforts to
+guide the use of Al technologies in the media sector.
+Public
+--- Page 4 ---
+Al Principles in Media
+First: Definitions
+For the purpose of this document, the following terms shall have the meanings
+indicated below, unless the context requires otherwise:
+Artificial Intelligence (Al): is a collection of technologies that can enable a machine or system to sense,
+comprehend, act, and learn.
+Media Channels: The means through which media content is published and broadcasted.
+Entities: Public or private entities that produce, publish, or redistribute content generated or supported by Al
+through traditional media, digital content platforms, or other publishing channels.
+Media Content: Material directed to the public, whether written, read, printed, filmed, digital, virtual, interactive,
+or audiovisual, in all its forms and means, including new formats, and excluding content characterized as private
+correspondence.
+Al-Assisted Content: Any media content created, modified, or enhanced, fully or partially, using Al technologies.
+Deepfake: Artificial content created using Al technologies to simulate or imitate real individuals in voice, image, or
+video.
+Misleading Content: Any content that contains incorrect, fabricated, or distorted information that is produced,
+published, or redistributed with the intent to mislead, deceive, or unlawfully influence public opinion, the
+reputation, positions, or decisions of individuals.
+Public
+--- Page 5 ---
+Al Principles in Media
+False Content: Any content that contains incorrect, incomplete, or out-of-context information that is produced,
+published, or redistributed without the intent to mislead or cause harm, often resulting from error,
+misunderstanding, or inaccurate information transfer.
+Fraudulent Content: Any content that contains false representations or impersonations intended to commit fraud,
+deceive, or unlawfully obtain money, data, or other benefits.
+Public Figures: Individuals with public presence or influence, including officials, media personnel, opinion makers,
+and celebrities.
+Content Creators: Individuals who create, prepare, edit, publish, or republish media content through any means or
+platform, including influencers, independent journalists, and digital producers, whether using Al technologies
+fully or partially.
+Digital Content Platforms: Digital platforms that enable the broadcasting, presentation, display, production, or
+publication of media content, or the provision of services through electronic means, including social media
+websites or platforms.
+Cross-Border Platforms: Digital content platforms that are managed or hosted outside the local geographic area
+and provide content to the public within Saudi Arabia.
+Impact Assessment: A systematic process for estimating and analyzing the potential social, ethical, cultural,
+health, and economic impacts of the use of Al in media.
+Public
+--- Page 6 ---
+Al Principles in Media
+Second: Objective
+This document aims to achieve the following:
+٠ Guide the use of Al technologies in the media sector based on responsible practices and risk management.
+Enhance the reliability of media content and protect public trust.
+Contribute to reducing the risks of misinformation, deepfakes, privacy violations, and infringements of intellectual
+property rights.
+Clarify the responsibilities of media entities, platforms, and content creators.
+Third: Target Groups
+These principles apply to:
+Government and private sector entities.
+Digital content platforms, including cross-border platforms, where the content is directed at or made available to
+the public within Saudi Arabia.
+Content creators and individuals involved in the production, editing, publication, or republication of media
+content.
+Media users and digital content platforms, when producing, circulating, or republishing media content
+supported by Al.
+e Any media content created, modified, enhanced, or circulated, fully or partially, using Al technologies.
+Public
+--- Page 7 ---
+Al Principles in Media
+Fourth: Context and Risks
+Al contributes to the development of media practices by enhancing operational efficiency, accelerating
+content production, improving content analysis and distribution, and expanding audience reach across media
+and digital content platforms. It also opens new horizons for media creativity, content personalization, and
+enhanced user experience.
+However, this increasing use also involves potential risks that require careful and balanced regulation, the
+most prominent of which include:
+Difficulty in distinguishing between real and Al-generated content, which would decrease trust in media outlets.
+e Producing or amplifying misleading, fragmented, or decontextualized content, whether during production or
+through republication and circulation.
+e Misuse of deepfake technologies, particularly involving public figures, which may harm reputations, undermine
+public trust, and threaten societal stability, creating security and political risks.
+٠ Illegitimate influence on public opinion through algorithms and automated content recommendation and ranking
+systems.
+e Violation of privacy and individual rights, including the misuse of individuals images, voices, or personal data
+without legal justification, particularly concerning children.
+٠ Challenges related to intellectual property violations, including the use of Al to generate content that may infringe
+copyright or related rights, the reproduction of protected works without a license, or ambiguity in attributing
+automatically generated content.
+Accordingly, this document adopts an approach that balances enabling media innovation for the protection of
+society, which is grounded in transparency, responsibility, and proportionality to the level of impact. It ensures
+compliance with relevant laws, regulations, and controls, including the Anti-Cyber Crime Law, the Personal Data
+Protection Law and its executive regulations, and the regulatory requirements issued by relevant authorities in the
+fields of data and Al, in accordance with Al Ethics Principles and Deepfake Guidelines.
+Public
+--- Page 8 ---
+Al Principles in Media
+Fifth: Principles
+20 First Principle: Transparency and Disclosure
+Disclosure of the use of Al technologies in the production, modification, or enhancement of media content, which
+includes informing the public or using watermarks and other disclosure methods for Al-generated content, to
+enable audiences to understand the nature and source of the content and to reduce confusion between real and
+Al-generated content.
+e Disclosure should be proportionate to the nature of the content and its potential psychological, physical, and
+intellectual impact on users. Disclosure is necessary when Al-supported content clearly affects public perception,
+attitudes, behavior, or health, particularly in news, analytical, or widely impactful content.
+Disclosure applies to digital content platforms and media outlets at the time of publication, and to content creators
+at the time of creation or republication. It also includes, where applicable, disclosure of the role of algorithms or
+automated systems in generating, organizing, or recommending content, given their direct impact on shaping
+public opinion.
+22 Second Principle: Credibility and Integrity of Information
+٠ Adhering to professional standards in media content when using Al, including accuracy, verification of information,
+and presenting content in its correct context without distortion or alteration.
+e Responsibility extends across all stages of content handling and entails the obligation of all parties involved in its
+production, publication, or redistribution to preserve credibility and information integrity across all forms and
+channels, whether through traditional media, digital content platforms, or content creators accounts.
+e The use of Al to produce, publish, or republish misleading, false, or contextually deficient content is prohibited
+where it may mislead public opinion or unlawfully influence trends or decisions, regardless of intent or means of
+publication.
+Public
+--- Page 9 ---
+Al Principles in Media
+Y Third Principle: Privacy Protection and Public Figures
+e Respecting individuals privacy and protecting their data and personal rights by not using their photos, voices, or
+data, or simulating their identities using Al technologies, without legal justification or explicit consent, in
+accordance with relevant data protection laws and regulations.
+e Content related to public figures is considered highly sensitive due to its broad societal impact and must therefore
+be handled with heightened caution with strict safeguards against the misuse of Al technologies, including
+deepfakes, identity theft, or the attribution of statements or actions not made by them.
+Content involving defamation, extortion, threats, abuse, exploitation, or deception, as well as any use that may harm
+individuals or communities or undermine public trust in the media. Particular protection applies to content
+targeting children, including the use of their photos, voices, or data, or simulating them using Al technologies
+without legal justification, or exposing them to content inappropriate for their age or with harmful psychological or
+social effects.
+20 Fourth Principle: Prohibition of Misleading Content
+٠ The use of Al technologies to produce, publish, redistribute deepfake content, or any harmful, misleading, offensive
+fraudulent content, or content that violates applicable regulations, societal values, or approved content standards,
+is prohibited.
+Entities and individuals must take appropriate measures, according to their respective roles, to monitor such
+content, limit its soread, and address it upon discovery.
+Public
+--- Page 10 ---
+Al Principles in Media
+20 Fifth Principle: Responsibility and Accountability Across the Content Lifecycle
+Entities, digital content platforms, and content creators bear responsibility for Al-supported content throughout its
+lifecycle, from production and publication through redistribution.
+The use of Al technologies does not exempt any party from professional or legal responsibility, and penalties and
+sanctions prescribed under applicable regulations apply in the event of violations.
+22 Sixth Principle: Integrity and Impartiality
+e Entities and content creators must uphold neutrality and integrity when using Al technologies in the production or
+distribution of media content, ensuring that such technologies are not used to favor any group, entity, or viewpoint
+without professional or legal justification.
+٠ Algorithmic bias and profiling resulting from the use of Al in content must be limited, and efforts must be made to
+ensure fairness and equity in the representation of individuals and different groups.
+e The use of Al technologies to abuse, discriminate against, bully, or disparage individuals or groups, promote
+negative stereotypes, or undermine social cohesion and community peace is prohibited.
+Public
+--- Page 11 ---
+Al Principles in Media
+Y Seventh Principle: Societal Awareness and Public Empowerment
+٠ Enhancing societal awareness is a fundamental element in managing the risks of Al in media and includes
+empowering the public to understand the nature of Al-assisted content, distinguish between real and Al-generated
+content, and recognize the role and limitations of automated systems in producing or distributing content.
+Raising public awareness of responsibilities when sharing or reposting content, encouraging verification of accuracy
+and context before re-sharing, promoting the reporting of misleading or incorrect content, and supporting
+initiatives that enhance media literacy.
+Y Eighth Principle: Impact Assessment and Regulatory Compliance
+٠ Conducting appropriate impact assessments before deploying Al technologies in cases with wide-ranging effects,
+particularly in news, political content, or large-scale public campaigns, to evaluate potential social and ethical
+impacts and implement measures to mitigate associated risks.
+Media and digital content platforms, including cross-border platforms, must comply with local regulations and
+content controls when targeting audiences within Saudi Arabia, regardless of platform location or the operating
+entity.
+Public
+--- Page 12 ---
+Al Principles in Media
+Sixth: Mechanisms for Dealing with Violations
+In the event of suspected deepfake content, misleading or harmful content resulting from the use of Al
+technologies, or any breach of applicable regulations or content controls, the matter shall be addressed in
+accordance with the following principles:
+٠ Reporting through channels approved by the relevant regulatory authority or the concerned media platform,
+ensuring prompt response and accurate handling.
+٠ Media entities or digital content platforms must take immediate measures to halt the dissemination of
+non-compliant content or restrict access to it until its status is verified.
+٠ Cooperation with relevant authorities by providing the information necessary for verification and processing,
+including content sources and the mechanisms of its production or circulation, when required by law.
+e Addressing the impact of non-compliant content through correction, removal, or notification, as appropriate,
+while preserving the rights of affected parties and enhancing public trust.
+e Enhancing preventive measures to avoid recurrence, including reviewing internal policies and strengthening
+monitoring and auditing mechanisms.
+The foregoing does not affect any other regulatory obligations established under applicable laws and
+regulations.
+Public
+--- Page 13 ---
+Al Principles in Media
+Seventh: Conclusion
+These principles constitute a national guiding framework for the use of Al in media and
+complement applicable laws, regulations, and content controls. They shall not be interpreted in a
+manner that undermines the competencies of regulatory authorities or exempts any party from
+existing regulatory obligations.
+These principles may be reviewed and updated periodically as technological and regulatory
+developments evolve, to maintain a balanced approach that supports media innovation, protects society,
+and strengthens trust in media content.
+This document also calls on media entities, digital content platforms, and content creators to adopt these
+principles within their policies and professional practices, contributing to the development of a
+responsible, safe, and reliable media environment amid rapid digital transformation.
+Public

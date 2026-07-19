@@ -1,0 +1,610 @@
+--- Page 3 ---
+Contents
+1. Executive Summary
+2. Methodology in Preparing the Saudi Academic Framework for Al Qualifications
+3. Objectives of the Saudi Academic Framework for Al Qualifications
+Chapter One: Benchmarks
+Chapter Two: Al Qualifications in the Kingdom of Saudi Arabia
+Chapter Three: Learning Outcomes for Each Qualification
+Chapter Four: Knowledge Units
+--- Page 4 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+1. Executive Summa
+The Saudi Academic Framework for Al Qualifications (Education Intelligence), issued by the Saudi Data 6
+Al Authority (SDAIA), serves as a comprehensive guide for the development, evaluation, and accreditation
+of higher education programs in artificial intelligence (Al). This document constitutes a trusted and recog-
+nized reference for Al education in the Kingdom of Saudi Arabia.
+The development of this framework meticulously considered recognized scientific methodologies. An in-
+tegrated approach was adopted, combining descriptive, historical, and future-predictive methodologies in
+this rapidly evolving field. Flexibility and adaptability were prioritized to ensure the frameworks alignment
+with this dynamic landscape, empowering educational and training institutions to foster innovation and
+continuous development.
+The framework focuses on the specifications and quality assurance of curricula for academic and training
+programs in Al. Moreover, it outlines the Al qualifications granted in the Kingdom of Saudi Arabia based
+on global benchmarks, elaborating on the general learning outcomes for graduates of each of these qual-
+ifications.
+This framework is comprised of four core chapters:
+First: Benchmarks: This chapter is divided into two sections:
+1. Specialized Frameworks in the Kingdom of Saudi Arabia: an overview and summary of the
+frameworks available in the Kingdom of Saudi Arabia that are relevant to the Saudi Framework
+for Al Qualifications.
+2. Local and International Benchmarks: an overview of a number of prestigious educational and
+training institutions worldwide.
+--- Page 5 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Second: Al Qualifications in the Kingdom of Saudi Arabia:
+This chapter reviews the qualifications and certifications awarded in the Kingdom of Saudi Ara-
+bia in accordance with the National Qualifications Framework (NQF) and the Saudi Standard
+Classification of Educational Levels and Specializations.
+Third: Learning Outcomes for Each Qualification:
+For each educational qualification, general learning outcomes have been established based on
+the specific learning domains outlined in the National Qualifications Framework, with consider-
+ation for the progressive nature of qualification levels.
+Fourth: Knowledge Units for Each Qualification:
+Outlines the knowledge as well as core and elective subjects offered within each Al qualification.
+It is based on benchmarking practices within and outside the Kingdom, ensuring flexibility and
+adaptability in light of the anticipated rapid advancements in Al fields.
+--- Page 6 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+2. Methodology in Preparing the Saudi Academic Framework for Al Qualifications
+An integrated approach was adopted in developing this framework, utilizing a combination of
+methodologies, including descriptive, analytical, and inductive approaches, to ensure precise
+and aligned outcomes with national plans and global trends. The following procedures were
+followed:
+Review existing frameworks in Saudi Arabia, such as the National Qualifications
+Framework, Saudi Standard Classification of Educational Levels and Specializations, and
+Saudi Standard Classification of Occupations.
+Develop an initial conception for each key theme.
+Discuss proposals with stakeholders and beneficiaries through workshops.
+9  Curate and Integrate the key themes.
+Finalize the Saudi Academic Framework for Al Qualifications.
+--- Page 7 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Terminology
+Qualification
+A collection of learning outcomes encompassing Knowledge, skills, values, and attributes ac-
+quired by a learner. It is issued in the form of a document (certificate, diploma, or degree) by a
+recognized educational or training institution as a recognized granting body.
+National Qualifications Framework
+A comprehensive and unified system for placing, designing, developing, and recognizing all
+academic qualifications in the Kingdom of Saudi Arabia.
+Scope of the Saudi Academic Framework for Al Qualifications
+A comprehensive and unified system for placing, designing, developing, and recognizing the
+qualifications of Al specializations in the Kingdom of Saudi Arabia.
+Qualification Placement
+Mapping of qualifications issued by recognized national or international education and training
+granting bodies to the corresponding levels of the National Qualifications Framework.
+Credit Hours
+The learning time required to earn the qualification it is measured in the number of actual hours
+necessary to achieve the qualifications learning outcomes (one credit hour is no less than 50
+minutes over 15 weeks or its equivalent).
+Learning Domains
+Comprising the knowledge, understanding, skills, values, and attributes that a learner is expect
+ed to acquire at a specific qualification level. Learning outcomes are constructed in light of
+these domains.
+Learning Outcomes
+The specific knowledge, skills, and behaviors that a learner is expected to acquire and demon-
+strate in the learning or work domain. They represent the culmination of the learning process.
+--- Page 8 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Levels of the National Qualifications Framework
+There are eight levels for the qualification placement of public education, technical and voca-
+tional training, and higher education sectors: academic, applied, civil research, and military.
+Qualification Alignment
+Mapping of qualifications issued by accredited educational or training institutions in the King-
+dom of Saudi Arabia to the corresponding levels of the National Qualifications Framework.
+3. Objectives of the Saudi Academic Framework for Al Qualifications
+As SDAIA is the authorized entity to establish a framework that defines the recognized
+qualifications in the Kingdom of Saudi Arabia, it has identified the following objectives
+for this document:
+1. Serve as a guideline for the development, evaluation, and accreditation of higher education
+programs in Al.
+2. Contribute to establishing minimum curricular requirements for higher education programs in
+the field of Al.the field of Al.
+Scope of the Saudi Academic Framework for Al Qualifications
+This framework encompasses post-secondary educational programs in Al specializations, in-
+cluding:
+Go Associate Degree is Intermediate and Advanced Diplomas
+i Bachelors Degree Higher Diploma
+Go Masters Degree iS Doctor of Philosophy (PhD)
+--- Page 9 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Given the rapid development in this field, the framework addresses the knowledge units re-
+quired in this specialization with a degree of generality. This provides educational institutions
+with the required flexibility to make the necessary changes to their curricula to keep pace with
+global developments in this field.
+This framework can be applied to educational programs and academic degrees in Al speciali-
+zations offered by public and private post-secondary educational institutions in the Kingdom of
+Saudi Arabia. This framework encompasses Al educational programs in general without delving
+into specialized programs in subfields of Al.
+--- Page 10 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Chapter One: Benchmarks
+1. Specialized Frameworks in the Kingdom of Saudi Arabia
+A. National Qualifications Framework
+The 2020 edition of the National Qualifications Framework serves as the overarching reference
+for all qualifications granted by educational institutions upon completion of academic pro-
+grams. This framework delves into the nature, types, and progressive levels of qualifications,
+specifying the credit hours associated with each qualification and the required learning out-
+comes for each qualification level. It represents a comprehensive and unified system for devel-
+oping, organizing, and placing qualifications at various levels based on learning outcomes. It
+provides a common language and a scientific benchmark while also serving as an instrument
+to facilitate the transfer of knowledge, skills, and values across diverse work environments at
+both national and international levels. The framework aims to establish an integrated system
+that ensures a high standard of quality, competitiveness, and international recognition for na-
+tional qualifications.
+Levels: The framework defines 8 levels of qualifications, from the Elementary Level (Level 1) to the
+Doctoral Level (Level 8).
+Credit Hours: The framework has specified the minimum number of credit hours for each qualification
+in accordance with global standards.
+Learning Outcomes: Three main learning domains have been identified: knowledge, comprehension,
+skills, values, independence, and responsibility.
+--- Page 11 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+B. Saudi Standard Classification of Educational Levels and Specializations (Ministry of Education)
+This classification describes and classifies educational specializations, fields, and levels availa-
+ble to individuals throughout their lives. It encompasses a diverse range of planned educational
+programs within the national context at the following levels: elementary, intermediate, second-
+ary, post-secondary non-higher education, higher education, various training programs, adult
+literacy and education programs, continuing education, e-learning, technical and vocational
+education, special education, provided that the individual has obtained an educational quailifi-
+cation recognized by the relevant authorities. The classification includes all forms of education
+(systemic and non-systemic) as long as participants are awarded a certified and recognized cer-
+tificate or document approved by the official competent authorities in the Kingdom and meets
+the minimum standards for program admission and completion, as specified in the guidelines
+classification criteria. This classification framework has been designed to facilitate its applica-
+tion in a variety of areas, including:
+Education planning and development.
+Educational and vocational planning for learners.
+Employment and labor market development.
+Education statistics.
+--- Page 12 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+2. Local and International Benchmarks:
+(10) North America 10 universities from the following countries were reviewed:
+(US, Canada)
+Z ع
+بع كي Universities: University of Chicago, Stanford University, Har-
+vard University Illinois Institute of Technology, University of
+Michigan, Carnegie Mellon, University Massachusetts Insti-
+tute of Technology (MIT), Columbia University, University of
+California Berkeley (UCB), University of Toronto
+10 universities from the following countries were reviewed:
+(UK, Germany, France, Italy, Belgium, Switzerland)
+Universities: University of Edinburgh, University of Sheffield,
+University of Oxford, Imperial College London, University of
+Cambridge, Technical University of Munich, PSL University
+Politecnico di Milano, Leuven, ETH
+--- Page 13 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+14 universities from the following countries were reviewed:
+(Saudi Arabia, India, China South Korea, Singapore, Hong Kong, Japan)
+Universities: King Saud University, Princess Nourah Bint Abdul-
+rahman University Imam Abdulrahman Bin Faisal University, King
+Abdulaziz University, King Fahd University of Petroleum and Min-
+erals, Indian Institute of Science, The Hong Kong Polytechnic
+University, Chinese University of Hong Kong, Tsinghua Universi-
+ty, Seoul National University Korea Advanced Institute of Science
+Technology (KAIST), Nanyang Technological University, Hong
+Kong University of Science and Technology, University of Tokyo
+(2) Australia Two universities from the following country were reviewed:
+(Australia)
+Universities: Deakin University, University of Melbourne
+--- Page 14 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Chapter Two: Al Qualifications in the Kingdom of Saudi Arabia:
+Al Qualifications in the Kingdom of Saudi Arabia
+Associate Diploma Qualification
+Admission Requirements
+Secondary school diploma or equivalent
+Equivalent diploma in any applied sciences field
+Must meet the minimum English language admission requirements (IELTS 5.5 or TOEFL 550)
+Qualification level according to NQF
+Fourth
+Saudi Standard Classification
+Intermediate  Advanced Diploma Qualification
+Admission Requirements
+Technical diploma in any field
+Must meet the minimum English language admission requirements (IELTS 5.5 or TOEFL 550)
+Qualification level according to NQF
+Fifth
+Saudi Standard Classification
+--- Page 15 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Bachelors Degree (Al)
+Admission Requirements
+Secondary school diploma or equivalent
+Qualification level according to NQF
+Sixth
+Saudi Standard Classification
+Bachelors Degree (Computer Science Al Track)
+Admission Requirements
+Secondary school diploma or equivalent
+Qualification level according to NQF
+Sixth
+Saudi Standard Classification
+Bachelors Degree (Information Technology Al Track)
+Admission Requirements
+Secondary school diploma or equivalent
+Qualification level according to NQF
+Sixth
+Saudi Standard Classification
+--- Page 16 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Higher Diploma Qualification (Specialists)
+Admission Requirements
+Secondary school diploma or equivalent
+Qualification level according to NQF
+Sixth
+Saudi Standard Classification
+Higher Diploma Qualification (Non-Specialists)
+Admission Requirements
+Secondary school diploma or equivalent
+Qualification level according to NQF
+Sixth
+Saudi Standard Classification
+Masters Qualification
+Admission Requirements
+Bachelors Degree in Computer Science or related fields, in addition to Engineering, Physics,
+Mathematics, and Statistics. The student should complete a set of supplementary courses as
+determined by the department.
+Qualification level according to NQF
+Seventh
+Saudi Standard Classification
+--- Page 17 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Doctoral Qualification
+Admission Requirements
+Masters Degree in Computer Science or related fields, in addition to Engineering, Physics,
+Mathematics, and Statistics. The student should complete a set of supplementary courses as
+determined by the department.
+Qualification level according to NQF
+Eighth
+Saudi Standard Classification
+Qualification Titles within the Framework:
+Associate Diploma
+Intermediate  Advanced Diploma
+Bachelors Degree Al Program  Al Track
+Higher Diploma Specialists  non-specialists
+Masters Degree
+Doctoral Degree
+--- Page 18 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Chapter Three: Learning Outcomes for Each Qualification
+1. Associate Diploma
+General learning outcomes for Associates Degree programs in Al
+Knowledge
+Graduates should be able to demonstrate knowledge of:
+A limited set of concepts, principles, and theories in mathematics, statistics, and computer
+science, with some theoretical and technical depth in one or more areas of Al.
+A limited set of knowledge and understanding of the processes, algorithms, techniques, and
+tools associated with the field.
+A limited set of knowledge in one of the fundamental branches of Al, including research meth-
+odologies and methods as well as semi-guided inquiry techniques.
+Skills
+Graduates should be able to:
+Cognitive Skills:
+Apply relevant Al theories and principles, machine learning algorithms, and mathematical
+models and adapt them to specific and novel contexts.
+Analyze moderately complex and novel problems and issues, as well as apply, develop, and
+implement relevant Al models and systems, machine learning algorithms, and mathematical
+models to find solutions.
+Employ critical thinking to provide innovative and effective solutions to programming prob-
+lems, automate processes, develop intelligent decision support systems, and simulate real-world
+scenarios in moderately complex and novel contexts.
+Conduct research or inquiries into novel issues and problems.
+--- Page 19 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Communication and Information Technology Skills:
+Effective verbal communication to present Al solutions and results, and to convey and interpret
+findings to both specialists and non-specialists.
+Effective written communication to convey ideas or information, utilizing data and dictionaries.
+Utilize and interpret moderately complex and novel numerical data and graphical representa-
+tions in the field of Al.
+Values, Responsibility, and Autonomy
+Within moderately complex and novel contexts, graduates should be able to:
+Demonstrate awareness of the Al professionals code of ethics and exhibit responsible citizen-
+ship.
+Manage self-directed learning and work, making learning and task-related decisions to achieve
+goals and plans with a degree of autonomy.
+Work collaboratively with diverse teams as a leader or member, demonstrating a sense of re-
+sponsibility towards oneself and society.
+--- Page 20 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+2. Intermediate Diploma or its equivalent
+General learning outcomes for Intermediate Diploma programs in Al or their equivalent.
+Knowledge
+Graduates should be able to demonstrate knowledge of:
+A set of concepts, principles, and theories in mathematics, statistics, and computer science,
+with theoretical and technical depth in one andor more areas of Al.
+A set of specialized knowledge and understanding of the processes, algorithms, techniques,
+and tools associated with Al andor one of its branches.
+The ethical implications of emerging issues in Al.
+The fundamentals of research methodology, and methods and inquiry techniques.
+Skills
+Graduates should be able to:
+Cognitive Skills:
+Apply relevant Al theories and principles, machine learning algorithms, and mathematical
+models and adapt them to specific and novel contexts.
+Analyze moderately complex and novel problems and issues, as well as apply relevant Al prin-
+ciples, machine learning algorithms, and mathematical models to find solutions.
+Employ critical thinking and creativity to devise innovative solutions for automating operations,
+developing intelligent decision support systems, and simulating real-world scenarios in moder-
+ately complex, novel contexts.
+Conduct research or inquiries into novel issues andor problems.
+--- Page 21 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Communication and Information Technology Skills:
+Communicate knowledge and skills in Al or its subfields through written and oral communica-
+tion, and deliver presentations to diverse audiences effectively.
+Utilize and interpret moderately complex and novel numerical data and graphical representa-
+tions in the field of Al.
+Values, Responsibility, and Autonomy
+Within moderately complex and novel contexts, graduates should be able to:
+Uphold academic values and ethical code of the Al profession, and exhibit responsible citizen-
+ship when addressing Al issues with ethical implications.
+Manage self-directed learning and work, making learning and task-related decisions to achieve
+goals and plans with a moderate degree of autonomy.
+Work collaboratively with diverse teams as a leader or member, demonstrating a moderate
+sense of responsibility towards oneself and society.
+Z
+a
+pS
+--- Page 22 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+3. Bachelors Degree (Level 6)
+A. Bachelors Degree Program in Al
+Knowledge
+Graduates should be able to demonstrate knowledge of:
+A comprehensive, in-depth, and integrated framework of concepts, principles, and theories in
+mathematics, statistics, and computer science.
+A profound understanding of data structures, algorithms, and Al techniques, along with the latest
+best practices in the field.
+A broad range of specialized knowledge and understanding based on recent advancements in Al,
+such as computer vision, robotics, and natural language processing.
+A grasp of research methodologies and methods, inquiry techniques, and an awareness of the
+ethical implications of emerging issues in Al.
+Skills
+Graduates should be able to:
+Cognitive Skills:
+Apply relevant Al theories and principles, machine learning algorithms, and mathematical
+models to diverse contexts
+Analyze complex and diverse problems and issues, as well as apply relevant Al principles,
+machine learning algorithms, and mathematical models to find solutions.
+Employ critical thinking and creativity to devise, develop, and implement innovative solutions
+for automating operations, developing intelligent decision support systems, and simulating re-
+al-world scenarios in complex and diverse contexts.
+Apply scientific research methodologies and reliable inquiry techniques to conduct research
+and projects in the field of Al.
+--- Page 23 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Communication and Information Technology Skills:
+Written and oral communication to convey specialized knowledge and complex ideas in the field of Al or
+one of its branches and present them in a clear and concise manner to diverse audiences.
+Apply mathematical operations and quantitative methods to process data and information in complex
+and diverse Al contexts.
+Values, Responsibility, and Autonomy
+Within complex and diverse contexts, graduates should be able to:
+Uphold academic values and the Al professions code of ethics, in addition to demonstrating responsible
+citizenship.
+Engage in continuous self-development and make independent work or learning decisions based on
+compelling evidence.
+Manage practical and research tasks and projects in a professional manner.
+Collaborate effectively, build, and lead diverse teams, performing a wide range of tasks responsibly.
+Actively participate in advancing the Al field to serve and develop society.
+B. Al Track Bachelors Degree
+Knowledge
+Graduates should be able to demonstrate knowledge of:
+A comprehensive, in-depth, and integrated framework of concepts, principles, and theories in mathemat-
+ics, statistics, and computer science.
+A profound understanding of data structures, algorithms, and Al techniques, along with the latest best
+practices in the field.
+A broad range of specialized knowledge and understanding based on recent advancements in Al, such
+as computer vision, robotics, and natural language processing.
+A grasp of research methodologies and methods, inquiry techniques, and an awareness of the ethical
+implications of emerging issues in Al.
+--- Page 24 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Skills
+Graduates should be able to:
+Cognitive Skills:
+Apply relevant Al theories and principles, machine learning algorithms, and mathematical
+models to diverse contexts.
+Analyze complex and diverse problems and issues and apply relevant Al principles, machine
+learning algorithms, and mathematical models to find solutions.
+Employ critical thinking and creativity to devise, develop, and implement innovative solutions
+for automating operations, developing intelligent decision support systems, and simulating re-
+al-world scenarios in complex and diverse contexts.
+Apply scientific research methodologies and reliable inquiry techniques to conduct research
+and projects in the field of Al.
+Communication and Information Technology Skills:
+Written and oral communication to convey specialized knowledge and complex ideas in the
+field of Al or one of its branches and present them in a clear and concise manner to diverse au-
+diences.
+Apply mathematical operations and quantitative methods to process data and information in
+complex and diverse Al contexts.
+--- Page 25 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Values, Responsibility, and Autonomy
+Within complex and diverse contexts, graduates should be able to:
+Uphold academic values and the Al professions code of ethics, in addition to demonstrating
+responsible citizenship when addressing the ethical implications of emerging issues in Al.
+Engage in continuous self-develooment and make independent work or learning decisions
+based on compelling evidence.
+Manage practical and research tasks and projects in a professional manner.
+Collaborate effectively, build, and lead diverse teams, performing a wide range of tasks re-
+sponsibly.
+Actively participate in advancing the Al field to serve and develop society.
+--- Page 26 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+4. Masters Degree (Level 7)
+Masters Degree in Al
+Knowledge
+Graduates should be able to demonstrate knowledge of:
+A specialized, in-depth framework of concepts, principles, and theories in the field of Al.
+A deep understanding of the operations, practices, tools, and techniques in the field of Al or
+one of its branches, including the latest best practices in the field.
+An advanced understanding of recent developments in the field of Al or one of its branches.
+An advanced understanding of research and inquiry methods in the field of Al.
+Skills
+Graduates should be able to:
+Cognitive Skills:
+Analyze complex and advanced problems and issues, as well as apply relevant Al principles
+and theories, machine learning algorithms, and mathematical models to find solutions.
+Critically evaluate, review, and provide informed opinions on concepts, principles, and theo-
+ries in the field of Al andor machine learning, delivering innovative outcomes in complex and
+advanced Al contexts.
+Devise, develop, and implement innovative solutions for automating processes, developing
+intelligent decision support systems, and simulating real-world scenarios in complex and ad-
+vanced contexts.
+Conduct advanced research and professional projects utilizing specialized Al research and
+inquiry methodologies.
+--- Page 27 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Communication and Information Technology Skills:
+Written and oral communication to convey specialized knowledge and complex ideas in the
+field of Al or one of its branches and present them in a clear and concise manner to diverse au-
+diences.
+Identify, select, and utilize advanced technical tools and applications, employing and adapting
+them to process and analyze a wide range of data and information to support pioneering re-
+search andor projects related to the field of Al.
+Values, Responsibility, and Autonomy
+Within complex and diverse contexts, graduates should be able to:
+Uphold integrity and academic and professional values in the field of Al when addressing so-
+cial and ethical issues related to Al.
+Take initiative to plan for continuous self-learning and professional development, and make
+highly independent strategic work or learning decisions.
+Manage specialized practical and research tasks and projects in a highly professional manner.
+Collaborate and participate effectively, leading research projects and teams and assuming a
+high degree of responsibility.
+Actively participate in advancing the Al field to enhance the quality of life in society.
+--- Page 28 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+5. PhD (Level 8)
+Doctoral Degree in Al
+Knowledge
+Graduates should be able to demonstrate knowledge of:
+A deep, specialized, and integrated framework of highly advanced concepts, principles, and
+theories in the field of Al or one of its branches, in addition to some related disciplines.
+A nuanced, detailed understanding of the operations, practices, tools, and techniques in the
+research and applied fields of Al.
+Recent advancements, emerging issues, and challenges in the field of Al and their associated
+societal and ethical implications.
+Cutting-edge and novel Al advancements stemming from original research and scholarly ac-
+tivities in the field of Al.
+Skills
+Graduates should be able to:
+Cognitive Skills:
+Address leading and highly advanced problems in highly complex contexts by employing
+modern and advanced theories in the field of Al andor relevant machine learning algorithms and
+mathematical models.
+Critically evaluate, integrate, and review modern Al concepts, principles, and theories to devel-
+op creative, innovative, and pioneering solutions for designing and implementing highly complex
+and advanced intelligent systems that support decision-making in real-world life challenges.
+Conduct highly advanced research and professional projects to generate original knowledge
+that contributes to the advancement of the field of Al.
+--- Page 29 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Communication and Information Technology Skills:
+Written and oral communication to disseminate and promote original Knowledge and novel
+insights, and to engage in scholarly and professional discourse with peers, specialized groups,
+and the broader community.
+Processing and interpreting quantitative andor qualitative data, and utilizing it to conduct
+high-complexity, cutting-edge research, projects, or innovations in the field of Al.
+Values, Responsibility, and Autonomy
+Within novel and highly complex contexts, graduates should be able to:
+Conduct qualitative research that adheres to Al ethics, relevant ethical principles, and legal
+frameworks.
+Uphold the highest standards of academic and professional integrity in the field of Al when
+addressing emerging issues.
+Continuously develop professional expertise and make fully independent strategic academic
+and professional decisions.
+Manage specialized, pioneering, and research-based practical tasks and projects profession-
+ally and effectively.
+Collaborate and participate effectively, leading research projects and teams and assuming a
+full responsibility.
+Advance the field of Al to contribute to building a knowledge-based society and enhancing the
+quality of life.
+--- Page 30 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Chapter Four: Knowledge Units
+Knowledge Units for Associate, Intermediate, and Advanced Diplomas
+الوحدات المعرفية الأساسية Knowledge Units
+1 مقدمة في الحوسبة Introduction to Computing 1
+2 أساسيات البرمجة Fundamentals of Programming 2
+3 أساسيات الإحصاء والاحتمالات Foundations of Statistics and Probability 3
+4 أساسيات تعلم الآلة Foundation of Machine Learning 4
+5  خوارزميات التحسين Optimization Algorithms 2 5
+6 أساسيات الذكاء الاصطناعي Introduction to Al 6
+7 التعلم العميق Deep Learning 7
+8 معالجة اللغة الطبيعية (اختياري) NLP 8
+9 الرؤية الحاسوبية (اختياري) Computer Vision 9
+10 مقدمة في أخلاقيات الذكاء الاصطناعي Introduction to Al Ethics  10
+11 فترة التدريب Internship 11
+--- Page 31 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Knowledge Units for Bachelors Degree
+الوحدات المعرفية الأساسية Knowledge Units
+1 Linear Algebra الخطي pall 1
+2 Discrete Math الرياضيات المتقطعة 2
+3 Probability and Statistics الإحصاء والاحتمالات 3
+4 Calculus التفاضل والتكامل 4
+5 Introduction to Programming مقدمة في البرمجة 5
+6 Object-Oriented Programming البرمجة الشيئية 6
+7 Design and Analysis of Algorithms تصميم وتحليل الخوارزميات 7
+8 Data Structures هياكل البيانات 8
+9 Introduction to Databases مقدمة إلى قواعد البيانات 9
+10 Introduction to Al أساسيات الذكاء الاصطناعي 10
+11 Introduction to Machine Learning مقدمة في تعلم الآلة 11
+--- Page 32 ---
+الوحدات المعرفية الأساسية
+التمثيل والاستدلال في الذكاء الاصطناعي
+التخطيط والبحث والجدولة
+خوارزميات التحسين
+العملاء الأذكياء
+تحليل وتصوير البيانات
+الرؤية الحاسوبية
+الروبوتات
+أخلاقيات الذكاء الاصطناعي
+فترة التدريب
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Knowledge Units for Bachelors Degree
+Knowledge Units
+12 Deep Learning
+Knowledge Based Reasoning and
+13 Representation
+14 Planning, Searching, and Scheduling
+15 Optimization
+16 Intelligent Agents
+17 Data Analysis and Visualization
+18 NLP
+19 Computer Vision
+20 Robotics and Automation
+21 AlEthics
+22 Internship
+--- Page 33 ---
+Saudi Academic Framework for Al Qualifications(Education Intelligenc)
+Knowledge Units for Masters Degree
+الوحدات المعرفية الأساسية Knowledge Units
+Complete All Basic Knowledge Units إكمال جميع الوحدات المعرفية الأساسية
+1 for The Undergraduate Level لمرحلة البكالوريوس 1
+2 Design and Analysis of Algorithms تصميم وتحليل الخوارزميات 2
+3 Advanced Topics in Artificial Intelligence مواضيع متقدمة في الذكاء الاصطناعي 3
+4 Advanced Topics in Machine Learning مواضيع متقدمة في تعلم الآلة 4
+5 Advanced Topics in One of The Following: مواضيع متقدمة في إحدى الوحدات التالية: الرؤية 5
+الحاسوبية: الروبوتات: معالجة اللغة الطبيعية Computer Vision, Robotics, NLP.
+6 إدارة المشاريع Project Management 6
+7 إتمام رسالة gl مشروع حول موضوع في الذكاء الاصطناعي Project (Research or Capstone) 7
+Knowledge Units for Doctoral Degree (PhD)
+The framework does not specify knowledge units for the PhD qualification. Instead, the units
+are determined based on the programs objectives, learning outcomes, and the fields that the
+doctoral dissertation will cover. This is due to the rapid advancement in the field, and to provide
+educational institutions with the flexibility to adapt to these advancements.
+--- Page 34 ---
+
+--- Page 36 ---
+May 2025 ic. SDAIA
+Saudi Data  Al Authority
+Document Number  SDAIA-P118
+Version Number  1
+SDAIA.GOV.SA QSDAIASA BSDAIA.SAUDI  SDAIA-KSA

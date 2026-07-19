@@ -1,0 +1,638 @@
+--- Page 3 ---
+Draft of Al Cybersecurity Guidelines
+oe
+Disclaimer: The guidelines in this document have been developed based on Artificial
+intelligence (AI) cybersecurity best practices, and it is for awareness purposes, in order to reduce
+and mitigate cybersecurity risks related to AI systems. NCA assumes no responsibility or
+liability for direct or indirect results of any actions taken based on the information contained
+in this document. In addition, any contradictions found between this document and the laws
+and regulation, the entity shall be subjected to the related laws and regulation, NCA strongly
+recommends each entity to regularly conduct their own assessments to those risks.
+Document Classification: Public 3 TLP:
+--- Page 4 ---
+Draft of Al Cybersecurity Guidelines
+a
+Traffic Light Protocol (TLP):
+This protocol is widely used around the world and comprises four colors (light signals):
+Red (Personal and Confidential- for the Intended Recipient Only)
+The recipient is not authorized to share the red-classified material with any
+individual, whether inside or outside the entity sharing is strictly prohibited beyond
+the defined scope of receipt.
+Amber Strict (Internal Sharing within the Same Entity)
+The recipient may share the information only with the intended recipients inside
+the entity.
+Amber (Restricted Sharing)
+The recipient may share the information only with the intended recipients inside
+the entity or with recipients who are required to take action related to the shared
+information.
+Green (Sharing within the Same Community)
+The recipient may share the information with others within the same entity or with
+entities that have a relevant relationship or operate within the same sector however,
+it is not permitted to disseminate or publish the information via public channels.
+Clear (No Restrictions)
+TLP:
+Document Classification: Public
+--- Page 5 ---
+TLP:
+Draft of Al Cybersecurity Guidelines
+Table of Contents
+Executive Summary
+Introduction
+Objectives
+Scope of Work and Applicability
+Overview of Al and Al cybersecurity Risks
+Al Cybersecurity Gudeilines Domains and Structure
+AICG Documentation Structure
+Al Cybersecurity Guidelines
+Annexes
+Annex No. (A): Terminologies and Definitions
+Annex No. (B): List of the Abbreviations
+List of the Figures and Illustrations
+Figure 1: the Main Objectives of AICG
+Figure 2: Sample of the components of Generative and Agentic Al systems
+Figure 3: Al Attack techniques
+Figure 4: AICG Coding Scheme
+Figure 5: AICG Structure
+List of Tables
+Table 1. Main Domains and Subdomains of Al Cybersecurity Guidelines
+Table 2. AICG Structure
+Table 3. Terms and Definitions
+Table 4. List of Abbreviations
+Document Classification: Public 5
+--- Page 6 ---
+Draft of Al Cybersecurity Guidelines
+rr
+Executive Summary
+Pursuant to its statute issued by Royal Order No. (6801), dated 11021439H (31102017), the
+National Cybersecurity Authority (NCA) is the competent authority nationally in charge of
+cybersecurity in the Kingdom, And the national reference in its affairs. The NCA powers and
+duties include, but not limited to, the development of cybersecurity policies, governance
+mechanisms, frameworks, standards, controls, and guidelines to support the important role of
+cybersecurity which has increased with the rise of cybersecurity risks in cyberspace more than
+any time before.
+Artificial intelligence (AI) technologies are evolving at a rapid pace, giving rise to cybersecurity
+vulnerabilities and risks that may differ in nature from traditional cybersecurity risks. With the
+continued advancement of AI, such as generative AI and agentic AI cybersecurity
+considerations can sometimes lag behind innovation. This evolving landscape gives rise to new
+and complex cybersecurity risks, necessitating dedicated guidelines tailored specifically to AI
+systems, integrated not only during the design and development phases, but sustained
+throughout the entire lifecycle, including deployment, ongoing use and retirement.
+In this context, the AI Cybersecurity Guidelines (AICG-1: 2026) have been developed after
+conducting a comprehensive study of multiple international related cybersecurity guidelines,
+standards, frameworks, and controls, analyzing current status of national initiatives, statistics,
+and regulatory requirements to address the unique cybersecurity risk profile of AI technologies
+faced by entities.
+Document Classification: Public TLP:
+--- Page 7 ---
+Draft of Al Cybersecurity Guidelines
+Introduction
+The National Cybersecurity Authority (referred to in this document as The Authority or
+NCA) developed the AI Cybersecurity Guidelines (AICG - 1: 2026) after conducting a
+comprehensive study of multiple national and international cybersecurity frameworks,
+standards and controls, and reviewing common industry practices and experiences in the field
+of AI and AI cybersecurity.
+The AI Cybersecurity Guidelines consist of the following:
+4 Main Domains.
+15 Subdomains.
+42 Guidelines.
+Objectives
+The AI Cybersecurity Guidelines (AICG - 1: 2026) has been developed to support the national
+cybersecurity objectives by addressing common cybersecurity risks that are unique to AI
+systems.
+The guidelines are defined to address AI cybersecurity risks across the AI system lifecycle,
+including design and development, deployment, productionoperation, and retirement, and to
+ensure that AI cybersecurity requirements are implemented.
+The scope of AICG includes emerging AI technologies such as generative AI and agentic AI,
+recognizing their distinctive threat vectors and the need for tailored guidelines. Overall this
+document is designed to set the cybersecurity requirements (that has been previously defined
+in NCA other published documents), in the context of AI systems specifically, thereby
+supporting their effective implementation and enhancing cybersecurity across entities.
+Document Classification: Public 7 TLP:
+--- Page 8 ---
+Draft of Al Cybersecurity Guidelines
+ee
+Figure (1) illustrates the main objectives that AICG aims to achieve, which is to emphasize the
+importance of protecting the different components of AI Systems as well as protecting against
+threats arising from the use of AI Systems.
+Application  Evasion attack
+Memory and interaction Training data done
+Components layer leak ١ 9
+inference
+Components
+Protection of the technical AICG targets Mainly ك1 0 م
+components of Al systems
+cybersecurity threats that
+arise from using Al systems
+Planning Al Model Prompt Model input
+Components Components injection leak
+Figure 1: The Main Objectives of AICG
+Scope of Work and Applicability
+NCA advices every entity in the Kingdom that adopts or plans to adopt to use AI systems to
+follow these recommended guidelines and implement the minimum cybersecurity best practices
+in order to minimize cybersecurity risk resulting from the use of AI technology.
+These guidelines are not mandatory. However, they are intended to help maintain and enhance
+the cybersecurity status of the entity while using and adopting AI systems, with the aim of
+ensuring the application of best practices to reduce cybersecurity risks and to increase resilience
+from cybersecurity attack.
+Due to the dynamic nature of cybersecurity threats the NCA encourages entities to periodically
+review and assess cybersecurity risks to determine the need to take additional measures
+regarding AI systems.
+Document Classification: Public TLP: Clear
+--- Page 9 ---
+Draft of Al Cybersecurity Guidelines
+Overview of Al and Al Cybersecurity Threats
+Definition of Al Systems
+According to The Saudi Data  AI Authority (SDAIA), AI Systems are Software systems that
+rely on advanced technologies to predict, generate content, provide recommendations, or make
+decisions, with varying levels of autonomy, depending on the data and the context in which
+they operate.
+Definition of Generative Al
+According to The Saudi Data  AI Authority (SDAIA), Generative AI is A branch of artificial
+intelligence that relies on machine learning techniques and deep neural networks to simulate
+the human ability to produce original data and content.
+Definition of Agentic Al
+According to The Saudi Data  AI Authority (SDAIA), Agentic AI is a software system based
+on AI algorithms, characterized by key features such as perceiving the surrounding
+environment, interpreting information, setting goals, and making decisions autonomously
+without constant human supervision.
+Components of Al Systems
+AI systems consist of a set of distinct interconnected components that ingest data, process
+inputs, learn patterns, and generate outputs. Generative AI systems are built upon a set of core
+components that support content generation and reasoning. In some cases, these systems may
+incorporate additional agentic capabilities that enable planning, tool usage and multi-step task
+1 SDAIA, AI Adoption Framework, Available at:
+2 SDAIA, Artificial Intelligence, Available at:
+3 SDAIA, Artificial Intelligence, Available at:
+Document Classification: Public 9 TLP:
+--- Page 10 ---
+Draft of Al Cybersecurity Guidelines
+COCOCCCCCE سس
+execution to achieve specific objectives. Core Generative AI components may include but not
+limited to:
+1. AI Model Components
+The component responsible for processing input, performing inference, and generating
+outputs. This may include large language model (LLM), multimodal models, or other AI
+models supporting the intended AI capabilities.
+2. Data and Knowledge Repositories Components
+The data repositories and knowledge sources utilized by the AI systems, including enterprise
+documents, databases, knowledge bases, and other internal or external data sources.
+3. Retrieval and Context Management Components
+This component is responsible for retrieving relevant information and providing contextual
+data to the AI model to improve response quality, accuracy and relevance. These capabilities
+may be implemented through retrieval mechanisms including Retrieval-Augmented
+Generation (RAG) architectures.
+4. Application and interaction layer Components
+The interfaces through which users and external systems interact with the AI system,
+including chat interfaces, user prompts virtual assistant and APIs.
+AI systems incorporating agentic capabilities may include additional component that enable
+autonomous or semi-autonomous execution of task beyond content generation. Examples of
+such components are- but not limited to:
+5. Planning Components
+This component is responsible for decomposing objectives into smaller tasks, determining
+execution sequences and coordinating task completion.
+6. Memory Components
+10
+Document Classification: Public TLP:
+--- Page 11 ---
+Draft of Al Cybersecurity Guidelines
+Sooo
+This component maintains contextual information, historical interaction, intermediate
+result and task related information to support continuity and decision making through task
+execution.
+7. Tool Integration Components
+This component enables interaction with external tools, applications, services, databases,
+APIs, enterprise systems and standardized integration protocols to support task execution
+and information retrieval, this may include components such as Model Context Protocol
+(MCP) server, API gateways, connectors, plugins and service adapters that allow AI models
+or agents to securely access approved tools and data sources.
+Figure (2) illustrates some of the components of Generative and Agentic AI systems and the
+need for their components to interact outside of AI systems.
+Sample of Al System Components
+Agentic Al Systems Components
+Tool Integration Planning
+Components Components
+Generative Al Systems M
+Components (Learning and emory
+inferencing Components) Components
+Generative Al Systems Components
+Data and Knowledge Al Model
+Repositories Components
+Application and Retrieval  Context
+Interaction Components Management Components
+8 Components that need to interact outside Al systems i  Component that interact within the Al systems only
+Figure 2: Some of the Components of Generative and Agentic Al Systems
+Overview of Major Al Cybersecurity Threats
+As using artificial intelligence (AI) brings transformative capabilities to entities, it also
+introduces a set of cybersecurity threats that must be managed and mitigated. As AI systems
+rely on large volumes of data, complex algorithms, and interconnected compute environments,
+Document Classification: Public 11 TLP: Clear
+--- Page 12 ---
+Draft of Al Cybersecurity Guidelines
+oo
+they create a new set of specialized attack surfaces that can be exploited by attackers. This new
+set of specialized attack surfaces includes data poisoning, model inversion, evasion attacks, and
+supply-chain compromises of training datasets or model repositories. Because AI decisions
+often drive critical processes, any manipulation or leakage of the underlying models can result
+in misinformation, unauthorized actions, or loss of confidentiality, integrity or availability of
+sensitive information. Effective threat mitigation therefore requires a holistic approach that
+includes secure data handling, robust model governance, continuous monitoring for anomalous
+behavior, rigorous testing against adversarial attacks, in alignment with established
+cybersecurity controls such as the Essential Cybersecurity Controls (ECC). Figure (3) showcases
+a multitude of attack threats that might be used to target AI systems.
+Non exhaustive
+Evasion Membership  Model Model 0 A
+Data poisoning All attack 8 interference - exfiltration ص inversion عملا ف (PEST
+Unauthorized Injection Unauthorized Infer whether a Extract or replicate Unauthorized Alter the model or its
+of malicious or Manipulation of input specific data sample maliciously a models recovery of sensitive training pipeline
+corrupted data into data with was used in model functionality by training data features directly to manipulate
+training (or continuous imperceptible training by analyzing systematically by exploiting model its behaviour without
+learning) datasets to perturbations to cause  model responses to querying it or copying outputs and modifying the
+degrade model integrity the model to produce crafted queries. its parameters confidence signals training data
+or induce targeted incorrect outputs at
+misclassification inference time
+Training data  Model so Sensitive 7 Prompt Output
+leak input leak  injection 4 injection attack -
+Steal model Gain unauthorized Compromise the Expose confidential Embed malicious Generate model
+parameters or access to sensitive confidentiality of training data or instructions within outputs containing
+architecture from training or test sensitive input data copyrighted content input prompts to executable or
+development or datasets provided to the model through normal or override system malicious code that
+production during operation adversarial model constraints and triggers downstream
+environments outputs induce unintended system vulnerabilities
+behavior
+Model sub-component under attack (9 Training data (Model artefact  Inference input  Inference output
+oe Model  e Al applications 9و
+Figure 3: Al Cybersecurity Threats
+Document Classification: Public 12 TLP: Clear
+--- Page 13 ---
+Draft of Al Cybersecurity Guidelines
+Al Cybersecurity Guidelines Domains and Structure
+Main Domains and Subdomains
+Table (1) below shows the Main Domains and Subdomains of AI cybersecurity Guidelines.
+Cybersecurity in Information and
+Cybersecurity Risk Management
+Technology Project Management
+1. Cybersecurity
+Governance
+Cybersecurity Awareness and
+Cybersecurity in Human Resources
+Training Program
+Asset Management Identity and Access Management
+Network Security Management Data and Information Protection
+Backup and Recovery Management Vulnerability Management
+2. Cybersecurity
+Defense
+Cybersecurity Event Logs and
+Penetration Testing
+Monitoring Management
+Web Application Security
+3. Cybersecurity
+Cybersecurity Resilience Aspects of Business Continuity Management (BCM)
+Resilience
+4. Third-Part
+y Third-Party Cybersecurity
+Cybersecurity
+Table 1: Main Domains and Subdomains of Al Cybersecurity Guidelines
+Document Classification: Public 13 TLP: Clear
+--- Page 14 ---
+Draft of Al Cybersecurity Guidelines
+i
+AICG Documentation Structure
+The AICG itself is referred to as described in Figure (4) and Figure (5).
+Al Cybersecurity Year of Issuance
+Guidelines
+Figure 4: AICG Coding Scheme
+Subdomain No.
+Guidelines No.
+Figure 5: AICG Structure
+Document Classification: Public 14 TLP: Clear
+--- Page 15 ---
+Draft of Al Cybersecurity Guidelines
+Table (2) below shows the methodological structure of the Guidelines.
+- Name of Main Domain
+Reference number
+Name of Subdomain
+of the Main Domain
+Objective
+Guidelines
+Guidelines
+Guidelines Clauses
+Reference Number
+Table 2: AICG Structure
+Document Classification: Public 15 TLP: Clear
+--- Page 16 ---
+Draft of Al Cybersecurity Guidelines
+oo
+Al Cybersecurity Guidelines
+Q-  Cybersecurity Governance
+Cybersecurity Risk Management
+To ensure that AI cybersecurity risks are managed in a methodological approach in order to
+Objective  protect the entitys information and technology assets as per organizational policies and
+procedures, and related laws and regulations.
+Guideline
+Define, document, approve and implement cybersecurity risk management practices across
+1-1-1
+all the lifecycle of AI systems.
+Conduct a cybersecurity risk assessment to classify AI agents actions by potential impact,
+1-1-2
+likelihood and reversibility, and apply appropriate safeguards.
+Cybersecurity in Information and Technology Project Management
+To ensure that AI cybersecurity requirements are included in information and technology
+Objective
+project management practices throughout the lifecycle of AI systems.
+Guideline
+Implement security by design across the AI systems lifecycle, along with defining and
+implementing procedures to secure AI development and operation, from the definition of
+1-2-1 cybersecurity requirements and secure data acquisition, through model training, fine-tuning,
+prompt configuration, evaluation, deployment, operation and maintenance to
+decommissioning.
+Treat the data retrieved from external tools, memory bases, or third-party APIs as untrusted,
+1-2-2 and apply strict validation and sanitization to any data injected into the context window to
+prevent the execution of malicious commands disguised as data.
+Avoid model retraining or uncontrolled learning directly in production, unless explicitly
+mes justified with cybersecurity risk assessed and protected by specific controls.
+Continuously asses the cybersecurity capabilities and resilience of AI agents throughout the
+1-2-4
+development lifecycle.
+Document Classification: Public 16 TLP: Clear
+--- Page 17 ---
+Draft of Al Cybersecurity Guidelines
+ee
+Conduct a systematic cybersecurity code review, cybersecurity testing and formal approval
+1-2-5 of all Al-generated code to address cybersecurity risks before use in development,
+integration or production environments.
+Establish and enforce approval processes for high-impact AI prior to production
+1-2-6
+deployment, ensuring cybersecurity risks are assessed, addressed.
+Implement a graduated autonomy to increase AI agent independence, ensuring continuous
+1-2-7 human oversight and oversight to monitor and understand cybersecurity-related decisions
+and actions.
+1-3 Cybersecurity in Human Resources
+To ensure that AI cybersecurity risks and requirements related to personnel are managed
+Objective  efficiently prior to employment, during employment and after terminationseparation as per
+organizational policies and procedures, and related laws and regulations.
+Guidelines
+Conduct screening or vetting on personnel who have access to internal AI systems
+1-3-1 components or who have privileged access on production AI environments, or other AI
+functions that have high risks.
+Ensure confidentiality, acceptable use, and secure handling obligations for all personnel whose
+1-3-2
+roles may expose sensitive data, prompts, outputs, or configurations through AI systems.
+1-4 Cybersecurity Awareness and Training Program
+To ensure that personnel and users receive Al-specific cybersecurity awareness and training
+Objective
+commensurate with their roles and the cybersecurity risks associated with AI systems.
+Guidelines
+Include AI cybersecurity training for personnel involved in AI system development,
+configuration, or operation, including:
+Secure prompt design, tool design, output handling, and cybersecurity incident
+1-4-1
+reporting.
+Secure handling of sensitive data in prompts and uploads, recognition of Al-related
+cybersecurity threats related to AI (such as prompt injection or data leakage), and
+Document Classification: Public 17 TLP: Clear
+--- Page 18 ---
+Draft of Al Cybersecurity Guidelines
+oo
+validation of outputs, in addition to the awareness of relevant cybersecurity measures
+to protect from the potential security risks.
+Include AI system cybersecurity awareness within the entity overall cybersecurity awareness
+program, including:
+Secure use of prompt and user provided input data when interacting and the Al
+1-4-2 system, including the avoidance of sensitive information in prompt and inputs which
+can cause cybersecurity risks such as data leakage.
+Cybersecurity risks associated with Al-generated code and the required review and
+testing controls before use.
+Document Classification: Public TLP:
+--- Page 19 ---
+Draft of Al Cybersecurity Guidelines
+O-  ovrersecurity Defense
+To ensure that the entity have an accurate and detailed inventory of Al-related
+Objective  information and technology assets in order to support cybersecurity and operational
+requirements and maintain the confidentiality, integrity and availability of those assets.
+Guidelines
+2-1-1 Establish and continuously update an inventory of assets for all AI system components.
+Define asset owners and lifecycle status for assets for all AI system components, including
+2-1-2 experimental, pilot, pre-production, approved production and restricted and retired assets,
+services or configurations.
+Define and implement procedures for the assets and components after using AI systems
+2-1-3
+and during decommissioning such as the secure disposal for AI systems.
+2-2 Identity and Access Management
+To ensure the secure and restricted logical access to Al-related information and technology
+Objective  assets in order to prevent unauthorized access and allow only authorized access for users,
+services and AI agents necessary to accomplish assigned tasks.
+Guidelines
+Define a role-based permissions and authorization policies for human users, service
+accounts, and AI agents while ensure applying identity and access control principles
+2 (Need-to Know and Need-to-Use principle, Least Privilege principle, and Segregation of
+Duties principle).
+Implement periodic review of identities, access rights, tokens, and service accounts used
+2-2-2
+by AI systems.
+Ensure the ability to control authorizations in order to mitigate AI cybersecurity risks
+2-2-3 including rate limiting, usage threshold and other mechanisms to mitigate model
+extraction and data leakage risks.
+2-3 Network Security Management
+Document Classification: Public 19 TLP: Clear
+--- Page 20 ---
+Draft of Al Cybersecurity Guidelines
+ee
+To ensure the cybersecurity of network paths, interfaces and communications used by AI
+Objective systems, including training, tuning, retrieval and inference traffic, and communications
+with external tools and services.
+Guidelines
+Segment the network internal AI system components from external components, not
+explicitly required for their operation and restricting protocols, ports, destinations and
+a egress paths to approved requirements only, in order to enforce trust boundaries and
+detect anomalies.
+Segment the network external AI system components and restrict the access and the
+communications, only as needed for operational purposes, while applying appropriate
+2-3-2
+controls to protect internet-facing systems, reduce the attack surface and detect unusual
+situations.
+2-4 Data and Information Protection
+To ensure the protection of data and information used by, generated by or otherwise
+Objective
+associated with AI systems throughout their lifecycle.
+Guidelines
+Protect the confidentiality and integrity of AI system components data, including training
+data, evaluation data, model weights, prompts, embeddings, logs, contexts and outputs at
+2-4-1
+rest, in transit and during processing, and restrict access and disclosure to authorized
+personnel only.
+Protect the data classified in AI systems at rest, in transit and during processing, based on
+2-4-2
+its classification in accordance to the relevant laws and regulations requirements.
+Protect AI memory components from unauthorized modification and validate stored
+2-4-3
+content to prevent memory poisoning and manipulation.
+Develop guardrails to detect and prevent malicious input, unauthorized actions, sensitive
+2-4-4 information disclosure and any other cybersecurity threats and ensure testing before
+production use and after material changes.
+2-5 Backup and Recovery Management
+Document Classification: Public 20 TLP: Clear
+--- Page 21 ---
+Draft of Al Cybersecurity Guidelines
+ee
+Objective  To ensure secure backup, recovery and rollback arrangements for AI systems.
+Guidelines
+Implement secure backup and recovery mechanisms to ensure availability, integrity, and
+2-5-1
+a timely restoration of AI systems.
+2-5-2 Test backup, recovery and rollback procedures for AI systems periodically.
+2-6 Vulnerability Management
+To ensure that vulnerabilities affecting AI models, applications, infrastructure,
+Objective  dependencies and integrations are identified, assessed, remediated and communicated in
+a timely manner.
+Guidelines
+2-6-1 Identify, track and remediate vulnerabilities in AI systems
+Maintain subscriptions or equivalent access to relevant threat and vulnerability
+2-6-2 intelligence affecting AI systems, and monitor developer security advisories, service status
+updates, cybersecurity alerts.
+Disable or restrict vulnerable AI features, until remediation is validated, when a
+2-6-3
+vulnerability is detected.
+2-7 Penetration Testing
+To assess the effectiveness of cybersecurity guidelines protecting AI systems by simulating
+relevant attack techniques and threat scenarios, in order to identify exploitable
+Objective   cybersecurity vulnerabilities, misconfigurations, and weaknesses prior to deployment and
+periodically thereafter, commensurate with their cybersecurity risk, complexity, and
+exposure.
+Guidelines
+Conduct AI system components and AI system specific penetration testing activities
+2-7-1 before deployment and periodically thereafter, including testing outputs and system
+behavior.
+Conduct AI system testing through different methods such as red teaming and adversarial
+2-7-2
+evaluation and validate human override.
+Document Classification: Public 21 TLP: Clear
+--- Page 22 ---
+Draft of Al Cybersecurity Guidelines
+ee
+Address the discovered findings and vulnerabilities by cybersecurity testing and evaluation
+2-7-3
+and define the proper remediation procedures.
+2-8 Cybersecurity Event Logs and Monitoring Management
+To ensure that logging, monitoring and detection capabilities cover Al-specific events,
+Objective  actions, changes and anomalies needed to support compliance, cybersecurity incident
+response and continuous assurance.
+Guidelines
+Log and monitor cybersecurity-relevant AI components logs, including authentication and
+2-8-1 access events, privileged actions, dataset and knowledge source access, prompt
+configuration changes, plugin and tool invocations.
+Log and monitor actions taken by AI systems and cybersecurity-relevant events, including
+2-8-2 data uploads and downloads, and AI-initiated actions that may impact the confidentiality,
+integrity or availability.
+Protect, retain and analyze cybersecurity-relevant Al-related logs to support compliance,
+2-8-3
+cybersecurity incident response, investigations and vulnerability remediation.
+2-9 Web Application Security
+To ensure that Al-enabled applications, APIs, web interfaces, agents, plugins and related
+Objective
+integrations are designed, developed, configured and operated securely.
+Guidelines
+Protect AI systems web applications and services using secure communication protocols,
+2-9-1 request rate limiting, denial-of-service protections, controlled egress points, and filters to
+block unsafe channels.
+Document Classification: Public 22 TLP: Clear
+--- Page 23 ---
+Draft of Al Cybersecurity Guidelines
+Cybersecurity Resilience
+3-1 Cybersecurity Resilience Aspects of Business Continuity Management (BCM)
+Objective To ensure that AI systems are addressed within business continuity and disaster recovery
+arrangements in a manner commensurate with their importance and dependencies.
+Guidelines
+Define a rollback, safe shutdown and manual alternatives for AI systems in the event of a
+3-1-1
+cybersecurity incident, where applicable.
+-  Third-Party Cybersecurity
+Objective  To ensure that cybersecurity risks arising from third-party entities, components and services
+used in the AI lifecycle are identified, assessed, managed and monitored on an ongoing basis.
+Guidelines
+Assess and Manage cybersecurity risks that may arises from the use of AI systems by third
+4-1-1
+parties and entities
+Assess and manage the cybersecurity of third-party related AI third party components in AI
+4-1-2
+systems components before use and on an ongoing basis.
+Ensure AI Developers compliance with the entity AI cybersecurity requirements is
+4-1-3
+contractually established, and monitoring and periodically assessing such compliance.
+Define exit, portability and secure disposal requirements for AI system components upon
+4-1-4
+developer change or contract termination.
+Document Classification: Public 23 TLP: Clear
+--- Page 24 ---
+Draft of Al Cybersecurity Guidelines
+oo
+Annexes
+Annex No. (A): Terminologies and Definitions
+Table 3 below shows some of the terminologies contained herein, and the meanings as
+described thereto.
+Term Definition
+A software entity or capability that can perceive input, invoke tools or external functions, and
+Al Agent
+act with some degree of autonomy to achieve specified objectives.
+According The Saudi Data  AI Authority (SDAIA), AI systems are Software systems that rely
+on advanced technologies to predict, generate content, provide recommendations, or make
+decisions, with varying levels of autonomy, depending on the data and the context in which
+they operate. This term includes AI enabled services and all the AI system components
+Al System (generative and agentic AI systems) defined in this document such as AI Models Components,
+Data and Knowledge Repositories Components, Retrieval and Context Management
+Component, Application and interaction layer Components, Planning Components, Memory
+Components and Tool Integration Components.
+According to The Saudi Data  AI Authority (SDAIA), Agentic AI is a software system based
+on AI algorithms, characterized by key features such as perceiving the surrounding
+Agentic Al
+environment, interpreting information, setting goals, and making decisions autonomously
+without constant human supervision.
+According to The Saudi Data  AI Authority (SDAIA), Generative AI is A branch of artificial
+Generative
+Al
+intelligence that relies on machine learning techniques and deep neural networks to simulate
+the human ability to produce original data and content.
+Numerical representations of data used by AI systems for retrieval, similarity matching or other
+Embeddings
+model-driven operations.
+Additional training or adaptation of a pre-existing AI model using task-specific or entity-
+Fine-tuning
+specific data.
+The process by which an AI model produces an output from input data, prompts or other
+Inference
+context.
+Document Classification: Public 24 TLP:
+--- Page 25 ---
+Draft of Al Cybersecurity Guidelines
+Definition
+Model
+Weights
+The learned parameters of an AI model that influence its behavior and outputs.
+Input text, instructions or context provided to an AI model to influence its response or action.
+Prompt
+Prompt An attack technique that manipulates prompts, context or retrieved content to alter model
+Injection behavior, bypass controls or induce unauthorized actions.
+YP
+Training
+Data used to train, pre-train, fine-tune or otherwise adapt an AI model.
+Data
+An external function, connector, service or interface that an AI system can invoke or use during
+Tool  Plugin
+operation.
+Table 3: Terms and Definitions
+Annex No. (B): List of the Abbreviations
+Table 4 below shows the abbreviations used in this document.
+Abbreviation Meaning
+Al Artificial Intelligence
+AICG AI Cybersecurity Guidelines
+API Application Programming Interface
+BCM Business Continuity Management
+ECC Essential Cybersecurity Controls
+LLM Large Language Model
+MCP Model Context Protocol
+NCA National Cybersecurity Authority
+RAG Retrieval Augmented Generation
+TLP Traffic Light Protocol
+Table 4: List of Abbreviations
+Document Classification: Public 25 TLP:
+--- Page 26 ---
+National Cybersecurity Authority

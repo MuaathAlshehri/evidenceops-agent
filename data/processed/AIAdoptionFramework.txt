@@ -1,0 +1,1158 @@
+--- Page 3 ---
+Table of Contents
+1. Introduction
+2. Al in Brief
+3. Directions
+4. Enablers
+5. Outcomes
+6. Conclusion
+--- Page 4 ---
+Al Adoption Framework
+1.Introduction
+The world is undergoing a profound transformation fueled by advancements in Al technologies. These
+technologies have become a powerful force in reshaping the landscape of the economy and society,
+redefining enterprise roles, modes of service delivery, and decision-making processes. They have pro-
+gressed from theoretical ideas or experimental tools to practical applications across diverse fields, in-
+cluding healthcare, education, industry, transportation, government, and financial services, establishing
+themselves as key pillars of the Fourth Industrial Revolution.
+Al technologies are no longer a delayed future option, but a competitive necessity for countries and
+organizations wishing to achieve operational efficiency, enable innovation, provide more proactive and
+reliable services, and enhance the investment of data as a national asset. These technologies are ex-
+pected to play a pivotal role in addressing development challenges, raising the quality of life, and en-
+hancing governments readiness for the future, especially as global changes accelerate and data-driven
+models become increasingly used in planning and policy-making.
+Amid these rapid advancements, Saudi Arabia recognizes the enormous potential of Al in supporting
+the objectives of the Saudi Vision 2030, stimulating its digital economy, and strengthening its position as
+a global leader in technology and innovation. Through its National Strategy for Data and Al, Saudi Arabia
+has embraced an ambitious strategy to harness these technologies for effective problem-solving, fos-
+tering new avenues for growth, and achieving lasting economic and social impact, while emphasizing
+the need to uphold the highest standards of governance, privacy, and ethics for their responsible and
+secure use.
+In its capacity as a key national enabler of data and Al, the Saudi Data  Al Authority (SDAIA) presents
+this comprehensive guidance framework to facilitate the adoption of Al technologies across both gov-
+ernment and private sectors. The framework is grounded in SDAIAs organizational mandate, as estab-
+lished by the Council of Ministers Resolution No. (292), dated 2741441 AH, which designates SDAIA
+as the national authority on all matters related to data, including big data and Al, across regulation,
+development, oversight, and integration. This framework is designed to help entities take confident,
+strategic steps toward Al adoption and to guide technology investments for maximum impact, reinforc-
+ing Saudi Arabias global digital leadership.
+--- Page 5 ---
+Al Adoption Framework
+1.1 Purpose
+This framework aims to accelerate smart transformation in government and private entities through the
+systematic and responsible adoption of Al technologies, in alignment with national priorities and with the
+goal of achieving tangible and sustainable impact. The framework focuses on developing an integrat-
+ed enterprise and technological environment that includes a flexible infrastructure, clear organizational
+structures, and supportive policies that enable the implementation of effective, measurable solutions.
+The framework also offers practical tools for planning, implementation, and assessment, boosting the
+readiness of government and private entities while helping align adoption efforts with national strategic
+goals. It places special emphasis on developing human capacity, reinforcing enterprise governance, and
+maintaining a strong commitment to national values.
+This framework serves as a comprehensive practical guide to assist entities in designing and implement-
+ing Al initiatives, generating added value, improving spending efficiency, and positioning technology as a
+core driver of a competitive and sustainable knowledge economy.
+1.2 Target Audience
+The Al Adoption Framework is intended as a practical guide tailored to address the needs of two primary
+categories:
+Government Entities Policymakers and Legislators
+The framework aims to support the integration The framework aims to assess the ecosystems
+of Al technologies within strategies, enhance readiness, identify regulatory gaps, and devel-
+digital infrastructure, and activate enterprise op legislative and ethical frameworks that sup-
+governance to ensure national impact. port the responsible use of Al and promote a
+balance between innovation and societal pro-
+tection.
+--- Page 6 ---
+Al Adoption Framework
+1.3 Scope
+The Al Adoption Framework covers a comprehensive enterprise scope that encompasses all compo-
+nents of adoption within government and private entities and provides practical guidance for planning,
+implementation, and evaluation within regulatory and technical contexts. This involves establishing the
+enterprise and technological foundations, enhancing human capacity, and developing models and tech-
+niques that have a measurable impact on service quality, operational efficiency, and economic outcomes.
+The framework targets all government and private entities, regardless of their specialties and levels of
+digital maturity. It takes into account variations in sectoral and operational contexts, thereby providing
+entities with flexibility in implementation without compromising the principles of systematic adoption. The
+framework focuses on Al applications based on structured and unstructured data, including predictive
+systems, natural language processing, image and video analysis, intelligent automation, and other tech-
+nologies that have a direct impact on performance improvement.
+The framework does not address theoretical scientific research unless it has direct practical application.
+It also does not establish detailed technical standards but rather provides guiding principles and enablers
+to support entities in making decisions aligned with their enterprise context.
+1.4 Methodology
+The Al Adoption Framework has been developed through a comprehensive analytical methodology that
+takes into account the unique national context of Saudi Arabia and is based on global best practices and
+leading trends in the field. The methodology aims to ensure that the framework aligns with the actual
+needs of national entities and to enhance their capacity to adopt Al technologies in a scientific and struc-
+tured manner that reflects Saudi Arabias aspirations for responsible digital transformation.
+The development process began with a set of integrated steps, such as assessing the current landscape
+of Al adoption within national sectors, identifying related challenges and opportunities, and conducting
+benchmark comparisons with international frameworks to uncover performance gaps and draw on global
+best practices. In-depth interviews were also conducted with a group of local and international experts
+and practitioners to support the development of a well-rounded framework, ensure its inclusivity, and
+align it more closely with the enterprise realities of Saudi Arabia. Figure (1) shows the sequence of
+stages of the development of the framework for the Al adoption.
+--- Page 7 ---
+Al Adoption Framework
+Figure 1: Stages of development for the Al Adoption Framework
+Current State Analysis   (oe  Developing the
+The current state of local  9 eat National Al Index
+and national indicators Jf The National Artificial
+We LMA ASS . Intelligence Index was عرد
+specialized in measuring
+readiness and the level of 36 a developed) basedion
+adoption of digital X 1 0 analyses and standards
+t f tion initiati to ensure its alignment
+ransformation initiatives anita و acca.
+has been analyzed.
+Benchmarking Lessons Learned Analysis
+Benchmarking was Lessons learned from
+conducted against local and international
+international indicators experiences were
+and experiences to identified and analyzed to
+benefit from global best enhance the quality of the
+practices. index.
+Expert and Specialist Interviews
+Interviews were conducted with
+experts and specialists to gather
+insights and experiences in
+support of the index development.
+--- Page 8 ---
+Al Adoption Framework
+1.5 The Need for a Framework
+Even with major advancements in Al, the mere presence of the technology does not ensure its effective
+implementation or success within an entity. Effective adoption of these technologies requires an integrat-
+ed enterprise environment built on strategic and operational foundations, and supported by appropriate
+regulatory and operational frameworks to ensure safe and sustainable implementation. International and
+local experiences indicate that the real impact of Al is closely tied to an entitys readiness and the avail-
+ability of enablers that support technological expansion, enterprise maturity, and effective governance.
+In this context, there is a clear need to develop an operational and assessment framework that enables
+entities to measure their enterprise maturity in Al, identify strengths and areas for improvement, and es-
+tablish a realistic roadmap for implementing technology initiatives.
+This framework is built upon three interconnected pillars:
+Directions: It covers the strategic and enterprise aspects, including the clarity of vision and goals, the
+quality of technology initiative design, the effectiveness of governance frameworks, and the degree
+of adherence to them.
+Enablers: It covers the infrastructure and enabling factors, such as the size, specialization, and con-
+tinuous growth of the human workforce the availability, quality, and reliability of data and the robust-
+ness, adaptability, and maturity of technical systems.
+Outcomes: Outcomes reflect the actual results of Al adoption, demonstrated through the efficiency
+of developing and deploying technical models, the presence of effective mechanisms for monitoring,
+security, and technical governance, and the impact of Al on enterprise performance, such as cost
+reduction, improved service quality, and enhanced resource sustainability.
+--- Page 9 ---
+Al Adoption Framework
+The framework adopts a gradual approach to enterprise maturity, enabling entities to align Al initiatives with
+strategic objectives and achieve real integration between technology and governance. This positions Al as a
+catalyst for effectiveness, not a risk factor, and as a key enabler of long-term enterprise innovation.
+The framework is not merely an operational tool it is a smart transformation system that helps build a flexible,
+automated, data-driven government environment capable of leveraging Al efficiently. This trend aligns with
+the Saudi Vision 2030, which aims to foster a digital, knowledge-based, and innovation-driven economy.
+Human
+: Applications Impact
+capacity
+Infrastructure
+Development Operational
+and Deployment Efficiency
+Privacy and Employee
+Safety Productivity
+Operation and Service
+Management Quality
+Enhancement
+--- Page 10 ---
+Al Adoption Framework
+2. Al in Brief
+Al is considered one of the major accomplishments of the digital era, becoming a core technological
+pillar that redefines how we live and work. Far from the stereotypes of the past, Al is no longer just a
+futuristic ambition or a set of theoretical ideas it has become a tangible reality, with applications visible
+in our daily lives, from smart assistants and recommendation apps to big data analytics, medical diag-
+nostics, and business automation.
+Although the term artificial intelligence was introduced in the mid-20th century, its meaning has
+evolved rapidly, driven by massive advances in computing power, data availability, and algorithm de-
+velopment. Today, the term refers to a wide range of systems capable of performing tasks that typically
+require human intelligence, such as learning from data, logical reasoning, language understanding, and
+decision-making.
+This section marks the entry point to exploring the fundamental conceptual and technological layers of
+Al by reviewing common definitions and the key technologies shaping its structure. It enables entities
+to gain a clearer understanding of Al as a crucial first step toward responsible and effective adoption.
+2.1 Al Definition
+Although theoretical definitions of Al vary, they generally center on the ability of computing systems to
+perform tasks that imitate human behavior or require human-like intelligence, such as learning, inference,
+and decision-making.
+Drawing from the current practical applications, Al systems may be defined as:
+Software systems that rely on advanced technologies to predict, generate content, provide recommen-
+dations, or make decisions, with varying levels of autonomy, depending on the data and the context in
+which they operate.
+This definition highlights the functional nature of Al and reflects the broad range of its use, from simple
+tasks to complex operations, positioning it as one of the most influential technological enablers of our
+time.
+--- Page 11 ---
+Al Adoption Framework
+2.2 Al Technologies
+Al relies on a set of advanced technologies that enable it to analyze data, learn from it, interact with
+its environment, and make intelligent decisions. At the core of these technologies is machine learning,
+which forms the foundation of many modern applications. This technology allows systems to learn from
+data and improve performance autonomously, without being explicitly programmed. Machine learning
+comes in several forms: supervised learning (from labeled datasets), unsupervised learning (from unla-
+beled data), and reinforcement learning (which uses environmental feedback through trial and error to
+optimize outcomes).
+Within this field, deep learning has emerged as a breakthrough technique based on multi-layered neural
+networks. It is used to process complex data such as text, images, and audio, powering major advances
+in Al.
+Another key technique is Natural Language Processing (NLP), which enables systems to understand
+and generate human language. Applications include machine translation, text generation, and question
+answering, all contributing to more natural, seamless human-machine interaction.
+In the visual domain, computer vision allows systems to see and interpret content by recognizing ob-
+jects and people in images and video, making it useful in security, healthcare, autonomous vehicles, and
+other areas.
+Speech processing technologies also play a pivotal role in converting speech to text and vice versa, en-
+abling the development of voice-based interfaces that rely on spoken commands. These are now used
+in smart assistants and accessibility applications for individuals with disabilities.
+As Al continues to integrate with physical systems, intelligent robots have emerged, combining soft-
+ware-driven analysis with physical movement. These include industrial robots used on production lines
+and service robots deployed in commercial or personal settings.
+--- Page 12 ---
+Al Adoption Framework
+One of the most transformative developments in recent years is Generative Artificial Intelligence (GenAl),
+which has redefined the field. This technology creates new content, such as text, images, music, and
+code, based on the data the model has been trained on. GenAl is among the fastest-growing and most
+influential branches of Al due to its creative potential, time-saving capabilities, and productivity enhance-
+ment, with growing use in education, healthcare, media, and government services.
+This broad spectrum of technologies forms the foundation for understanding and adopting Al effectively.
+Familiarity with these technologies is essential for developing integrated strategies that leverage Als full
+potential while considering regulatory, ethical, and operational frameworks.
+2.3 Al Applications
+Al is a strategic tool capable of driving transformative change in entities by enhancing operational effi-
+ciency, improving service quality, and facilitating data-driven decision-making. Rather than relying on tra-
+ditional methods for task execution and service delivery, Al provides advanced capabilities for processing
+vast amounts of data, identifying patterns, predicting needs, and interacting intelligently with users.
+Government and private entities can use Al to automate routine administrative tasks, shorten processing
+times, and improve the overall user experience. It can also help optimize resource allocation by predicting
+risks or prioritizing needs with greater precision. Al technologies also support decision-makers by ana-
+lyzing data from multiple sources and offering recommendations based on accurate predictive models,
+enhancing planning and public policy effectiveness.
+Beyond operational improvement, Al enables innovation by helping develop new services, offering
+creative solutions to societal challenges, and increasing agility in responding to rapid changes. It also
+strengthens governance by enhancing transparency, detecting risks early, and reducing human error in
+oversight processes.
+Through the responsible and integrated use of Al, government and private sectors can build more re-
+sponsive and efficient environments that foster public trust and deliver measurable impact on both eco-
+nomic and social levels, aligned with the aspirations of digital transformation and Saudi Vision 2030.
+--- Page 13 ---
+Al Adoption Framework
+2.4 Challenges and risks
+While Al offers unprecedented opportunities to reimagine systems and services, its widespread adoption
+is not without structural, technical, and ethical challenges that must be seriously addressed. One of the
+most critical challenges lies in the nature of data, the core driver of Al models. Poor data quality or lack of
+consistency and integration across sources can result in inaccurate or biased outputs, undermining the
+reliability and impact of intelligent systems. Another challenge involves the opacity of Al algorithms, which
+often function as black boxes with unclear decision-making processes. This raises serious concerns
+about transparency and accountability, especially when such systems influence decisions that directly
+affect individuals or society.
+A further challenge is the shortage of specialized talent. Developing and operating Al models requires a
+blend of skills in data science, engineering, and digital policy, compelling institutions to invest in national
+capacity building and create environments that attract and retain Al talent. At the enterprise level, Al de-
+mands a fundamental shift in how services are designed and decisions are made, requiring cultural and
+organizational transformation, guided by strong leadership, flexible infrastructure, and readiness to adopt
+new governance models that balance innovation with enterprise control.
+Ethical concerns are also central, particularly issues related to fairness, privacy, and unintended discrim-
+ination. As content generation and decision-making systems become more prevalent, the need for clear
+and actionable ethical frameworks becomes essential, not a regulatory luxury, to ensure these technolo-
+gies remain human-centered and foster public trust in institutions using them. In this context, an entitys
+ability to address these challenges is closely linked to its level of digital maturity, organizational aware-
+ness, and capacity to anticipate risks through well-considered adoption strategies that strike a balance
+between technological enablers and enterprise safeguards.
+Concept of Al Adoption Framework
+Al adoption is a systematic process focused on embedding Al technologies and systems into an entitys operations, services,
+and decision-making to improve efficiency, foster innovation, and ensure greater reliability. Adoption goes beyond the mere use
+of technical tools as it involves building enterprise capabilities, developing digital infrastructure, and preparing the legal and
+regulatory environment to ensure that the use of these technologies delivers real and sustainable value.
+Effective adoption includes several stages: identifying opportunities and challenges, designing appropriate solutions, imple-
+menting them in practice, and continuously evaluating and improving outcomes. Successful adoption also requires engaging
+all relevant stakeholders within the entity, promoting a culture of data and Al, and ensuring alignment with national values and
+frameworks.
+--- Page 14 ---
+Al Adoption Framework
+3. Directions
+3.1 Strategy
+Leading organizations in the field of Al adopt ambitious strategic visions aimed at deeply integrating
+these technologies into their core operations and activities, in pursuit of sustainable growth and en-
+hanced innovation capacity. These organizations are redesigning their operating models based on big
+data and advanced analytics, which contributes to improving operational efficiency, reducing costs, and
+enhancing service quality. They also focus on improving customer experience by analyzing behavior
+and needs to deliver personalized Al-powered services that boost loyalty and satisfaction. Al is em-
+ployed as a strategic tool to create added value for stakeholders, respond flexibly to market changes,
+and strengthen competitive positioning.
+An Al strategy is crucial for institutions, serving as a roadmap to guide efforts toward maximizing the
+value derived from Al technologies, supporting strategic objectives, operational excellence, and com-
+petitive advantage. A 2017 global survey revealed that 60 of executive leaders emphasized the critical
+importance of an Al strategy in enabling enterprise transformation, increasing financial returns, and im-
+proving performance and productivity by deeply understanding enterprise data and using it to automate
+processes and enhance products.
+In contrast, the absence of a clear Al strategy may lead to experiments lacking strategic value and re-
+duce the likelihood of successful Al adoption.
+Concept of Al Strategy
+Al Strategy is a long-term plan that outlines the entitys vision for leveraging and utilizing Al to achieve its overarching goals and
+build a competitive advantage. It includes a set of guiding principles and measurable practices that support understanding Al
+initiatives, identifying added value, priorities, capabilities, and needs, as well as defining actions, timelines, and the governance
+structures necessary for implementation and successful Al adoption.
+--- Page 15 ---
+Al Adoption Framework
+3.1.1 Planning and Performance
+Planning and performance are two essential components of an Al strategy, serving as a guiding frame-
+work that aligns all efforts toward achieving clear and measurable goals. By developing a well-structured
+plan grounded in a long-term strategic vision, an entity can define the overall direction for Al deployment
+and identify priority areas where real value can be generated.
+The plan and vision help foster a shared understanding across the entity regarding the purpose of Al
+adoption, while facilitating effective allocation of resources and technology investments aligned with
+strategic objectives. They also ensure that Al initiatives are linked to broader enterprise goals, whether
+in improving operational performance, enhancing customer experience, or supporting data-driven deci-
+sion-making.
+To ensure full integration of Al into enterprise direction, the following steps are recommended for building
+a clear and sustainable strategy:
+Developing a Comprehensive Al Strategy Document: : A detailed document should be prepared
+to define the long-term vision, priority areas, and expected outcomes from Al implementation. This
+document should be built on a sound understanding of the entitys objectives and technical and hu-
+man capabilities.
+Aligning the Plan with National Strategies: The Al strategy should be linked to national plans such
+as Saudi Vision 2030 and the National Strategy for Data and Al (NSDAI) to ensure coherence and
+support integration between enterprise and national efforts.
+Defining Key Performance Indicators (KPIs): A set of performance indicators should be adopted
+to measure implementation effectiveness, such as the number of smart projects executed, the per-
+centage improvement in service quality, and the degree to which enterprise objectives are achieved
+through Al.
+Preparing a Timeline Roadmap: A clear timeline should be developed, covering the planning,
+launch, expansion, and evaluation phases, with responsibilities and required resources specified for
+each stage.
+Simplified Practical Example:
+The entity develops a document titled Al Strategy, which includes a two-year timeline that specifies when pilot projects will
+be launched and when systems will be applied. These phases are linked to the achievement of service-related objectives
+and quality improvements.
+--- Page 16 ---
+Al Adoption Framework
+3.1.2 Initiatives
+Based on the strategic vision and plan for Al adoption, initiatives represent the next phase in trans-
+forming theoretical direction into a tangible, practical reality. These initiatives serve as implementation
+tools that translate strategic objectives into actionable projects capable of delivering real impact on the
+entitys performance and efficiency.
+Many entities today are implementing a variety of Al initiatives that span operational, strategic, and
+experimental goals. These initiatives may include, for example, process automation to reduce manual
+tasks and increase efficiency, or the development of intelligent recommendation systems that provide
+personalized services and products based on customer behavior. Such initiatives reflect a multidimen-
+sional approach that combines internal performance improvement, user experience enhancement, and
+innovation exploration, all aimed at achieving sustainable competitive advantage.
+To ensure the integration of Al within enterprise directions, the development of a clear and sustainable
+strategic plan generally involves the following steps:
+Designing and Implementing Initiatives Targeting Real Use Cases: Clear priorities should be
+established by launching Al projects that address practical use cases, such as traffic congestion
+prediction, automated responses to inquiries, and fraud detection and prevention. These initiatives
+should be based on actual user needs or existing operational challenges.
+Linking Each Initiative to Specific Performance Indicators: Each initiative should be associated
+with a set of measurable outputs, such as the number of work hours saved, the percentage im-
+provement in beneficiary satisfaction, and the accuracy of models used in predictive or analytical
+scenarios.
+Implementing a Regular Review Mechanism: : A quarterly evaluation system should be adopt-
+ed to assess initiatives performance. This is carried out in coordination with digital transformation
+teams and operational units to ensure responsiveness to developments and adjust the approach as
+needed.
+Ensuring Alignment with National and Enterprise Priorities: Each initiative should reflect the
+broader directions of the entity or the state, including national transformation initiatives, in order to
+ensure coherence, avoid fragmentation of efforts, and prevent duplication.
+Preparing a Timeline Roadmap: A clear timeline should be developed, covering the planning,
+launch, expansion, and evaluation phases, with responsibilities and required resources specified for
+each stage.
+--- Page 17 ---
+Al Adoption Framework
+Entities adopting Al can enhance the effectiveness and sustainability of its applications by adopting a comprehen-
+sive ecosystem of Key Performance Indicators (KPIs) that cover operational, financial, and ethical dimensions.
+This ecosystem covers the following:
+Measuring Internal Adoption Rates: This involves assessing the extent to which intelligent solutions are being
+used within the entity, through the analysis of actual usage data, employee surveys, and evaluation of training
+and capacity-building levels.
+Monitoring the Accuracy of Predictive Models: Metrics such as classification accuracy can be used to evalu-
+ate the reliability of models, with regular assessments conducted to ensure their continued relevance in changing
+environments.
+p Tracking the Transition of Projects from Pilot to Production: The move from experimental stages to imple-
+mentation may serve as an indicator of enterprise maturity and system readiness for wide-scale Al deployment.
+Evaluating Economic Impact: This includes measuring Return on Investment (ROI) and the extent to which Al con-
+tributes to improved operational efficiency.
+Ensuring Compliance with Ethical Principles: Al applications should adhere to standards of transparency,
+fairness, and privacy protection. Regular reviews are conducted to reinforce public trust and ensure responsibility
+and long-term sustainability.
+In adopting Al, entities may also apply a robust enterprise approach to managing initiatives, thereby ensuring max-
+imum impact and sustainability in implementation. This may be achieved through adherence to the following prac-
+tices:
+Conducting Regular Quarterly Reviews: Specialized committees should be formed to carry out periodic reviews of
+each Al initiative, using KPls tailored to reflect the specific objectives of each project. This ensures continuous over-
+sight and precise guidance.
+Analyzing Results and Identifying Development Paths: These reviews should include a detailed analysis of
+achieved results, a careful assessment of success factors and challenges, and the proposal of development
+plans or strategic adjustments as needed, enhancing adaptability and ongoing improvement.
+Utilizing Interactive Digital Dashboards:Real-time data monitoring systems are recommended through the use
+of interactive digital dashboards. These enable decision-makers to track progress instantly and make informed,
+timely decisions based on accurate and up-to-date data.
+Continuously Aligning with Strategic Objectives: Every Al initiative should be subject to continuous evaluation re-
+garding its alignment with the entitys strategic directions and goals, especially in dynamic environments that require flexible
+and swift responses.
+--- Page 18 ---
+Al Adoption Framework
+The strategic Al implementation plan can be divided into three interrelated phases, reflecting a logical
+adoption progression while maintaining the flexibility necessary to keep pace with technological devel-
+opments.
+Short Term (1 to 2 years): The first phase focuses on quick wins by automating routine processes
+and activating predictive analytics to support decision-making, thereby improving efficiency, reducing
+costs, and enhancing performance quality.
+Medium Term (3 to 5 years): This phase involves expanding usage toward more advanced applica-
+tions such as smart products and services, with investments in specialized skills development, digital
+infrastructure, and innovation-supporting teams.
+Long Term (Over 5 years):This phase aims for a fundamental transformation through the develop-
+ment of intelligent systems capable of self-learning and adaptation, enhancing the entitys readiness
+for emerging technologies such as quantum computing and advanced Al via RD investment and
+strategic global partnerships.
+Simplified Practical Example:
+The entity launches a big data analysis initiative to improve resource allocation. Results are assessed quarterly, and the model
+is updated based on feedback and actual outcomes.
+3.1.3 Budget
+The budget is a key element in turning technological aspirations into tangible outcomes. This requires
+allocating sufficient financial and human resources, adopting flexible investment models that encourage
+innovation, and ensuring long-term sustainable returns.
+Leading institutions embody this approach through a growing strategic commitment to accelerating digi-
+tal transformation, directing well-planned investments that create lasting impact. This commitment relies
+on the effective integration of technological and human resources and the promotion of innovation in an
+ever-evolving environment. Among the main directions adopted by these institutions are:
+--- Page 19 ---
+Al Adoption Framework
+Allocating an Independent Annual Budget: Introducing a dedicated financial item within the entitys
+budget for Al initiatives to ensure continuous funding away from unstable or emergency sources.
+Allocating Resources for RD: Dedicating part of the budget to support research and development
+activities, including pilot experiments, model testing, and emerging technology assessments to foster
+innovation and discover scalable future solutions.
+Linking Investment to Enterprise Objectives: Ensuring funding aligns with the enterprise transforma-
+tion vision by supporting strategic projects related to performance enhancement, data enablement, and
+service efficiency, rather than isolated tech initiatives with limited impact.
+Integrating Investment into Enterprise Governance: Including Al investments in the overall organi-
+zational plan, and reporting on them periodically to higher administrative councils or relevant regulatory
+bodies to ensure transparency and effective financial governance.
+Simplified Practical Example
+The entity establishes an Al Innovation Funding Program with an annual allocation of SAR 5 million to support internal pro-
+jects and university partnerships for experimental Al solutions, reviewed yearly.
+3.2 Governance
+With the accelerated adoption of Al technologies across government and private sectors, there is a
+growing need for an effective governance framework to ensure responsible and disciplined use. Al is not
+just a technological advancement, but rather a force that reshapes decision-making and directly impacts
+individuals, society, and the economy. Thus, governance becomes an enterprise necessity, enabling
+entities to leverage Al capabilities effectively while maintaining transparency, privacy, fairness, and ac-
+countability.
+Concept of Al governance
+Al governance refers to a set of frameworks, policies, and enterprise structures that regulate the development and deploy-
+ment of Al technologies within the entity, outlining roles, responsibilities, decision-making, and oversight mechanisms. Its aim
+is to ensure compliance with local and international regulations and promote safe, fair, and responsible Al use through regular
+policy updates and adoption of best practices locally and globally.
+--- Page 20 ---
+Al Adoption Framework
+3.2.1 Frameworks and Policies
+Enterprise Al governance is a core element to ensure the organized and responsible use of intelligent
+technologies within an entity, enhancing commitment to ethical values and legal standards. This com-
+mitment strengthens the institutions capacity to develop trustworthy Al solutions that respect Saudi
+Arabias cultural and developmental specificity, build public trust, and support sustainable enterprise ex-
+cellence, in alignment with national digital transformation goals. To achieve this effectively, the following
+steps are recommended:
+Designing a Comprehensive Internal Governance Model: An organizational model should be de-
+veloped to clearly define roles, responsibilities, and decision-making mechanisms related to Al pro-
+jects. This ensures clarity of accountability lines and rapid response to regulatory challenges.
+Aligning Frameworks with National Standards: Compliance should be ensured with the Al Ethics
+Principles and Controls as the foundational reference that ensures transparency, fairness, and ac-
+countability in all stages of intelligent system development. Entities are also obligated to implement
+the Personal Data Protection Law and its Implementing Regulations, along with a set of specialized
+guidance documents.
+Conducting Periodic Reviews and Continuous Updates: Governance models should be updat-
+ed regularly in response to technological and regulatory developments, using both local and global
+benchmarks to enhance performance and anticipate future challenges.
+Implementing a Comprehensive Performance Indicator System: A set of indicators should be
+developed to measure ethical, regulatory, and operational effectiveness of Al governance. These may
+include: the number of projects undergoing risk assessment, audit outcomes, employee awareness
+of governance policies, and the impact of governance on innovation, coordination quality, and cus-
+tomer satisfaction.
+Simplified Practical Example
+The entity establishes an Al governance framework titled Al Management Model, which is updated annually based on rec-
+ommendations from SDAIA and the experiences of other entities. The structure includes a supervisory committee, an imple-
+mentation unit, and a compliance officer.
+--- Page 21 ---
+Al Adoption Framework
+Policies and procedures form the backbone of Al governance, defining decision-making mechanisms,
+access controls, risk management processes, and output quality assurance in line with enterprise values.
+To ensure robust legal governance capable of addressing future Al challenges, the entity should develop
+a clear internal policy system rooted in a solid legal framework. The following steps are recommended:
+Establishing Internal Legal Policies Defining Responsibilities: Policies and procedures should
+be formulated to regulate legal frameworks to deal with possible errors or damages resulting from
+the use of artificial intelligence systems, including determining who is responsible for the decision or
+outcome.
+Analyzing Legal Gaps: The national legal framework should be reviewed, and gaps or uncovered
+aspects should be identified in the context of emerging technologies, aiming to avoid future legal
+ambiguity or conflict.
+Relying on Modern Contractual Models: Updated legal contracts should be used that include clear
+clauses on intellectual property rights, privacy protection, and liability resulting from using intelligent
+systems, aligning with ongoing technological and legal developments.
+Constantly Updating Policies: Changes in local and international regulations related to Al should
+be monitored, and legal policies and procedures should be updated accordingly, ensuring ongoing
+compliance and reducing risks.
+Simplified Practical Example
+The entity is adopting an internal legal protocol containing liability clauses for recommendation system outcomes and re-
+viewing it in collaboration with the legal advisor and the general legal department.
+--- Page 22 ---
+Al Adoption Framework
+3.2.2 Organizational Empowerment
+Legal readiness is a fundamental pillar for ensuring the safe and effective handling of legal challenges
+accompanying the use of Al technologies. This includes protecting intellectual property rights, accurately
+defining legal responsibilities, and developing clear mechanisms for responding to potential disputes,
+which contribute to a stable and secure operational environment.
+With the increasing complexity and continuous transformation of Al technologies, every smart project
+becomes a potential source of risks such as algorithmic bias, cyber violations, and privacy concerns. In
+this sense, legal readiness and prior risk assessment become a strategic necessity. It is recommended,
+in this context, to adopt a set of preventive measures, the most prominent of which are:
+Conducting Comprehensive and Structured Risk Assessments: Systematic evaluations should be
+conducted across all use cases before adopting any Al system, aiming to identify critical points and po-
+tential challenges related to safety, fairness, or regulatory compliance.
+Utilizing Smart Digital Monitoring and Analysis Tools: : Advanced analytical systems should be used
+to automatically classify and monitor risks, including machine learning tools that continuously detect and
+track early indicators of potential threats.
+Unifying Documentation Through Interactive Dashboards: Risk assessment results should be docu-
+mented in unified dashboards, accessible to governance, cybersecurity, and technology departments, to
+facilitate rapid decision-making and prompt corrective action.
+Aligning Assessments with National Frameworks: Enterprise risk evaluations should be aligned with
+the Al Risk Assessment Framework issued by the Saudi Data  Al Authority (SDAIA), ensuring that inter-
+nal practices conform to national directions.
+Simplified Practical Example
+When developing a smart customer service assistant, bias and quality assessments are carried out, and the outcomes are
+recorded in a dashboard connected to compliance, data, and technology departments. This integration supports faster deci-
+sions and responsive system updates.
+--- Page 23 ---
+Al Adoption Framework
+3.2.3 Reliability and Safety
+Al reliability and safety are concerned with ensuring that systems operate efficiently and deliver accurate
+and consistent results while minimizing errors and potential risks to individuals or other systems. This is
+achieved through regular testing, auditing, and the enforcement of strict security protocols.
+To ensure reliability and safety, entities should implement an integrated oversight framework that aligns
+technological solutions with national standards, enhancing trust and reducing organizational and tech-
+nological risks. Recommended steps include:
+Verifying Full Regulatory Compliance: Al systems should be checked to ensure compliance with na-
+tional regulations, such as the Personal Data Protection Law (PDPL), the Generative Artificial Intelligence
+Guidelines for Government, and the Generative Artificial Intelligence Guidelines for Public. This compli-
+ance should be documented in project reports.
+Raising Awareness and Training Employees: Regular training programs should be delivered to keep
+staff updated on regulatory changes related to privacy and cybersecurity.
+Integrating Compliance into the System Lifecycle: Safety and compliance requirements should be
+incorporated throughout all stages of system development, from analysis and design to deployment and
+maintenance.
+Developing Monitoring and Early Alert Tools: Technical mechanisms should be created to monitor Al
+systems and detect potential violations or vulnerabilities related to safety and privacy, with instant alerts
+and reporting capabilities in place.
+Simplified Practical Example
+When building an Al-powered document classification system, a mandatory PDPL compliance check is included and docu-
+mented within project reports. The Data Office reviews each system update as part of the oversight process.
+--- Page 24 ---
+Al Adoption Framework
+3.2.4 Regulatory Compliance:
+Al adoption requires adherence to applicable local laws and regulations, including privacy, cybersecurity, and
+user rights regulations, ensuring legal and ethical accountability. This compliance extends beyond formal
+alignment with SDAIAs frameworks to practical integration within day-to-day operations. Sustained compli-
+ance is achieved through:
+Applying SDAIAs Regulatory Guidelines: Official resources such as the Generative Al Guidelines,
+Deepfake Guidelines, and the National Occupational Standard Framework for Data and Artificial Intel-
+ligence should be adopted to ensure operational and technical compliance.
+Conducting Regular Regulatory Reviews: : Internal assessments should be regularly performed
+based on SDAIAs models to maintain compliance and proactively address any gaps.
+Pursuing Incentive Badges: Incentive badges are an effective way to measure regulatory maturity
+and build stakeholder trust.
+Participating Actively in Policy Development: Practical feedback and operational insights should
+be shared with SDAIA to support the evolution of more effective, realistic regulatory guidelines.
+Establishing Specialized Oversight Units: Define clear oversight bodies or committeessuch as an
+Al Committee, a Digital Transformation Office, or a Data Ethics Unitto serve as the reference unit for
+monitoring compliance, governance, and the development of internal policies.
+Establishing an Al Office: Creating a dedicated Al office within an entity represents a strategic step
+toward structured, secure Al deployment. It enhances digital readiness and helps balance innovation
+with risk management.
+Simplified Practical Example
+Al projects are evaluated using SDAIA tools such as the Al Index and Incentive Badges. The entity also takes part in SDAIAs
+consultation sessions to help shape future guidelines.
+--- Page 25 ---
+Al Adoption Framework
+4. Enablers
+4.1 Data
+Data is the backbone of all Al applications, as it represents the primary source for training models, en-
+hancing their performance, and generating inferences. The effectiveness of Al directly depends on the
+quality of the available data, its accessibility, comprehensiveness, and its representation of reality. This
+makes enabling the data ecosystem a strategic priority for the success of smart transformation efforts.
+This requires building a robust national and enterprise data infrastructure that ensures continuous avail-
+ability of data from multiple sources, including historical and real-time data, and providing it within a
+secure, flexible, and integrable environment. It also requires defining access levels and permissions in a
+way that balances privacy protection with maximizing the analytical value of data.
+On the other hand, data quality and integrity are essential for enhancing Al model performance. This
+requires thorough data cleaning, the elimination of duplication and noise, and adherence to standardized
+criteria that enable seamless integration and analysis across various platforms and systems.
+Reliability is a central dimension in data management, where mechanisms for periodic verification and
+auditing should be established to ensure the data is accurate, up-to-date, and free from biases or dis-
+tortions that may affect the credibility of results. Moreover, transparent documentation of data sources,
+collection methods, and analysis processes reinforces trust in Al outputs and enhances their social and
+enterprise acceptance.
+True Al enablement begins with data enablement, through an integrated vision that encompasses gov-
+ernance, technology, and people. This vision lays the foundation for building an intelligent, responsible,
+and future-ready data environment.
+4.1.1 Availability and Access
+Ensuring the availability of data and ease of access is a fundamental requirement for any entity to effec-
+tively and securely benefit from Al. Data is the core component on which models and algorithms rely to
+make accurate, evidence-based decisions. This includes:
+Using a Flexible Access Permissions System: Adopting a Role-Based Access Control (RBAC) mod-
+el ensures the distribution of permissions according to business needs without compromising sensi-
+tive data. This system enables precise control over who can access, modify, or share data, thereby
+enhancing the protection of information assets and supporting security compliance and governance.
+--- Page 26 ---
+Al Adoption Framework
+Using Data Discovery Tools: Data catalog tools allow users to explore and understand the data as-
+sets within an entity. They enable various teams to locate data, understand its context (metadata), as-
+sess its quality, and determine its readiness for use in analytics or models. This contributes to reducing
+duplication, enhancing collaboration, and accelerating data-driven decision-making.
+Automating Data Updates: Maintaining data freshness and accuracy is essential for the efficiency of
+analytical models and Al. This is achieved through periodic and automated update mechanisms that
+synchronize databases with actual changes in the sources, ensuring that decisions are based on cur-
+rent and reliable information. These updates also help reduce human error and increase the reliability
+of data in supporting business operations.
+Complying with National Privacy Regulations: Ensuring compliance with the Personal Data Pro-
+tection Law (PDPL) and relevant regulatory frameworks is a strategic priority for protecting individu-
+al rights and enhancing trust in digital platforms. This includes implementing strict data processing
+policies, obtaining legal approvals when necessary, defining and managing access permissions, and
+enforcing cybersecurity controls according to best recognized practices.
+Activating Data Governance Office: The Data Governance Office serves as a centralized supervisory
+entity responsible for policy development, monitoring implementation, and ensuring that various teams
+adhere to data management controls. The office plays a pivotal role in organizing access processes,
+documenting data usage, and conducting regular audits to ensure compliance, thereby achieving a
+balance between effective data use and maintaining its security and confidentiality.
+Simplified Practical Example
+The entity implements an internal data management platform that allows relevant employees to search data sources using a central
+data catalog. Their access permissions are automatically defined based on their roles, with periodic audit reports to verify that no
+violations have occurred.
+--- Page 27 ---
+Al Adoption Framework
+4.1.2 Quality and Integration
+Data quality and integration are key determinants of the effectiveness and accuracy of Al models. To en-
+sure this, the following practices should be adopted:
+Comprehensive Governance of Data Sets: Effective data governance relies on an integrated system
+for documenting and regulating the use of data sets, with periodic reviews to ensure consistency and
+operational readiness. This includes identifying data sources, accurately describing them, and moni-
+toring their suitability for analytical purposes, supporting decision quality, and improving the efficiency
+of analytical and intelligent models.
+Automated Quality Verification Tools: Automated verification tools are a cornerstone for ensuring
+clean and reliable data. These tools detect and systematically correct missing values, duplicates, and
+inconsistencies without manual intervention, thereby enhancing the quality of data used in analytics or
+training and reducing the risks of bias and errors in outcomes.
+Accurate Data Source Tracking: Accurate data source helps ensure full compliance with laws and
+regulations. This involves classifying data based on its nature (open, licensed, internal, or sensitive)
+and documenting usage rights for each source, facilitating audits and reviews, and preventing data
+misuse or violations of ownership rights.
+Ensuring Tagging Accuracy: When using labeled data to train Al models, the accuracy of tags is a
+critical factor in the models efficiency and outputs. This requires adopting double auditing method-
+ologies and human or automated review tools to ensure the labeled data is free of bias or errors and
+accurately reflects the intended reality.
+Legal Data Reviews: Before using any data set, it is essential to verify the validity of associated li-
+censes and intellectual property rights. This step involves clear legal procedures, including reviewing
+contracts, verifying terms of use, and coordinating with legal compliance teams, ensuring the entity is
+protected from legal risks or regulatory violations.
+Simplified Practical Example
+The entity uses a platform to analyze data quality, which automatically alerts users to inconsistencies or poor classification qual-
+ity. Each data sets source is documented, along with its legal validity and permitted usage period.
+--- Page 28 ---
+Al Adoption Framework
+4.1.3 Reliability
+The reliability of data and the integrity of its usage over time are critical factors in ensuring the effective-
+ness and sustainability of Al solutions. This is achieved through:
+Distributed Cloud Storage: Distributed cloud storage forms a foundation for ensuring business con-
+tinuity by distributing data across multiple locations, thereby enhancing protection against loss or
+downtime. This includes automated backup mechanisms and rapid disaster recovery, ensuring busi-
+ness readiness and uninterrupted operations.
+Status Monitoring and Failure Response: Self-alert systems and real-time monitoring are vital tools
+for early detection of any infrastructure failure or connection loss. These are accompanied by auto-
+mated procedures such as rerouting or rebooting, ensuring quick response and minimizing the impact
+of failures on critical operations.
+Version Control: Recording different versions of data helps track changes accurately, enabling teams
+to review updates and retrieve previous versions in case of errors or the need for verification. This is
+an essential tool for maintaining transparency and workflow control in data and modeling projects.
+Automated Audit Logs: Automated audit logs are a key element of governance and oversight. They
+document every modification or use of data, recording the user, date, and event. These logs are used
+for security audits, compliance assurance, and behavioral reviews in sensitive data environments.
+Data Lineage Tracking: Data lineage tracking involves tracing the complete path of data from its
+original source through processing to its use in analytical or predictive models. This helps ensure in-
+tegrity, verify input quality, and accelerate the detection of potential errors or biases.
+Simplified Practical Example
+The entity stores Al data on a cloud platform that provides instant backups and maintains a version history. Any member of
+the development team can retrieve the version used to train a specific model on a given date for analysis or auditing purposes.
+--- Page 29 ---
+Al Adoption Framework
+4.2 Infrastructure
+The technological infrastructure represents the foundation upon which Al technologies are adopted and
+activated at the enterprise and national levels. It encompasses an integrated set of physical and digital
+resources, such as data centers, high-performance servers, cloud computing, and data and model man-
+agement platforms, that provide the appropriate environment for the efficient and reliable development,
+deployment, and operation of Al solutions.
+Infrastructure requires the adoption of technical standards that ensure integration and interoperability
+between systems, along with continuous availability of digital resources through intelligent monitoring
+and operation systems that support immediate response and fault anticipation. It should also exhibit
+operational flexibility, with the capacity to scale and adapt to changing conditions and to accommodate
+complex models and data without compromising performance or stability.
+Overall, investing in advanced digital infrastructure is an investment in future readiness and a fundamen-
+tal requirement for the success of Al projects and their sustainable impact on services, decisions, and
+enterprise transformation.
+4.2.1 Technical Standards
+To ensure a ready and effective infrastructure, strict technical standards should be adopted to guaran-
+tee system compatibility, ease of integration across solutions, and support for future scalability. This
+includes defining reference architectural frameworks, adopting advanced computing technologies such
+as cloud intelligence and parallel computing, and providing secure, up-to-date testing and development
+environments. To achieve the highest levels of technical standards, the following can be implemented:
+Maintaining Scalable Infrastructure: Scalability is a basic requirement to support the rapid growth
+of Al applications. This involves designing a flexible technological infrastructure that can accommo-
+date changes in data volume, user numbers, and model complexity. This approach ensures perfor-
+mance sustainability and the ability to handle future projects without the need to rebuild the infra-
+structure from scratch.
+--- Page 30 ---
+Al Adoption Framework
+Providing Al Acceleration Hardware: Graphics Processing Units (GPUs) and Tensor Processing
+Units (TPUs) are vital for enabling Al models to function efficiently, both during training and inference
+stages. Investing in these devices is a key factor in achieving technical excellence, as they reduce
+execution time and improve resource efficiency.
+Defining Upgrade Cycles: Regularly updating the infrastructure ensures alignment with the latest
+technological and architectural advancements, whether in hardware or software. These plans include
+evaluating actual performance, replacing outdated components, and adopting new technologies to
+enhance the entitys readiness to respond to future opportunities and transformations.
+Using Real-Time Performance Monitoring Tools: Real-time monitoring tools enable continuous
+tracking of key performance indicators, such as processor and memory usage and processing speed.
+Predictive algorithms based on Al can be integrated to detect anomalies and predict failures before
+they occur, reducing downtime and maintaining the stability of critical operations.
+Comparing with National Standards: Comparing infrastructure readiness with national standards is
+a strategic step to ensure compliance and direct technological investments toward locally approved
+priorities. This assessment reveals gaps and identifies improvement opportunities, contributing to the
+development of a reliable digital infrastructure aligned with the ambitions of digital transformation and
+the Saudi Vision 2030.
+Simplified Practical Example
+The entity invests in a hybrid cloud infrastructure, upgraded every two years, and monitors performance in real time using
+dashboards that display execution speed and resource utilization, supporting smart task distribution.
+--- Page 31 ---
+Al Adoption Framework
+4.2.2 Availability and Monitoring
+Availability and operational monitoring are two critical components for ensuring service continuity and
+performance reliability. They refer to continuous access to digital resources 247, supported by advanced
+performance monitoring and analysis systems that allow for immediate response to interruptions or fail-
+ures and enable predictive analysis to anticipate issues. To achieve this, the following is recommended:
+Maintaining a Defined Downtime Threshold: Minimizing downtime is a vital goal for any Al applica-
+tion used in production environments. A standard of less than 30 minutes of downtime per year is set
+as a Strategic indicator of service quality and continuity, enhancing user trust and reducing operation-
+al and economic impacts of any outages.
+Adopting Predictive Failure Analytics: Using predictive analytics is an effective tool for preventing
+unexpected failures. Al models are employed to detect abnormal patterns and predict failures before
+they occur. This approach supports proactive maintenance, improves system readiness, and enhanc-
+es the efficiency of managing technological resources.
+Implementing Infrastructure Governance: Effective infrastructure governance requires defining the
+nature of ownership (internal, external, or hybrid), with clear distribution of permissions and responsi-
+bilities among stakeholders. This approach strengthens oversight, ensures compliance with the tech-
+nical Service Level Agreements (SLAs), and facilitates the management of expansions or external
+contracts.
+Generating Regular Infrastructure Reports: Infrastructure performance indicators are key tools for
+detailed monitoring and continuous improvement. These indicators include: Availability rate, resource
+consumption, number of failures, and response time. Such reports are submitted regularly to relevant
+departments and technical committees to support data-driven decision-making.
+Publishing Monthly Readiness Reports: Monthly readiness reports are reviewed by the Technology
+Governance Committee and are used to track trends, identify potential risks, and ensure uninterrupt-
+ed service. This practice is part of a comprehensive oversight system that enhances transparency and
+contributes to achieving the highest levels of technical readiness and operational reliability.
+Simplified Practical Example
+The entity applies a 247 Al application monitoring system that sends instant alerts in case of performance degradation or
+potential outages. Monthly reports presenting availability rates are published and reviewed by the Technology Governance
+Committee.
+--- Page 32 ---
+Al Adoption Framework
+4.2.3 Operational Flexibility
+Operational flexibility is essential amid rapid developments in Al and shifts in the operational environment.
+The infrastructure should be scalable and adaptable, capable of handling more complex models and larg-
+er datasets without affecting performance quality. It should also include flexible mechanisms for workload
+management, data recovery, and disaster resilience. To achieve this, the following is recommended:
+Integration with National Platforms: Integrating Al infrastructure with national platforms such as the
+Government Cloud (G-Cloud) is a strategic step to ensure alignment with national digital transforma-
+tion, cybersecurity, and data sovereignty objectives. This integration enables the utilization of shared
+services, facilitates inter-agency coordination, and accelerates innovation within a unified and secure
+environment.
+Designing a Flexible, Auto-Scalable Infrastructure: Flexibility is a core trait of modern infrastructure.
+Auto-scaling (or elastic provisioning) enables systems to adapt to changes in load and demand without
+manual intervention. This improves resource utilization, reduces operational costs, and offers dynamic
+responses to user and project needs.
+Managing Data Flow: Handling massive volumes of data requires building efficient data processing
+pipelines that ensure smooth information flow and balanced workload distribution. This includes man-
+aging extraction, transformation, and loading (ETLELT) operations, supporting stable and fast advanced
+analytics and machine learning.
+Integrating Operational Excellence Frameworks: Adopting integrated operational frameworks that
+address performance, governance, quality, and emergency response ensures stable and efficient
+technological environments. These frameworks help build reliable operations, reduce risk, and align
+with global best practices in infrastructure management.
+Building a Disaster Recovery System: Ensuring service continuity requires infrastructure capable of
+automatically restoring systems within minutes in case of major failures or disasters. This includes re-
+al-time data replication, activating standby sites, and training technical teams on advanced response
+plans, maintaining minimal downtime, and boosting system trust.
+Simplified Practical Example
+The entity equips its unified infrastructure with elastic computing that auto-scales during peak demand. This infrastructure is tied
+to crisis response protocols that allow systems to continue operating uninterrupted, even if a part of the service is disrupted.
+--- Page 33 ---
+Al Adoption Framework
+4.3 Human capacity
+Human capabilities represent the fundamental pillar for ensuring the successful adoption of Al technol-
+ogies and realizing their enterprise impact. Smart transformation requires specialized, technically quali-
+fied talent capable of designing, developing, and operating intelligent models in alignment with national
+priorities and ethical and technological standards. This human enablement includes developing human
+capital through talent acquisition, upskilling existing competencies, fostering a supportive work environ-
+ment, and building strategic academic partnerships that feed the Al ecosystem with renewed skills and
+specialized knowledge.
+Entities aim to achieve a balance between quantity and quality by ensuring a sufficient number of skilled
+individuals with diverse backgrounds and disciplines that support innovation. Establishing sustainable
+career development paths is also crucial to preparing the workforce for the rapid evolution of Al, covering
+both technological skills (e.g., machine learning, data engineering, and cloud computing) and soft skills
+(e.g., analytical thinking, Al ethics, and data-driven decision-making).
+Continuity and stability are critical factors in building enterprise knowledge, which requires effective
+incentive policies, a creative and innovative environment, and opportunities for employees to grow and
+actively contribute to Al projects. Collaboration with universities and research centers also helps enhance
+human readiness by providing joint training and research programs and pathways to prepare the next
+generation of local Al experts.
+4.3.1 Number and Diversity
+Building structured enterprise capacities and a specialized workforce is the cornerstone of any effective
+Al strategy, especially in light of the national trends toward adopting Al technologies and boosting their
+role in driving efficiency and impact. Relying solely on general technological expertise is no longer suffi-
+cient. It is now essential to attract talent with deep skills, innovation capacity, and leadership potential.
+To move from limited experimentation to widespread, sustainable adoption, a flexible, well-defined or-
+ganizational structure is needed, with diverse, specialized teams operating within national frameworks.
+The details are as follows:
+--- Page 34 ---
+Al Adoption Framework
+Establishing a Clearly Defined Al Team: Creating a dedicated Al unit within the organizational struc-
+ture, either as a standalone entity or as part of a digital transformation center.
+Clearly Assigning Roles: Defining responsibilities precisely across model development, data analy-
+sis, solution design, and governance management to ensure cohesive efforts.
+Aligning with the National Occupational Standards Framework (NOSF): Aligning job descriptions
+and roles with national standards to ensure professionalism and equity.
+Achieving Clear Team Diversity: Ensuring fair representation, including women and people with
+disabilities, to support innovation and inclusion.
+Planning for Annual Team Growth: Linking expansion plans to employment support initiatives to
+ensure structured and sustainable growth.
+Simplified Practical Example:
+The entity establishes an Al unit composed of 35 employees across 10 career tracks. Women make up 40 of the hires, and
+people with disabilities make up 5. Job descriptions are updated annually in line with the National Occupational Standards
+for Data and Artificial Intelligence.
+4.3.2 Professional Development
+Developing human capabilities is a core pillar of Al adoption. No technology, regardless of how ad-
+vanced, can create a lasting impact without talent capable of understanding, adapting, and continuously
+improving it. Leading entities aim to build training and professional development ecosystems that align
+with rapid technological transformation and foster a sustainable learning culture within the workplace.
+Entities adopting Al can build capable teams by taking the following steps:
+Creating a Career Development Plan: Defining clear professional growth paths based on role re-
+quirements.The National Occupational Standards for Data and Artificial Intelligence outlines career
+tracks and progression requirements.
+Linking Training to Accredited Certifications: Establishing certified programs that enhance profes-
+--- Page 35 ---
+Al Adoption Framework
+sionalism and add value for trainees. The programs offered by the SDAIA Academy are a prime exam-
+ple, combining deep specialization with official accreditation. They contribute to the development of
+national competencies in data and Al and provide trainees with a competitive edge in the job market.
+Building and Updating Role-Based Skill Matrices: Accurately identifying the skills required for each
+job role and regularly updating them in line with technological advancements and business needs
+ensures alignment of competencies with strategic objectives. These matrices help identify skill gaps,
+design targeted training programs, and make performance evaluations more efficient and objective,
+supporting effective planning for career development and leadership succession.
+Linking Individual Performance to Skill Growth: This linkage helps promote a culture of continuous
+learning and motivates employees to improve themselves. By measuring the acquisition and applica-
+tion of skills in the work context, performance can be evaluated more comprehensively and fairly. This
+also allows promotions and rewards to be based on actual achievements and professional growth,
+fostering enterprise loyalty and supporting the effective realization of organizational goals.
+Simplified Practical Example
+Each employee is evaluated quarterly based on an Al skills matrix and is required to complete specialized courses throughout the
+year. Achievements are tracked via an internal board that links development to annual performance.
+4.3.3 Academic Cooperation
+Collaborating with universities and institutes is a strategic path to ensure a continuous flow of talent and
+to prepare the next generation of Al specialists. Through long-term academic partnerships, it is possible
+to develop advanced curricula, organize joint training programs, and fund applied research that address-
+es real-world challenges. Such collaboration also supports the creation of joint research centers, scien-
+tific competitions, and the attraction of top academics and experts to contribute to sector development.
+This builds an integrated ecosystem that links education with employment and prepares a generation
+capable of creativity and innovation in Al applications that serve national priorities.
+To establish effective collaboration channels, the following measures can be taken:
+Attracting Talented Al Trainees and Students: It is advisable to establish effective communica-
+tion channels with universities and institutes to attract students and talents in the field of Al, through
+offering professional training opportunities that allow them to work on real projects. It is also recom-
+--- Page 36 ---
+Al Adoption Framework
+mended to activate early talent discovery programs such as tech competitions, innovation challeng-
+es, Summer programs, and career mentorship under expert supervision.
+Signing MOUs with Universities: Signing memoranda of understanding with universities is a stra-
+tegic move to strengthen the integration between academic knowledge and practical application. It
+enables the development of advanced educational and training programs through joint curriculum de-
+sign, specialized workshops and lectures, cooperative training opportunities, and support for applied
+research and innovation initiatives.
+Designing a Roadmap for Graduate Employment: A clear roadmap should be designed for grad-
+uate employment, starting with identifying the required specialties, followed by training and profes-
+sional development programs, and finally integrating them into suitable career tracks. It should also
+include mechanisms for continuous evaluation and follow-up after employment to ensure adaptation
+and stability, which helps bridge the gap between supply and demand and boosts investment in na-
+tional talent.
+Aligning Academic Collaboration with National Human Capacity Building Goals: Academic col-
+laboration should be aligned with national goals for building human capacity, through joint efforts with
+educational institutions to ensure that curricula and training initiatives meet future needs, especially
+in fields such as technology, Al, and data analysis. This approach is a cornerstone for achieving the
+objectives of Saudi Vision 2030 in human capital development.
+Simplified Practical Example
+The entity implements the Future of Al program, hosting 50 trainees annually from three major universities, providing training
+through real projects, with a 20 conversion rate to permanent jobs.
+4.3.4 Job Stability
+In a global landscape that highly competes for Al talent, retaining such expertise is a strategic challenge
+for many entities. These rare competencies require effective retention policies, with success measured
+by the annual employee turnover rate. Retention programs include offering financial incentives, learning
+and development opportunities, participation in innovative projects, along with clear career paths and
+--- Page 37 ---
+Al Adoption Framework
+a motivating work culture that enhances loyalty and commitment. Integrating professional development
+with emotional motivation creates sustainable retention that supports excellence and innovation. To retain
+specialized Al talent, the following strategies are recommended:
+Analyzing Turnover: Understanding why Al talent leaves is a crucial step in enhancing job stability
+and preserving human capital. This requires collecting and analyzing accurate data from sources like
+exit interviews, satisfaction surveys, and performance indicators to identify influencing factors such as
+lack of growth opportunities, workplace environment, or absence of recognition  motivation. Based
+on this analysis, tailored solutions can be developed, such as improving professional development
+programs, enhancing fairness in recognition and promotions, and cultivating an attractive organiza-
+tional culture.
+Providing Innovation-Driven Professional and Financial Incentives: Offering targeted financial and
+non-financial incentives for innovation helps create a stimulating and creative work environment, en-
+couraging employees to propose new solutions and improve existing processes. These incentives
+may include performance-based bonuses, public recognition programs, and support for both indi-
+vidual and team initiatives. This approach reinforces a culture of sustainable innovation and achieves
+higher levels of efficiency and enterprise impact.
+Creating Clear Internal Career Growth Paths: Building well-planned career tracks strengthens em-
+ployees sense of empowerment and belonging, providing continuous development opportunities
+without the need to leave the organization. These plans include clear promotion stages, mentorship
+and professional development programs, and specialized assignments that build both leadership and
+technical skills. This model helps reduce turnover and increase the retention of high-value talents.
+Aligning Stability Policies with the National Occupational Standard Framework for Data  Ar-
+tificial Intelligence: Aligning internal HR plans with the national job framework is a strategic step to
+ensure consistency with national visions for localizing and regulating Al specializations. This includes
+adopting standardized job descriptions, defining the necessary training paths for each category, and
+linking them to incentives and job responsibilities. Such alignment enhances recruitment effectiveness
+and contributes to developing a generation of professionals aligned with national priorities.
+--- Page 38 ---
+Al Adoption Framework
+5. Outcomes
+5.1 Applications
+Intelligent applications represent the practical output of Al adoption. They are the tools that translate
+technological capabilities into tangible value across services, operations, and decision-making. These
+applications encompass a wide range of solutions that rely on intelligent models and algorithms for data
+processing, prediction, automation, and user interaction with greater efficiency and accuracy.
+The true value of Al adoption is only realized through these applications, enabling entities to deliver
+faster, more precise services, make data-driven decisions, and transform user experiences and resource
+efficiency.
+5.1.1 Development and Deployment
+Developing successful Al applications requires an integrated environment that combines deep under-
+standing of user needs, suitable technologies, ready infrastructure, and governance frameworks that
+balance innovation with responsibility. The lifecycle of these applications includes designing models,
+testing, training, deploying in production environments, monitoring performance, and regularly updating
+them. To achieve this, the following is recommended:
+Internal Model Development: Internal model development is a strategic step toward building cus-
+tomized and secure solutions tailored to the entitys real needs. This includes establishing integrated
+in-house pipelines covering analysis, training, testing, and deployment in a connected manner. It re-
+lies on standard frameworks such as MLOps to ensure development quality and consistency across
+stages. To accelerate safe and automated model testing and deployment, unified interfaces (CICD
+Pipelines) are developed. Equally important is documenting the model lifecycle in detail and linking it
+to the enterprise governance system for data and models, enhancing transparency and efficiency in
+managing smart models.
+Performance and Safety Monitoring: Post-deployment model monitoring is essential for ensuring con-
+tinued effectiveness and accuracy in real-world environments. It allows entities to continuously verify mod-
+el performance and make informed improvement decisions. This includes using advanced tools for re-
+al-time performance analysis and detecting any decline in accuracy or efficiency. Benchmark comparisons
+with other models are also conducted to evaluate relative performance. These analyses inform continuous
+--- Page 39 ---
+Al Adoption Framework
+improvement mechanisms, with models adjusted based on practical performance and user feedback. An-
+other vital aspect is the early detection of performance drift and automated handling to maintain consistent
+and reliable model outcomes over time.
+Development Tool Management: Managing development tools is crucial for balancing flexibility and
+compliance in technological environments, especially with the variety of open-source and proprie-
+tary tools available. Such a balance is necessary for safe and sustainable development governance.
+This management includes automated mechanisms for tracking tool usage, such as code sources,
+licenses, and associated security risks. Periodic reviews are also conducted to ensure tools remain
+aligned with evolving development needs. Additionally, adherence to national governance policies is
+essential, requiring compliance with software usage regulations, whether open-source or commercial,
+to ensure legal and regulatory compliance at the national level.
+Simplified Practical Example:
+The entity establishes an internal model development platform enabling teams to build predictive models with custom
+tools. It applies the MLOps framework and automatically tracks all development stages.
+5.1.2 Privacy and Safety
+Ensuring privacy, security, and operational continuity is fundamental for responsible and secure Al adop-
+tion. Smart applications prioritize privacy and safety concepts to protect individual and organizational
+data from breaches and misuse. This is achieved through secure-by-design systems and clear risk man-
+agement mechanisms, including encryption, ethical controls, and ongoing audits. To achieve this, the
+following is recommended:
+Embedding Cybersecurity and Privacy: Designing modern intelligent systems requires a Security
+Privacy by Design approach, integrating protection requirements into every development stage,
+from analysis to deployment. This includes data encryption, access management, and multi-factor
+authentication to safeguard the system from vulnerabilities and attacks before official launch.
+--- Page 40 ---
+Al Adoption Framework
+Complying with National Frameworks: Compliance with national regulations, foremost among them
+the Personal Data Protection Law (PDPL), is essential for the integrity of digital operations. This includes
+adhering to business continuity guidelines, data classification controls, and consent management policies,
+enhancing trust in smart systems, and protecting individual rights.
+Activating Recovery and Disaster Plans: Implementing professional recovery plans helps mitigate
+the impact of unexpected outages. These plans include automated backups, ready-to-launch backup
+sites, and automated response mechanisms that restore systems within minutes, ensuring business
+continuity and protecting critical data.
+Testing Risk Scenarios regularly: Simulating failure or outage scenarios is a best practice for ensur-
+ing infrastructure readiness. These tests include: Data center failures, connection losses, or security
+breaches, measuring system resilience, identifying vulnerabilities, and updating contingency plans
+based on real outcomes.
+Simplified Practical Example
+The entity uses a dashboard that displays weekly model performance. Predictive algorithms alert teams when accuracy
+drops below a defined threshold.
+5.1.3 Operation and Management
+Operating models in a production environment and tracking their organizational impact are crucial for
+realizing the full value of Al. It is equally important that intelligent applications are managed profession-
+ally to ensure their sustained effectiveness. Application operation and management include sustainable
+operation mechanisms, maintenance and update plans, performance monitoring methodologies, and
+governance models that ensure compliance and align application development with regulatory and tech-
+nological changes. The following guidance is recommended:
+Tracking Actual Model Usage: Monitoring actual usage of smart models is a key tool for under-
+standing how different departments and users rely on implemented solutions. This includes tracking
+usage frequency, most active users, and application scenarios, helping assess effectiveness and
+identify opportunities for expansion or improvement.
+Linking Performance to Business KPIs: To ensure real value from Al, model outcomes must align
+with enterprise performance indicators such as improving service quality, reducing response times,
+increasing user satisfaction, and lowering operational costs. This alignment directs resources toward
+high-value models and connects Al efforts directly to organizational impact.
+--- Page 41 ---
+Al Adoption Framework
+Implementing Proactive Improvement Mechanisms: Maintaining effective model performance re-
+quires smart monitoring systems that detect usage decline, accuracy drops, or shifts in data patterns.
+These indicators allow for early model updates or retraining, reducing operational risks and ensuring
+continued positive impact.
+Regular Reporting to Senior Management Preparing regular analytical reports highlights Als con-
+tribution to the organizations overall goals. These reports include dashboards, comparative analyses,
+and strategic recommendations, supporting decision-makers in adopting data-driven approaches and
+boosting investment in successful initiatives.
+Simplified Practical Example:
+The entity classifies every tool used in model development and links it to a legal and technological database that defines usage
+terms and potential risks.
+--- Page 42 ---
+Al Adoption Framework
+5.2 Impact
+Al serves as a strategic enabler capable of driving profound transformation in enterprise performance,
+not merely by offering technological solutions, but by reshaping business models, strengthening a culture
+of data-driven decision-making, and delivering more effective and personalized services. As the scope
+of Al adoption expands, there is an increasing need to understand the real impact that can be achieved
+when Al is adopted in an organized, integrated manner rooted in solid governance.
+This impact is only realized when Al technologies are embedded into the enterprise environment in align-
+ment with governance, policies, infrastructure, and human capabilities, managed under a comprehensive
+strategic vision.
+The value of Al is not limited to performance improvement within individual entities. Its significance is
+greatly amplified when leveraged within an interconnected national ecosystem. When smart projects are
+linked to unified performance indicators and their outcomes are shared through national platforms, a
+compounded effect emerges, improving overall efficiency, elevating service quality at the national level,
+and enhancing transparency and accountability.
+In alignment with this approach, the Saudi Data  Al Authority (SDAIA), through the National Center for Al
+(NCAI), is developing a maturity index for Al adoption within government entities. This index is designed
+to measure progress in technology use and the integration of organizational, technical, and human di-
+mensions. This index enables entities to diagnose areas of strength and improvement opportunities,
+compare their performance with peers, and plan for sustainable, data-driven growth.
+5.2.1 Operational Efficiency
+To achieve a tangible and sustainable impact from Al technologies, these technologies should be sys-
+tematically employed to enhance operational efficiency by reducing costs, minimizing waste, and im-
+proving the effectiveness of internal processes. Recommended steps include:
+Automating Repetitive Administrative Processes: Al solutions should be implemented to automate
+repetitive administrative tasks, including data entry, request reviews, and transaction verification, free-
+ing up human resources to focus on strategic, value-added tasks.
+--- Page 43 ---
+Al Adoption Framework
+Improving Process Flow: Al-powered performance analysis techniques should be used to optimize
+process flow by identifying operational bottlenecks, improving activity sequencing, optimizing re-
+source allocation, enhancing operational efficiency, and reducing turnaround time.
+Minimizing Human Error: Automated validation models should be implemented to reduce errors
+caused by manual data entry or verification, improving output quality and reducing the need for re-
+processing and audits.
+Measuring Clear Financial Savings: Clear financial indicators should be established to track sav-
+ings resulting from automation, such as reduced temporary staffing costs and lower reliance on man-
+ual auditing, and these savings should be linked to the organizations overall financial goals.
+Achieving Sustainable Operational Savings: A savings benchmark of at least 8 of the annual
+operating budget should be adopted as a primary success indicator for Al initiatives. This target rein-
+forces the viability of such initiatives and positions Al as a genuine driver of enterprise transformation,
+not just a technological tool.
+Simplified Practical Example:
+The entity uses an Al algorithm for dynamic employee scheduling, reducing overtime costs by 12 and decreasing wasted
+time by 18.
+5.2.2 Employee Productivity
+Al contributes to enhancing human capabilities, not only by automating tasks but also by enabling em-
+ployees to work more efficiently and make data-informed decisions. To achieve this impact, the following
+steps are recommended:
+Integrating Smart Tools into Daily Workflows: Al tools such as digital assistants, auto-classification
+systems, and predictive responses should be incorporated into daily operations to accelerate perfor-
+mance and reduce effort on repetitive tasks.
+Broadly Supporting Roles with Smart Tools: Core roles should be widely supported by smart tools,
+with at least 25 of these functions enhanced by advanced Al technologies, reducing operational
+burdens and freeing time for higher-value activities.
+--- Page 44 ---
+Al Adoption Framework
+Achieving Tangible Productivity Gains: Productivity gains exceeding 15-20 should be targeted,
+equivalent to more than 8 additional working hours per week for each employee, with impact tracked
+by comparing task completion times and output before and after implementation.
+Embedding Al into Human Resources Management: Al should be integrated into workforce plan-
+ning, recruitment, training, and development programs to ensure skills are aligned with emerging tech-
+nologies.
+Analyzing Job Performance Data: Data analytics tools should be used to evaluate Als impact on job
+performance by tracking how employees spend their work time and identifying continuous improve-
+ment opportunities based on accurate performance indicators.
+Simplified Practical Example:
+A smart writing assistant is integrated into the legal affairs unit, enabling consultants to draft contracts 40 faster and saving
+each employee a full working day per week.
+5.2.3 Service Quality Enhancement
+Enhancing the end-user experience is a central focus of intelligent transformation efforts. Al is a powerful
+tool for enabling higher-quality, personalized, and efficient service delivery. To achieve this type of impact,
+the following steps are recommended:
+Analyzing User Behavior to Personalize Services: Al technologies should be employed to analyze
+user behavior in order to design personalized services that meet individual needs and enhance the
+quality of the overall experience.
+Expanding the Scope of Al-Powered Services: The share of Al-supported services should exceed
+25 of total services, with priority given to those involving high public interaction to ensure broader
+impact.
+--- Page 45 ---
+Al Adoption Framework
+Improving Time-Based Performance Indicators:Response and processing times should be reduced
+by more than 20 by automating manual steps and simplifying procedures using smart tools.
+Boosting Satisfaction through Proactive and Interactive Systems:Smart proactive and interactive
+solutions, such as predictive chatbots and intelligent assistants, should be activated to provide imme-
+diate support and boost satisfaction and trust among users.
+Integrating Al Across Multiple Channels: Al should be integrated across all service delivery chan-
+nels, websites, mobile apps, and call centers, ensuring seamless and continuous access to smart
+services through all points of interaction
+Simplified Practical Example:
+The entity implements an intelligent recommendation system on its e-services portal, suggesting services to users based on
+their previous behavior. Result: A 30 increase in service usage and a 22 improvement in processing time.
+--- Page 46 ---
+Al Adoption Framework
+6. Conclusion
+The Al Adoption Framework represents a strategic step toward enabling entities in the Kingdom of Sau-
+di Arabia to embrace this technology in an effective, secure, and sustainable manner. By presenting a
+comprehensive view of adoption enablers and requirements, including human capabilities, infrastructure,
+data, enterprise governance, and impact measurement, this framework provides a practical roadmap to
+help entities transform Al from isolated initiatives into a core enterprise function.
+Amid the Kingdoms shift toward a knowledge-based economy, systematic Al adoption is one of the
+essential enablers for realizing the ambitions of Saudi Vision 2030. This framework emphasizes the im-
+portance of aligning technology with regulation and innovation with governance to deliver reliable and im-
+pactful outcomes. It underscores that successful digital transformation is not measured solely by deploy-
+ing solutions, but by the entitys readiness to adopt, lead, and align these solutions with national priorities.
+The Saudi Data  Al Authority (SDAIA) is a key partner in this journey, providing legislative frameworks,
+building supporting platforms, and developing national indicators for measuring Al maturity. Thus, this
+framework is not merely a guide, but a foundation for integration, continuous improvement, and collabo-
+rative accountability.
+Al adoption is not an end in itself it is a means to enhance efficiency, improve quality of life, empower
+people, and build a more responsive and innovative public sector. Through continued collaboration and
+coordination among entities, the Kingdom can strengthen its position as a global leader in Al adoption
+and turn this technology into a powerful driver of inclusive and sustainable development.
+ Saudi Data  Al Authority
+Document Number  SDAIA-P121
+Version Number  2
+SDAIA.GOV.SA  SDAIASA SDAIA.SAUDI  SDAIA-KSA

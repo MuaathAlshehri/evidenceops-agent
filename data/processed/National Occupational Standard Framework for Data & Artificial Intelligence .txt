@@ -1,0 +1,2340 @@
+--- Page 3 ---
+Contents
+1. Introduction
+2. An Overview of National Occupational Standards
+3. Methodology for Building the National Occupational Standard Framework for Data and Artificial Intelligence
+4. Classification of data and Al occupations
+5. Job Card Details
+6. Annex
+--- Page 4 ---
+for Data  Artificial Intelligence
+--- Page 5 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+The Saudi Data  Al Authority (SDAIA) was established by Royal Order No. (A471) issued on 29121440
+AH and The Saudi Data  Al Authority (SDAIA) is the competent authority in the Kingdom concerned with
+data and Al including big data. SDAIA is also the national reference in all matters related to the organization,
+development, and handling of data and Al in addition, it has the original competence in all matters related to
+operation, research, and innovation in the field of data and Al.
+The Kingdom of Saudi Arabia aims to become one of the global leaders in Data and Al. Supporting and
+developing national competencies is considered a key enabler for this direction. This focus is expressed
+through SDAIAs spearheading of many initiatives, programs and activities to develop human capital, build
+capabilities, provide support, enhance the sustainability of national competencies, and link them to future
+jobs to create a fertile landscape for national competencies capable of pushing Saudi Arabia to be one of the
+advanced countries in Al.
+Given its national duty as an authority in data and Al, and its pursuit to regulate the sector, SDAIA issued the
+National Occupational Standard Framework for Data and Artificial Intelligence as a baseline reference for
+those interested in the sector, whether professionals or decision-makers in various organizations, in order to
+standardize and improve occupational practices and applications related to developing human capabilities.
+--- Page 6 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+2. An Overview of National Occupational Standards
+National Occupational Standards are determinants of performance level that an individual must
+achieve when performing key job roles, including this performances requirements of experi-
+ence, knowledge and abilities that this particular individual needs to continue working at this
+occupational standard.
+Occupational defines all key occupations in the
+sector and is designed primarily through analysis
+of expert input.
+Standards describe the basic activities a National applies at the national level and can
+professional should be able to perform, and the only be developed by a relevant agency
+expected accomplishments. recognized by the government.
+Ne Figure 1: Basic elements of National Occupational Standards ورم
+(National Occupational Standard (NOS))
+The standards for each occupation define the key tasks of the job role, including tasks (key job
+activities), skills (competencies or acquired experiences), knowledge (academic backgrounds),
+and abilities (individual talents). The national frameworks provide a standard-setting instrument
+related to each occupation within the sector which serves as a reference guide for organizations
+and authorities in applications related to developing their human capabilities. These applications
+include several practices, such as recruiting and managing talents, developing job descriptions,
+workforce planning, professional guidance and development for individuals, performance eval-
+uation, developing accredited professional licenses and certificates, and developing national
+occupational policies.
+--- Page 7 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+3. Methodology for Building the National Occupational Standard
+Framework for Data and Artificial Intelligence
+The practices of building national standards for occupations are based on three key reference
+sources, foremost are subject matter experts (SMEs), followed by job postings, and reviewing
+the experiences of other authorities and countries that have previously built standards and oc-
+cupational components.
+There are several global methodologies for setting a framework for occupational standards,
+some of which focus solely on skills, while others are more comprehensive, as they are con-
+cerned with all the basic occupational components, from key tasks to skills, knowledge, and
+abilities, and this comprehensive methodology.
+To build the National Occupational Standard Framework for Data and Artificial Intelligence, in-
+ternational best practices and methodologies were followed to develop a special methodology.
+The following figure summarizes the most important stages of developing the national standard
+framework for such occupations.
+--- Page 8 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Working with SMEs (subject Defining occupations and Reviewing various global
+matter experts) of these following the best frameworks  local methodologies for
+occupations.  practices for developing occupational development
+each occupation.  standards.
+Collecting occupation data Adopting the most notable
+from several sources (SMEs, methodology for developing
+publications, research reports). standards that approved
+by the Ministry of Human
+Resources and Social
+Development.
+Classifing and coding of Accrediting by the Ministry
+data for each occupation of Human Resources and
+(Tasks, Skills, Knowledge, Social Development.
+Abilities).
+Implementing  developing Launching the pilot.
+the pilot.
+Figure 2: Stages of developing the National Occupational
+Standard Framework for Data and Artificial Intelligence
+--- Page 9 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+The framework methodology was determined to include the occupational components and to
+be consistent with the methodology followed by the Ministry of Human Resources and Social
+Development (as shown in Figure 3).
+Skill Knowledge Ability
+Skill Knowledge Ability
+Skill Knowledge Ability
+Figure 3: Comprehensive Methodology Used by the SDAIA
+Experts to Develop the National Occupational Standards
+Experience
+Skill Knowledge Ability
+Job
+In addition to the experience of the Ministry of Human Resources and Social Development,
+other local practices concerned with developing occupations in various sectors were reviewed,
+such as:
+General Authority for Statistics.
+Saudi Commission for Health Specialties.
+Saudi Central Bank.
+National Cybersecurity Authority.
+Ministry of Communications and Information Technology.
+--- Page 10 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+The process of developing the occupational standards framework included reviewing interna-
+tional best practices, whether in the business sector, scholarly literature, or national experiences
+of other countries specifically related to developing occupations in data and artificial intelligence
+sectors.
+In the business sector, the latest job postings for occupations in the data and artificial intelli-
+gence sectors, especially for major tech companies, were examined to benefit from them in
+developing occupational standards 
+In scholarly literature, scholarly publications were reviewed and benefited from (such as books
+that summarized the experiences and models of some sector experts), and reports from re-
+search groups for emerging jobs (such as reports from the European Union for Data and Al, and
+competency frameworks for some data occupations at the WHO) Examples of such organiza-tions:
+--- Page 11 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+We benefited from the experiences of other countries that developed standards for some data
+and Al occupations, such as US, UK, Canada, Australia, and Singapore. In the UK experience,
+for example, the skills for data occupations published in its occupational standard framework
+known as the Government Digital and Data Profession Capability Framework have been used.
+Also, it was benefited from the Canada Job Bank in developing and setting the framework for
+some occupations in Al industry. Examples of those countries whose experiences were re-
+viewed include:
+Canadian Jobs Bank
+US National Initiative for Cybersecurity
+Australian Government Jobs and Skills Australia
+US National Institute of Standards Techn
+Future Skills Initiative in Singapore
+UK Government Digital and Data Profession Capability Framework
+--- Page 12 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Reviewing and studying all these experiences and practices contributed to the development of
+a national product that sets a framework for the occupational standards in data and Al sectors
+that the Saudi labor market needs.
+The National Occupational Standard Framework for Data and Artificial Intelligence was devel-
+oped to include five main classifications. These classifications were then branched into ten
+specialty areas, from which sixteen occupations emerged. A set of tasks for each occupation
+and a list of the skills, Knowledge, and abilities necessary to perform each occupation were also
+developed. This resulted in sixteen cards for sixteen occupations that form the core of occupa-
+tional standards for data and Al. This framework was developed by a group of SDAIA national
+experts specialized in the development of human capabilities.
+The validation process took place in three stages to check, review and authenticate the content
+of the framework. The first stage was carried out by SDAIA SMEs in data and Al, and the second
+and third stages were carried out by national SMEs working in data and Al industry in the labor
+market within different sectors, such as: The digital, financial, health and education sectors, and
+their comments were reflected on the framework.
+This release is a pilot for the purpose of testing the framework, receiving feedback from profes-
+sional in the sector, and adding emerging occupations, and it will be updated regularly.
+--- Page 13 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+4. Classification of data and Al occupations
+The process of classifying occupations can be defined as an inclusive and integral process aiming to
+frame data and Al occupations according to nature of work, task execution methods, and qualification
+requirements, which resulting in dividing and sorting the occupations in classifications from which
+specialty areas and occupations branch off respectively.
+Data and Al occupations have been classified into five classifications, which include ten specialty
+areas for sixteen occupations. Each occupation is related to a set of key tasks, skills, knowledge, and
+abilities.
+Governance,
+Business
+and Leadership
+Data Science and Engineering and
+Management and Risk Reasearch
+Analytics Architecture
+Anlaysis
+Data analytics
+Governance Governance 4 Data Al Data and Al Al
+and Business
+and Risk and Risk Science Engineering Engineering Architecture Reasearch
+Intelligence
+Data and Al
+Consultancy leadership
+Management Management
+Data Al
+AN Chief Data Al Data Data Data Al Data
+Management Reasearch
+Consultant Officer Ethicist 3 Analyst Scientist Engineer Engineer Architect 3001
+Specialist Scientist
+Data
+thief Al Al Risk Data Qualit
+Quality Modeler
+Officer Analyst Analyst Associate
+Data
+Stewardship
+Specialist
+Data
+Governance
+Analyst
+--- Page 14 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Table (1) shows the categorization in National Occupational Standard Framework for Data and Artificial Intelligence.
+Table (1) the categorization in National Occupational Standard Framework for Data and Artificial Intelligence.
+ا
+Strategic leadership, business, organization directions
+Business and Leadership and vision formulation to achieve the strategic
+objectives.
+Governing, analyzing, and mitigating the effects to
+Governance Management  Risk Analytics ensure the development of responsibilities and ethics of
+your use of data and Al technologies.
+Collecting, organizing, and studying raw data and using
+Date Science  Analytics the advanced analysis techniques to provide visions that
+help stakeholders to make decisions.
+Designing, developing, executing, operating the Al
+solutions that the organization use.
+Engineering  Architecture
+Researching, innovating, and developing to cope with
+Research the development in the Al fields.
+--- Page 15 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Table (2) shows the specialty areas in the National Occupational Standard Framework for Data and Artifi-
+cial Intelligence and the classifications they include.
+Table (2) specialty areas in the data and Al occupations.
+Category Specialty Area
+Data  Artificial Intelligence (Al) Leadership
+Business and Leadership
+Artificial Intelligence (Al) Consultancy
+Artificial Intelligence (Al) Governance  Risk Management
+Governance Management  Risk Analytics
+Data Governance  Management
+Data Analytics  Business Intelligence
+Date Science  Analytics
+Data Science
+Data Engineering
+Engineering  Architecture Artificial Intelligence (Al) Engineering
+Data  Artificial Intelligence (Al) Architect
+Research Artificial Intelligence (Al) Research
+--- Page 16 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Table (8) illustrates the occupations of the National Occupational Standard Framework for Data
+and Artificial Intelligence and the specialty areas they include, since each occupation includes
+an identification symbol consisting of the initial letters of the occupations name and the first let-
+ter of the field. The letter (D) stands for the data field, and the letters (Al) stands for the artificial
+intelligence field. For example, D-CO stands for Chief Data Office.
+Field Code
+Ranking Occupation Code
+1 CHIEF DATA OFFICER D-CO
+Data  Artificial Intelligence (Al) Leadership
+2 CHIEF Al OFFICER Al-CO
+3 Artificial Intelligence (Al) Consultancy Al CONSULTANT دام
+4 Artificial Intelligence (Al) Governance Al ETHICIST AI-Eth
+5  Risk Management Al RISK ANALYST AI-RA
+6 DATA MANAGEMENT SPECIALIST D-MS
+7 DATA QUALITY ANALYST D-QA
+Data Governance  Management
+8 DATA STEWARDSHIP SPECIALIST D-SS
+9 DATA GOVERNANCE ANALYST D-GA
+10 Data Analytics  Business Intelligence DATA ANALYST D-An
+11 Data Science DATA SCIENTIST D-S
+12 Data Engineering DATA ENGINEER D-En
+pS
+13 Artificial Intelligence (Al) Engineering Al ENGINEER Al-En
+14 DATA ARCHITECT D-Ar
+Data  Artificial Intelligence (Al) Architect
+15 DATA MODELER ASSOCIATE D-Ma
+16 Artificial Intelligence (Al) Research Al RESEARCH SCIENTIST Al-R
+--- Page 17 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Tasks, knowledge, skills, and abilities of each profession specifies the job card details, since
+tasks, knowledge, skills, and abilities represent the performance of each profession within the
+National Occupational Standard Framework for Data and Artificial Intelligence.
+D-CO-TO1 Tstands for Task
+D stands for Data S stands for Skill
+Al stands for Artificial K stands for Knowledge
+Intelligence Occupations Code A stands for Ability
+--- Page 18 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+5. Job Card Details
+5.1 Business and Leadership Category
+Chief Data Officer
+WORK ROLE Chief Data Officer
+OCCUPATION CODE D-CO
+Business and Leadership
+SPECIALTY AREA Data and Artificial Intelligence (Al) Leadership
+GENERAL Chief Data Officer (CDO) is a senior executive responsible for leading the organizations data strategy, governance, and
+JOB operations to derive maximum value from its data assets. This job role is responsible for guiding the organization in
+DESCRIPTION becoming data-driven, leveraging data to improve decision-making, optimize operations, and achieve strategic objectives.
+D-CO-T01 Develop an integrated data strategy aligned with the organizations business objectives.
+D-CO-T02 Align the organizations data strategy with its business strategy.
+D-CO-T03 Lead the functions of data engineering, analytics, reporting and data governance.
+D-CO-T04 Oversee the development and implementation of the Business Intelligence (BI) strategy within an organization
+and ensure BI systems meet organizational requirements.
+D-CO-T05 Work with stakeholders to develop data policies and associated documentation in alignment with the
+organizations data strategy.
+D-CO-T06 Ensure sound data ethics and principles are reflected in the organizations mission, vision and goals.
+D-CO-T07 Ensure that organizational data strategy is effectively addressed by data policies and related documents.
+D-CO-T08 Develop and maintain strategic plans.
+D-CO-T09 Create a strategic roadmap for the systematic deployment and integration of essential data capabilities.
+D-CO-T10 Oversee the design and construction of a robust data infrastructure.
+D-CO-T11 Set guidelines for appropriate structuring and enrichment of data.
+D-CO-T12 Design a governance roadmap that prioritizes data quality, data management standards, and security
+protocols.
+D-CO-T13 Create long-term data governance initiatives that serve to improve data quality across all systems over time.
+D-CO-T14 Provide guidance on best practices related to data, including BI, data governance and data analytic.
+--- Page 19 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+D-CO-T15 Monitor and measure the effectiveness of data initiatives.
+D-CO-T16 Manage the regular review and maintenance of the organizations data policy and associated documentation.
+D-CO-T17 Build and manage a high-performing data team.
+D-CO-T18 Promote awareness of data policy and strategy as appropriate among the organizations management.
+D-CO-T19 Collaborate with stakeholders in the organization and with third parties when identifying future data strategy
+requirements and BI solutions.
+D-CO-T20 Determine key messages to communicate from analyses and oversee the creation of a narrative for storytelling.
+D-CO-T21 Effectively communicate financial aspects of data related activities to senior management.
+D-CO-T22 Acquire and manage the necessary resources, including leadership support, financial resources, and key data
+personnel, to support data governance goals and objectives and reduce overall organizational risk.
+D-CO-T23 Lead and oversee data budget, staffing, and contracting.
+D-CO-T24 Identify, recruit and manage appropriately skilled resources and high-performing data team.
+D-CO-T25 Supervise and effectively assign work to staff working on data related tasks.
+D-CO-T26 Work with others on policies, processes and procedures relating to data and privacy.
+D-CO-T27 Establish guidelines and criteria to direct historical data analytics, architecture, and technology.
+D-CO-T28 Advise on processes and procedures for gathering of operational data to examine past business performance
+D-CO-T29 Attend and present at international data events.
+D-CO-T30 Develop engagement and training programs to enhance the use of data-based technology within the
+organization.
+D-CO-T31 Stay current with best industry practices and new developments in data, research, competitive business
+intelligence, process improvement and business analytics.
+D-CO-T32 Stay current on emerging data trends and technologies.
+D-CO-T33 Develop use cases for utilizing data to solve organizations problems.
+D-CO-T34 Build and operate data warehouses andor data lakes in the organization.
+D-CO-T35 Implement data governance regulations and policies and ensure organizations compliance.
+--- Page 20 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+D-CO-S01 Skill in creating policies that reflect data D-CO-S07 Skill to use critical thinking to analyze
+SKILLS objectives. organizational patterns and relationships.
+D-CO-S02 Skill in designing and building data pipelines. D-CO-S08 Skill in developing policies which reflect the
+D-CO-S03 Skill in building Business Intelligence (Bl), organizations business and data strategic
+data capabilities and skill sets across the objectives.
+organization. D-CO-S09 Skill in continually identifying new technologies
+D-CO-S04 Skill in determining the normal operational  their potential impact on data requirements.
+state for data activities and how that state is D-CO-S10 Skill in mapping business problems to
+affected by change. appropriate data technologies.
+D-CO-S05 Skill to anticipate new data risks  identifying D-CO-S11 Skill in deriving maximum value from the
+them in a timely manner. data available to the organization.
+D-CO-S06 Skill in communicating with all levels of
+management including Board members
+(e.g., interpersonal skills, approachability,
+effective listening skills, appropriate use of
+style and language for the audience).
+D-CO-K01 Knowledge of data concepts, protocols, and D-CO-K10 Knowledge of big data concepts and tools
+KNOWLEDGE methodologies. for analyzing large and complex datasets.
+D-CO-K02 Knowledge of data warehousing concepts, D-CO-K11 Knowledge of data security best practices
+data modeling techniques,  data warehouse and tools for protecting data assets.
+platforms. D-CO-K12 Knowledge of data privacy principles, data
+D-CO-K03 Knowledge of data lake architectures, data security and privacy risks associated with
+ingestion and processing pipelines, and data data collection, storage, and use.
+lake management tools. D-CO-K13 Knowledge of the national data regulations
+D-CO-K04 Knowledge of data integration tools and  requirements relevant to the organization.
+techniques for extracting, transforming, and D-CO-K14 Knowledge of relevant data regulations.
+loading (ETL) data from various sources. D-CO-K15 Knowledge of best practices for data
+D-CO-K05 Knowledge of data quality dimensions, data management, governance, stewardship and
+quality monitoring tools, and data cleansing quality.
+techniques. D-CO-K16 Knowledge of emerging data-related issues
+D-CO-K06 Knowledge of data governance principles, and risks.
+frameworks, and tools for managing data D-CO-K17 Knowledge of data-related competitions
+access, security, and privacy. as a way of developing skills by providing
+D-CO-K07 Knowledge of data analysis and visualization hands-on experience in simulated real-world
+tools. situations.
+D-CO-K08 Knowledge of statistical methods and D-CO-K18 Knowledge of the industry landscape,
+techniques for data analysis. competitive environment, and market
+D-CO-K09 Knowledge of machine learning algorithms trends.
+and techniques for predictive modeling and
+data classification.
+--- Page 21 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+D-CO-A01 Ability to create clear, concise, and visually D-CO-A11 Ability to prioritize and allocate data
+ABILITIES appealing data visualizations. resources correctly and efficiently.
+D-CO-A02 Ability to influence  persuade stakeholders. D-CO-A12 Ability to relate strategy, business,  technology
+D-CO-A03 Ability to think strategically  translate data in the context of organizational dynamics.
+into actionable insights. D-CO-A13 Ability to recognize organizational challenges
+D-CO-A04 Ability to work in a fast-paced and dynamic from a  business, management
+environment. technological perspective.
+D-CO-A05 Ability to develop strategy, policy and related D-CO-A14 Ability to understand technology, management,
+documentation to support business strategy and leadership issues related to organization
+and maintain compliance with legislative, processes  problem solving.
+regulatory and contractual obligations. D-CO-A15 Ability to understand the basic concepts and
+D-CO-A06 Ability to apply critical readingthinking. issues related to data and its organizational
+D-CO-A07 Ability to exercise judgment when policies impact.
+are not well-defined. D-CO-A16 Ability to ensure data management processes
+D-CO-A08 Ability to demonstrate critical comprehension are integrated with strategic and operational
+of documentation. planning processes.
+D-CO-A09 Ability to communicate technical  planning D-CO-A17 Ability to engage with the organizations
+information at the same level as a stakeholders leadership to ensure data principles are
+understanding. applied in their areas of responsibility.
+D-CO-A10 Ability to interpret  apply laws, regulations,
+policies,  guidance relevant to organization
+data objectives.
+- Abachelors degree in computer science, computer systems engineering or a related discipline or completion of a college
+EDUCATION program in computer science is usually required.
+- A masters or doctoral degree in data science, business management or a related field is usually preferred.
+- Experience in data related technology, knowledge management, risk management, research is usually preferred.
+- Experience in a management or leadership role is usually required
+EXPERIENCE
+--- Page 22 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Chief Artificial Intelligence (Al) Officer
+WORK ROLE Chief Artificial Intelligence (Al) Officer
+OCCUPATION CODE Al-CO
+Business and Leadership
+SPECIALTY AREA Data and Artificial Intelligence (Al) Leadership
+GENERAL The Chief Artificial Intelligence Officer (CAIO) is a C-suite executive responsible for leading the organizations artificial
+intelligence (Al) strategy, governance, and operations to unlock the transformative potential of Al across all aspects of the
+JOB business. This work role guides the organization in becoming Al-driven, leveraging Al to automate tasks, optimize
+DESCRIPTION processes, enhance decision-making, and achieve strategic objectives.
+Al-CO-T01 Acquire  manage the necessary resources, including leadership support, financial resources, and key artificial
+intelligence personnel, to support artificial intelligence goals and objectives and reduce overall organizational
+risk.
+Al-CO-T02 Effectively communicate financial aspects of artificial intelligence related activities to senior management.
+Al-CO-T03 21 30 and oversee artificial intelligence budget, staffing, and contracting.
+Al-CO-T04 2 Supervise and effectively assign work to staff working on artificial intelligence related tasks.
+Al-CO-T05 2 Allocate resources to artificial intelligence roles.
+Al-CO-T06 2 Develop and maintain strategic plans.
+Al-CO-T07 Ensure that artificial intelligence requirements are aligned with the organizations artificial intelligence strategy.
+Al-CO-T08  Develop and maintain an artificial intelligence strategy that aligns to the organizations business strategy.
+Al-CO-T09 2 Obtain relevant resource to implement and maintain artificial intelligence solutions.
+Al-CO-T10 Promote awareness of artificial intelligence policy and strategy as appropriate among the organizations
+management.
+Al-CO-T11 Work with stakeholders to develop artificial intelligence policies and associated documentation in alignment
+with the organizations artificial intelligence strategy.
+Al-CO-T12 Align the organizations artificial intelligence strategy with its business strategy.
+Al-CO-T13 Work with others on policies, processes and procedures relating to artificial intelligence and privacy.
+Al-CO-T14  Ensure sound artificial intelligence principles are reflected in the organizations mission, vision and goals.
+Al-CO-T15  Work with others to implement and maintain an artificial intelligence risk management program.
+Al-CO-T16 Perform an artificial intelligence risk assessment.
+Al-CO-T17 Obtain resources to develop and implement effective processes to meet strategic artificial intelligence goals.
+Al-CO-T18 2 Promote and demonstrate the value of artificial intelligence to stakeholders within an organization.
+Al-CO-T19  Communicate effectively with third parties in the event of an artificial intelligence incident.
+Al-CO-T20 Review the effectiveness of the organizations artificial intelligence controls against its strategic goals.
+Al-CO-T21 Manage the regular review and maintenance of the organizations artificial intelligence policy and associated
+documentation.
+--- Page 23 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Al-CO-T22 2 Ensure that appropriate actions are taken to mitigate the risk in the event of an artificial intelligence incident.
+Al-CO-T23 Advocate artificial intelligence related topics with senior management, to ensure the organizations strategic
+goals include artificial intelligence.
+Al-CO-T24 2 Ensure that organizational artificial intelligence strategy is effectively addressed by artificial intelligence policies
+and related documents.
+Al-CO-T25 Ensure artificial intelligence requirements of all information technology systems are determined.
+Al-CO-T26 2 Collaborate with stakeholders in the organization and with third parties when identifying future artificial
+intelligence strategy requirements.
+Al-CO-T27 Identify and recruit appropriately skilled resources to address artificial intelligence activities within the
+organization.
+Al-CO-T28 Attend and present at international artificial intelligence events.
+Al-CO-T29 Develop engagement, rollout and training programs to enhance the use of Al-based technology within the
+organization.
+Al-CO-T30 2 Stay current with best industry practices and new developments in artificial intelligence, research, competitive
+intelligence, process improvement and business analytics.
+Al-CO-S01 Skill in creating policies that reflect artificial Al-CO-S09 Skill in overseeing the artificial intelligence
+SKILLS intelligence objectives. budget, resources, and infrastructure.
+Al-CO-S02 Skill in determining the normal operational Al-CO-S10 Skill in evaluating the artificial intelligence
+state for artificial intelligence systems and best practices  adopting the most suitable
+how that state is affected by change. ones.
+Al-CO-S03 Skill to anticipate new artificial intelligence Al-CO-S11 Skill in tackling the most challenging and
+risks and identifying them in a timely manner. critical artificial intelligence problems faced
+Al-CO-S04 Skill in communicating with all levels of by the organization.
+management including Board members Al-CO-S12 Skill in overseeing all artificial intelligence
+(e.g., interpersonal skills, approachability, projects and initiatives, ensuring they align
+effective listening skills, appropriate use of with business objectives.
+style and language for the audience). Al-CO-S13 Skill in building and maintaining relationships
+Al-CO-S05 Skill to use critical thinking to analyze with external artificial intelligence organizations,
+organizational patterns and relationships. partners, and communities.
+Al-CO-S06 Skill in evaluating the viability and legitimacy Al-CO-S14 Skill in managing and reviewing the output of
+of suppliers and products. other Al teams.
+Al-CO-S07 Skill in developing policies which reflect the Al-CO-S15 Skill in leading a team of Al scientists and
+organizations business  artificial intelligence engineers.
+strategic objectives. Al-CO-S16 Skill in fostering a culture of innovation and
+Al-CO-S08  Skill in continually identifying new technologies excellence.
+their potential impact on artificial intelligence Al-CO-S17 Skill in developing Al use cases to solve
+requirements. organizations problems.
+--- Page 24 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Al-CO-K01 Knowledge of artificial intelligence concepts Al-CO-KO9Knowledge of the likely operational impact
+KNOWLEDGE and methodologies. on an organization of artificial intelligence
+Al-CO-K02Knowledge of artificial intelligence system risks.
+design tools, methods and techniques. Al-CO-K10Knowledge of vulnerabilities in artificial
+Al-CO-K03Knowledge of the national artificial intelligence intelligence applications  their likely impact.
+regulations and requirements relevant to the Al-CO-K11Knowledge of public sources detailing
+organization. common risks of artificial intelligence
+Al-CO-K04Knowledge of national and organizational systems and mitigations.
+document and information classification and Al-CO-K12Knowledge of artificial intelligence and
+marking standards, policies and procedures. privacy principles.
+Al-CO-KOSKnowledge and understanding of risk Al-CO-K13Knowledge of specific operational impacts
+assessment, mitigation and management of artificial intelligence lapses.
+methods. Al-CO-K14Knowledge of emerging artificial intelligence
+Al-CO-KO6Knowledge of best practices for artificial issues and risks.
+intelligence risk management. Al-CO-K15Knowledge of artificial intelligence competitions
+Al-CO-K07Knowledge of artificial intelligence aspects as a way of developing skills by providing
+of business continuity and disaster recovery hands-on experience in simulated real-world
+planning. situations.
+Al-CO-KO08Knowledge of relevant artificial intelligence
+aspects of legislative and regulatory
+requirements, relating to ethics and privacy.
+Al-CO-A01 Ability to develop strategy, policy and related Al-CO-A08 Ability to relate strategy, business, and
+ABILITIES documentation to support business strategy technology in the context of organizational
+and maintain compliance with legislative, dynamics.
+regulatory and contractual obligations. Al-CO-A09 Ability to recognize organizational challenges
+Al-CO-A02 Ability to apply critical readingthinking. from a business, management  technological
+Al-CO-A03 Ability to exercise judgment when policies perspective.
+are not well-defined. Al-CO-A10 Ability to understand the basic concepts and
+Al-CO-A04 Ability to demonstrate critical comprehension issues related to artificial intelligence and its
+of documentation. organizational impact.
+Al-CO-A05 Ability to communicate technical  planning Al-CO-A11 Ability to ensure artificial intelligence
+information at the same level as a stakeholders management processes are integrated with
+understanding. strategic  operational planning processes.
+Al-CO-A06 Ability to interpret  apply laws, regulations, Al-CO-A12 Ability to engage with the organizations
+policies,  guidance relevant to organization leadership to ensure artificial intelligence
+artificial intelligence objectives. principles are applied in their areas of
+Al-CO-A07 Ability to prioritize and allocate artificial responsibility.
+intelligence resources correctly  efficiently.
+--- Page 25 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+- A bachelors degree in computer science, computer systems engineering or a related discipline or completion of a college
+program in computer science is usually required.
+- Amasters or doctoral degree in artificial intelligence, machine learning, data science, business management or a related
+field is usually preferred.
+EDUCATION
+EXPERIENCE - Experience in a management or leadership role is usually required.
+--- Page 26 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Artificial Intelligence (Al) Consultant
+WORK ROLE Artificial Intelligence (Al) Consultant
+OCCUPATION CODE Al-C
+Business and Leadership
+SPECIALTY AREA Artificial Intelligence (Al) Consultancy
+GENERAL Al consultants use advanced programming  analytics technologies, including machine learning and predictive modelling, to
+support the identification of trends, scrape information from unstructured data sources and provide automated
+JOB recommendations. They are employed by both private and public consulting firms  information technology departments to
+DESCRIPTION deal with big emerging data and new Al algorithms and tools. Al consultants work with multi-disciplinary teams to support
+clients in a wide range of data initiatives aiming to generate and present new, useful and actionable insights.
+Al-C-T01 Identify and comprehend the specific needs and problems of clients.
+Al-C-T02 Formulate artificial intelligence strategies aligned with business objectives.
+Al-C-T03 Analyze the impact of solutions and providing guidance for improvement.
+Al-C-T04 Research and learn about the latest technologies and tools in the field of data and artificial intelligence.
+Al-C-T05 Collaborate with experts in the field of artificial intelligence to support and achieve business goals.
+Al-C-T06 Assist and encourages the development of objectives, strategies and plans aimed at achieving clients
+satisfaction and the efficient use of organizations resources.
+Al-C-T07 Analyze data structures, quality, and patterns for artificial intelligence model development.
+Al-C-T08 Create, customize, and implement machine learning models.
+Al-C-T09 Evaluate model performance, test for accuracy, and validate results.
+Al-C-T10 Work with clients to develop artificial intelligence policies and associated documentation in alignment with the
+organizations artificial intelligence strategy.
+Al-C-T11 Review artificial intelligence operating procedures and advise on their alignment with the organizations
+procedures and standards.
+Al-C-T12 Confer with clients to identify and document requirements related to Al projects.
+Al-C-T13 Conduct business and technical studies.
+Al-C-T14 Design, develop and implement artificial intelligence solutions.
+Al-C-T15 Provide advice on artificial intelligence systems strategy, policy, management and service delivery.
+Al-C-T16 Integrate artificial intelligence solutions into existing systems or processes.
+Al-C-T17 Assess artificial intelligence risks to organizations data and applications.
+Al-C-T18 Develop policies, procedures and contingency plans to minimize the effects of artificial intelligence risks.
+Al-C-T19 Conduct reviews to assess quality assurance practices, software products and artificial intelligence systems.
+Al-C-T20 Analyze and evaluates current artificial intelligence systems and structures.
+Al-C-T21 Discusses current artificial intelligence systems with staff and observes systems at all levels of organization.
+Al-C-T22 Directs clients towards more efficient organization and develops solutions with artificial intelligence to solve
+organizational problems.
+Al-C-T23 Directs clients towards obtaining resources to develop and implement effective processes to meet strategic
+artificial intelligence goals.
+Al-C-T24 Stay current with best industry practices and new developments in artificial intelligence, research, competitive
+intelligence, process improvement and business analytics.
+Al-C-T25 Continuously monitor artificial intelligence systems, update models, and maintain performance.
+Al-C-T26 Educate clients on artificial intelligence technologies, their benefits, and provide ongoing support.
+--- Page 27 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Skill in various artificial intelligence techniques, Al-C-S10 Skill in providing guidance and advice to 1-0-501م
+SKILLS including machine learning algorithms, such enable decision-making about tasks,
+as deep learning models and common situations, and processes.
+Al-C-S11 Skill in preparing and delivering written, oral
+Al-C-S02 Skill in organizing and coordinating the or visual material for the workplace that
+activities of groups and individuals to align presents information.
+their activities with organizational objectives. Al-C-S12 Skill in developing alliances, contacts or
+AI-C-S03 Skill in a examining  investigating problems, partnerships, and exchanging information
+sites or objects to ensure compliance with with others.
+safety standards, laws or regulations. Al-C-S13 Skill in directing and monitoring the
+Al-C-S04 Skill in examining artificial intelligence activities performance of others.
+to determine appropriate actions or Al-C-S14 Skill in directing processes and procedures
+recommendations. to ensure they add measurable value.
+Al-C-S05 Skill in analytical reasoning, problem solving Al-C-S15 Skill in applying analytical methods including
+and critical thinking. exploratory data analysis and statistical
+Al-C-S06  Skill in investigating and trying-out new tools testing to a specific data set, to reach
+and technologies as they are released. accurate and reliable conclusions.
+Al-C-S07 Skill in conveying technical advice  guidance Al-C-S16 Skill in customizing artificial intelligence
+to clients. solutions for different sectors based on
+understanding sector-specific requirements.
+Al-C-S08 Skill in communicating  explaining complex
+artificial intelligence concepts to non-technical Al-C-S17 Skill in managing artificial intelligence
+stakeholders, and the ability to work in a projects effectively, including planning,
+consulting capacity, understanding client resource allocation, and meeting project
+needs  providing effective solutions. deadlines.
+Al-C-S18 Skill in staying up to date with the latest
+Al-C-S09 Skill in building trust and rapport with clients, developments i. artificial intelligence
+understanding their needs and concerns, machine learning, and related technologies.
+and providing them with the best possible Al-C-S19 Skill in empathizing with customers
+service. stakeholders and understand their needs.
+Al-C-K01 Knowledge of consulting, client interactions, Al-C-K0O7 Knowledge of principles, techniques and
+KNOWLEDGE and understanding client needs to provide tools applied in the development of precision
+tailored artificial intelligence (Al) solutions. technical plans, drawings  working models.
+Al-C-K02 Knowledge of computer programming and Al-C-KO8 Knowledge of the benefits of applied
+coding languages used in artificial intelligence mathematics and statistics in carrying out
+development. artificial intelligence tasks.
+Al-C-K03 Knowledge of ethical considerations in Al-C-KO9 Knowledge of critique statistical analyses,
+artificial intelligence development, ensuring  application of machine learning techniques
+fairness, transparency, and accountability in  methodologies.
+artificial intelligence systems. Al-C-K10 Knowledge of quantitative  qualitative
+Al-C-K04 Knowledge of statistical analysis, data analytics.
+manipulation, and data visualization tools. Al-C-K11 Knowledge of the principles and practices of
+Al-C-K05 Knowledge of computer vision and natural managing businesses.
+language processing techniques. Al-C-K12 Knowledge of main concepts of deep
+Al-C-KO6 Knowledge of self-motivation tips for learning.
+continuous development. Al-C-K13 Knowledge of national  related international
+regulations and policies related to Al.
+27
+--- Page 28 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Al-C-A01 Ability to identify business problems and Al-C-A08 Ability to contextualize  extract actionable
+ABILITIES develop artificial intelligence (Al) solutions insights from data.
+that address those issues effectively. Al-C-A09 Ability to effectively communicate complex
+Al-C-A02 Ability to work in a consulting capacity, technical concepts to non-technical
+interview customers, understand customer stakeholders, including clients, management,
+needs and provide effective solutions. or team members.
+Al-C-A03 Ability to collect, clean, and analyze data to Al-C-A10 Ability to work in multidisciplinary teams,
+derive meaningful insights. collaborating with data scientists, engineers,
+Al-C-A04 Ability to design, develop,  optimize artificial business analysts,  other professionals to
+intelligence models tailored to specific deliver comprehensive artificial intelligence
+business needs. solutions.
+Al-C-A05 Ability to work under tight timelines, in cases AI-C-A11 Ability to travel and work abroad for
+for multiple project deliveries. international projects.
+Al-C-A06 Ability to work effectively within high- Al-C-A12 Ability to do advanced technical writing skills
+performing teams. in Arabic and English (additional languages
+Al-C-A07 Ability to to analytically define problems and will be a plus).
+create effective artificial intelligence-driven
+solutions for business challenges.
+- Abachelors degree in computer science, computer systems engineering or a related discipline or completion of a college
+EDUCATION program in computer science is usually required.
+- A masters or doctoral degree in artificial intelligence, data science, or a related field is usually preferred.
+EXPERIENCE - Experience in providing artificial intelligence services is usually required.
+--- Page 29 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+5.2 Governance Management and Risk Analytics Category
+Artificial Intelligence (Al) Ethicist
+WORK ROLE Artificial Intelligence (Al) Ethicist
+OCCUPATION CODE Al-Eth
+Governance, Management and Risk Analysis
+SPECIALTY AREA Artificial Intelligence (Al) Governance and Risk Management
+GENERAL
+JOB
+DESCRIPTION
+Al Ethicists are responsible for analyzing and evaluating the ethical implications of Al systems and making
+recommendations to ensure that our Al solutions are designed and used responsibly, fairly, and transparently.
+Al-Eth-T01 Set policies to ensure artificial intelligence (Al) development adheres to ethical principles and societal norms.
+Al-Eth-T02 Conduct reviews to identify potential ethical issues and suggest remedies before an Al project goes live.
+Al-Eth-T03 Conduct ethical impact assessments of Al systems, including identifying potential biases, discrimination, and
+negative impacts on individuals and society.
+Al-Eth-T04 Evaluate potential risks associated with Al projects and ensure these projects comply with existing ethical
+guidelines and regulations.
+Al-Eth-T05 Review Al algorithms and models to ensure they align with ethical principles and best practices.
+Al-Eth-T06 Advise on the ethical implications of Al-related decisions and provide guidance to decision-makers.
+Al-Eth-T07 Develop ethical guidelines and policies for developing, deploying, and using Al systems.
+Al-Eth-T08 Develop and implement ethical guidelines and policies for Al development and deployment.
+Al-Eth-T09 Stay up to date with the latest research, developments, regulations, and best practices in Al ethics and
+contribute to the wider Al ethics community.
+Al-Eth-T10 Work with legal and regulatory teams to ensure compliance with relevant laws and regulations regarding Al and
+ethics.
+Al-Eth-T11 Develop and deliver training and educational materials on Al ethics for internal and external audiences.
+Al-Eth-T12 Engage with stakeholders, including customers, partners, and the public, to ensure Al systems align with their
+values and expectations.
+Al-Eth-T13 Ensure the responsible and ethical use of data in Al systems, including protecting the privacy and confidentiality
+of sensitive data.
+Al-Eth-T14 Leverage tools to improve Als performance and trustworthiness throughout the Al lifecycle.
+Al-Eth-T15 Collaborating with cross-functional teams to identify ethical concerns and propose solutions to mitigate them.
+Al-Eth-T16 Participate in interdisciplinary teams to develop solutions to complex ethical challenges related to Al.
+Al-Eth-T17 Work with business and technical stakeholders to identify and assess potential risks and impacts, recommend
+appropriate mitigations, and prevent harm.
+Al-Eth-T18 Collaborate with cross-functional teams to integrate ethical considerations into the design  development of Al
+systems.
+--- Page 30 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Al-Eth-S01 Skill in establishing policies for responsible Al-Eth-SO7 Skill in supporting effectively other
+د artificial intelligence (Al) development. organizational members in implementing Al
+AI-Eth-S02 Skill in developing Al ethics tools  translate ethics.
+theoretical principles into practice. AI-Eth-S08  Skill in working with consequential or
+AI-Eth-S03 Skill in conducting ethics reviews of Al complex risks.
+projects. AI-Eth-S09 Skill in applying different risk methodologies
+Al-Eth-S04 Skill in assessing potential ethical risks and in proportion to the risk.
+ensuring compliance. AI-Eth-S10 Skill in building consensus between services
+Al-Eth-S05 Skill in educating and raising awareness of Al or independent stakeholders.
+practices  ethics. AI-Eth-S11 Skill in collaborating with cross-functional
+Al-Eth-S06 Skill in communicating effectively to explain and interdisciplinary teams.
+and raise awareness of data  Al ethics Al-Eth-S12 Skill in working with business stakeholders.
+issues, and to listen to, convene, advise, Al-Eth-S13 Skill in ethical impact assessments,
+and mediate between various parts of the algorithmic bias,  societal implications of Al.
+organization. Al-Eth-S14  Skill in defining ethics benchmarks for
+privacy and fairness.
+Al-Eth-K01 Knowledge of policy, law, regulatory Al-Eth-K06 Knowledge of relevant Al ethics frameworks
+KNOWLEDGE processes,  industry standards in artificial and regulations.
+intelligence (Al) or related field. AI-Eth-K07 Knowledge of different values  ethics norms
+Al-Eth-K02 Knowledge of ethical principles and theories among different cultures, and adapt to local
+and their applications to Al. values and ethics norms.
+Al-Eth-K03 Knowledge of how technology  Al products Al-Eth-KO8Knowledge of ethics guidelines for the
+and services are built. research and development of artificial
+Al-Eth-K04 Knowledge of social sciences  Als impact intelligence, such as Asilomar Al Principles.
+on society.
+Al-Eth-KO5Knowledge of ethical principles and best
+practices related to Al, including fairness,
+transparency, accountability, and human rights.
+--- Page 31 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+AI-Eth-A01 Ability to share expertise in writing and AI-Eth-AO5Ability to communicate complex Al ethics
+ABILITIES verbally with other members of the team. concepts clearly to stakeholders.
+Al-Eth-A02 Ability to communicate  express technical Al-Eth-A06Ability to engage with stakeholders at all
+viewpoints to senior stakeholders with levels.
+succinctness and clarity. AI-Eth-A07 Ability to think critically and analytically.
+AI-Eth-A03 Ability to analyze complex ethical issues and AI-Eth-AO8Ability to trace through complex Al
+propose solutions. technologies  data processes to determine
+Al-Eth-A04Ability to work independently and manage the cause of harm.
+multiple projects  priorities simultaneously.
+- Abachelors degree in computer science, computer systems engineering or a related discipline or completion of a college
+EDUCATION program in computer science is usually required.
+- Amasters or doctoral degree in artificial intelligence (Al), data science or a related field is usually preferred.
+EXPERIENCE - Experience in artificial intelligence and ethics is usually preferred.
+--- Page 32 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Artificial Intelligence (Al) Risk Analyst
+WORK ROLE Artificial Intelligence (Al) Risk Analyst
+OCCUPATION CODE Al-RA
+Governance, Management and Risk Analysis
+SPECIALTY AREA Artificial Intelligence (Al) Governance and Risk Management
+GENERAL
+JOB
+DESCRIPTION
+Al Risk Analysts specialize in identifying, evaluating, and mitigating potential risks associated with artificial intelligence (Al)
+systems. Their primary goal is to ensure the responsible and ethical development, deployment, and use of Al technologies.
+AI-RA-T01 Ensure artificial intelligence (Al) risks are identified and managed appropriately through the organizations risk
+governance process.
+Al-RA-T02 Support the Al governance process over the Al inventory, issue tracking, governance meetings  management
+reporting.
+Al-RA-T03 Carry out an Al risk assessment.
+Al-RA-T04 Use continuous monitoring tools to assess risk on an ongoing basis.
+AI-RA-T05 Work with organizational officials to ensure continuous monitoring tool data provides situation awareness of risk
+levels.
+AI-RA-T06 Regularly monitor Al systems in production to detect and address any emerging risks or issues.
+AI-RA-T07 Perform risk analysis whenever an application or system undergoes a major change.
+Al-RA-T08 Conduct an initial risk assessment of stakeholder assets and update the risk assessment on an ongoing basis.
+Al-RA-TO9 Provide input to the risk management framework and related documentation.
+AI-RA-T10 Ensure that decisions relating to Al are based on sound risk management principles.
+Al-RA-T11 Develop methods to effectively monitor and measure risk, compliance and assurance efforts.
+Al-RA-T12 Develop risk mitigation strategies to effectively manage risk in accordance with organizational risk appetite.
+Al-RA-T13 Devise strategies and protocols to minimize risks associated with Al, including developing robust testing
+methods and risk management frameworks.
+Al-RA-T14 Contribute to development of the Al risk management program through independent learning, on job
+experience and collaboration with the team, Al application owners and other lines.
+Al-RA-T15 Stay updated with regulations and standards related to Al ethics and ensuring that Al systems comply with
+these guidelines.
+AI-RA-T16 Work with others to implement and maintain a Al risk management program.
+Al-RA-T17 Cultivate relationships and channels of communication across all teams to build risk culture, promote Al risk
+management, share in best practices and provide independent perspective on initiatives and issues related to
+Al applications.
+AI-RA-T18 Educate stakeholders and the public about Al risks, advocating for responsible Al practices, and contributing
+to the development of Al governance frameworks.
+--- Page 33 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+AI-RA-S01 Skill in performing artificial intelligence (Al) AI-RA-SO9 Skill in communicating with others on the
+SKILLS . .
+related impact and risk assessments. required tasks assigned.
+AI-RA-S02 Skill in using risk scoring to inform AI-RA-S10 Skill in using of critical thinking and problem
+performance-based and cost-effective solving skills.
+approaches to help an organization manage AI-RA-S11 Skill in working with stakeholders to identify
+its artificial intelligence risk. Al risks.
+AI-RA-SO3 Skill in identifying potential risks inherent in AI-RA-S12 Skill in collaborating with domain experts to
+Al systems, such as biases, safety concerns, understand requirements and define project
+security vulnerabilities, or ethical implications. objectives.
+Al-RA-S04 Skill in assessing the Al risks. Al-RA-S13 Skill in project management and delivery
+Skill in working with consequential or complex methodologies such as agile approach. 84-505 -ام
+risks. AI-RA-S14 Skill in communicating risks  Al concepts to
+Skill in applying different risk methodologies non-technical audiences. 884-506 -ام
+in proportion to the risk. AI-RA-S15 Skill in evaluating the Al best practices and
+Skill in assessing Al solutions computation adopting the most suitable ones. 88-507 -ام
+requirements to estimate of compute AI-RA-S16 Skill in building and maintaining relationships
+resources. with external Al organizations, partners, and
+AI-RA-S08 Skill in using best practices and tools to test, communities.
+deploy, manage, and monitor Al models, AI-RA-S17 Skill in educating and raising awareness of Al
+systems and risks. risks.
+Al-RA-K01 Knowledge of relevant artificial intelligence Al-RA-K07 Knowledge of the national Al and data
+KNOWLEDGE (Al) aspects of legislative and regulatory regulations and requirements relevant to the
+requirements, relating to ethics and privacy. organization.
+Al-RA-K02 Knowledge and understanding of risk Al-RA-K08 Knowledge of data classification standards
+assessment, mitigation and management and methodologies as they relate to the
+methods. management of Al risk.
+Al-RA-K03 Knowledge of the principles of Al and risk AI-RA-KO9 Knowledge  application of privacy, security
+management. compliance,  ethical Al approaches
+Al-RA-K04 Knowledge of business practices within Al-RA-K10 Knowledge of privacy and ethical Al
+organizations. approaches.
+Al-RA-K05 Knowledge of the Core Al disciplines such 5 Al-RA-K11 Knowledge of risk scoring as part of a risk
+CV, NLP, Deep Learning. management process.
+Al-RA-K06 Knowledge of best practices for supply
+chain risk management.
+33
+--- Page 34 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Al-RA-A01 Ability to work with the organizations Al-RA-A05 Ability to implement supply chain risk
+ABILITIES leadership to provide a comprehensive, management standards.
+organization - wide approach to address AI-RA-A06 Ability to apply techniques and tools for
+artificial intelligence (Al) risk. detecting risks Al.
+AI-RA-A02 Ability to work with the organizations Al-RA-A07 Ability to comply with local and global data
+leadership to share Al risk related governance regulations
+information. AI-RA-A08 Ability to work independently with minimal
+Al-RA-AO3 Ability to work with the organizations supervision.
+leadership to provide oversight for all Al risk Al-RA-A09 Ability to challenge and influence ina
+management related activities. collaborative way.
+Al-RA-A04 Ability to work with the organizations
+leadership to determine the organizations
+risk posture based on the aggregated risk
+from its operations and its use of systems.
+- A bachelors degree in computer science, computer systems engineering or a related discipline or completion of a college
+EDUCATION program in computer science is usually required.
+- A masters or doctoral degree in machine learning, data science, or a related quantitative field is usually preferred.
+EXPERIENCE - Experience in artificial intelligence  managing risks techniques and methodologies is usually required.
+--- Page 35 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Management Specialist
+WORK ROLE Data Management Specialist
+OCCUPATION CODE D-MS
+Governance, Management and Risk Analysis
+SPECIALTY AREA Data Governance and Management
+Coordinating, researching, and providing technical support in the field of data structuring and data integration
+GENERAL encompasses various key responsibilities. This includes integrating descriptive data, managing and ensuring the
+JOB controlled delivery of data, and capturing and modeling data requirements along with data definitions and business rules.
+This role is crucial for optimizing data utilization, ensuring data quality, and enabling seamless access to information,
+DESCRIPTION ultimately contributing to effective decision-making and organizational success.
+D-MS-T01 Analyze and plan for anticipated changes in data capacity requirements.
+D-MS-T02 Maintain data management systems software.
+D-MS-T03 Collaborate with other teams or systems administrators to maintain information exchanges through publish,
+subscribe, and alert functions that enable users to send and receive critical information as required.
+D-MS-T04 Manage the compilation, cataloging, caching, distribution, and retrieval of data.
+D-MS-T05 Monitor and maintain data management to ensure optimal performance.
+D-MS-T06 Implement data management standards, requirements, and specifications.
+D-MS-S01 Skill in conducting queries to analyze data D-MS-S03  Skill in maintaining data management. (i.e.,
+SKILLS structures. backup, restore, delete data, transaction log
+D-MS-S02 Skill in generating queries and reports. ills, Ste).
+D-MS-S04  Skill in optimizing data management
+performance.
+D-MS-K01 Knowledge the foundations of computer D-MS-K06 Knowledge of data management systems,
+KNOWLEDGE networking concepts  protocols,  network query languages, table relationships,  views.
+security methodologies. D-MS-K07 Knowledge of digital rights management.
+D-MS-K02. Knowledge of risk management processes D-MS-K08 Knowledge of policy-based  risk adaptive
+(e.g., methods for assessing  mitigating access controls.
+risk). D-MS-K09 Knowledge of query systems.
+D-MS-K03 Knowledge of laws, regulations, policies, D-MS-K10 Knowledge of sources, characteristics,  uses
+and ethics as they relate to data and privacy. of the organizations data assets.
+D-MS-K04 Knowledge of data administration and data D-MS-K11 Knowledge of the basics of database access
+standardization policies. application programming interfaces (e.g.,
+D-MS-K05 Knowledge of data mining  data warehousing Java Database Connectivity JDBC)).
+principles. D-MS-K12 Knowledge of database theory.
+--- Page 36 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+D-MS-A01 Ability to maintain data management. (i.e., D-MS-A02 Ability to multi-task, collaborate with peers,
+ABILITIES backup, restore, delete data, transaction log customers, and management to accomplish
+files, etc.). a variety of different tasks in a constantly
+changing environment.
+- A bachelors degree in computer science, statistics, business information systems, information management or a related
+discipline is usually required.
+- A masters or doctoral degree in data science, economics, information management (if curricula contain data
+management) or a related field is usually preferred.
+EDUCATION
+EXPERIENCE - Experience in data management techniques and methodologies is usually required.
+--- Page 37 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Data Quality Analyst
+WORK ROLE Data Quality Analyst
+OCCUPATION CODE D-QA
+Governance, Management and Risk Analysis
+SPECIALTY AREA Data Governance and Management
+GENERAL A Data Quality Analyst is responsible for ensuring that data is accurate, complete, and consistent. They develop and
+implement data quality standards and processes to ensure that data is clean and reliable. Data quality analysts work
+JOB closely with data analysts to identify and resolve data quality issues, and they may also work with Data governance teams
+DESCRIPTION to develop policies and procedures for Data management.
+D-QA-T01 Develop and implementing data quality standards and processes.
+D-QA-T02 Collaborate with data management teams and business analysts to identify and define critical data
+D-QA-T03 Conduct data quality assessments to identify issues.
+D-QA-T04 Work to evaluate the impact resulting from data quality challenges
+D-QA-T05 Work with Data governance teams to develop policies and procedures for data management.
+D-QA-T06 Carry out analysis techniques for data inspection, exploration and visualization
+D-QA-T07 Develop and implementing data quality metrics to measure the effectiveness of data quality processes.
+D-QA-T08 Collaborate with data analysts to identify and resolve data quality issues.
+D-QA-T09 Ensur compliance with data Privacy regulations.
+D-QA-S01 Skills in building business-specific standards D-QA-S05 Skill in communicating  collaborating with
+SKILLS
+and common data models. other data teams.
+D-QA-S02 Skill in designing a data analysis structure D-QA-S06 Skill in utilizing data governance frameworks
+(i.e., the types of data a test must generate and privacy tools.
+and how to analyze that data). D-QA-S07 Skill in applying master data management
+D-QA-S03 Skill in conducting data quality assessments models  privacy principles to organizational
+using statistics, data visualization, exploratory requirements (relevant to confidentiality,
+levis cimehiyets, camel eine iiehy elevate. integrity, availability, authentication,
+D-QA-S04 Skill in structured query language and data non-repudiation).
+collection and presentation tools.
+--- Page 38 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+D-QA-K01 Knowledge of risk management processes D-QA-K04 Knowledge of data and privacy principles
+KNOWLEDGE (e.g., methods for assessing and mitigating and organizational requirements (relevant
+risk). to confidentiality, integrity, availability,
+D-QA-K02 Knowledge of laws, regulations, policies, authentication, non-repudiation).
+and ethics as they relate to data governance, D-QA-K05 Knowledge of the data maturity assessment
+compliance and privacy. models and metrics.
+D-QA-K03 Knowledge of organizations data schemes D-QA-K06 Knowledge of data quality standards and
+and validation tools and techniques. processes.
+D-QA-K07 Knowledge of the data governance principles.
+D-QA-A01 Ability to identify data quality issues. D-QA-A05 Ability to apply data and privacy principles
+ABILITIES D-QA-A02 Ability to analyze data quality issues. to organizational requirements (relevant
+D-QA-A03 Ability to collect, verify, and validate test to confidentiality, integrity, availability,
+data. authentication, non-repudiation).
+D-QA-A04 Ability to translate data and test results into D-QA-A06 Ability to multi-task, collaborate with peers,
+evaluative conclusions. customers, and management to accomplish
+a variety of different tasks in a constantly
+changing environment.
+- A bachelors degree in computer science, information technology , cybersecurity, managment information systems, or a
+related discipline is usually required.
+- A masters or doctoral degree in data science, economics, information technology (if curricula contain data quality) or a
+related field is usually preferred.
+EDUCATION
+- Experience in data quality assurance techniques and methodologies is usually required.
+--- Page 39 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Data Stewardship Specialist
+WORK ROLE Data Stewardship Specialist
+OCCUPATION CODE D-SS
+Governance, Management and Risk Analysis
+SPECIALTY AREA Data Governance and Management
+A data stewardship specialists are accountable for data assets and resources from a strategic perspective. They are
+GENERAL responsible for ensuring that the data acquisition, entry, quality, interoperability, and overall management supports the
+JOB needs of consumers, citizens, enterprises, organizations, or governments, while also ensuring adherence to social license,
+legislative, and regulatory requirements. They work with stakeholders and other deliberative or advisory bodies to develop
+DESCRIPTION definitions, standards, and data controls, and perform key functions in the ideation and implementation of data policies
+that are scalable, sustainable, and significant.
+D-SS-T01 Develop an understanding of customer requirements recommend specific data sources and types to satisfy
+mission needs.
+D-SS-T02 Identify issues and necessary changes to data systems.
+D-SS-T03 Perform data conditioning techniques and processes for data management purposes.
+D-SS-T04 Synchronize data from numerous sources develop data taxonomy to support integration into intelligence
+products.
+D-SS-T05 Nominate and implement data standards and ontology, and actively participates in the development of
+standards through working groups.
+D-SS-T06 Create and maintain metadata to quality specifications, and ensure data documentation is developed and
+maintained.
+D-SS-T07 Provide oversight during development of data for visualizationanalytic projects and develop schemas to
+ensure the data needs and requirements are documented.
+D-SS-T08 Ensure service interoperability and works to develop taxonomies where there are deficiencies in data
+standards.
+D-SS-T09 Determine requirements to collect data and identify existing data stores, disparate data, or data collection
+parameters, and ensures the data collected are consistent with data models to dissolve any data silos.
+D-SS-T10 D-SST10. Research data issues and inquiries and implements process for data transformations, to resolve data
+issues, collaboration on system changes, and the integrity and quality of data personally createdupdated.
+D-SS-T11 Conduct data validation and reconciliation processes following completion of data movement, and enforces
+processes for data quality issue resolution
+D-SS-T12 Ensure versions of data are maintained along with the history of changes, so that data content and changes can
+be audited.
+D-SS-T13 Collaborate with data scientists to apply data science principles to dataset interoperability.
+--- Page 40 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+D-SS-T14 Collaborate with data engineers to employ parallel processing and GPUs andor cloud computing to increase
+operational efficiencies of data query and use.
+D-SS-T15 Collaborate with data stewards and related teams to implement approved changes.
+D-SST16 Understand data standards and extraction specifications along with comprehension of how analysts currently
+utilize data and how they might expect to use content in the future.
+D-SS-T17 Interrogate, prepare data to deliver results andor deploy automated processes using related programming
+languages.
+D-SS-T18 Employ organizations data-related software for data analysis and data management.
+D-SS-T19 Communicate technically both orally and in writing and to constructively resolve data-related issues by leading
+andor working as a member of a team.
+D-SS-T20 Evaluate and utilize data services and applications to institute improvements to data content and structure,
+metadata, data models, data quality, accessibility and dissemination.
+D-SS-T21 Ensure established metadata policies  processes are adhered to for increased integration, access, efficiency,
+and discoverability.
+D-SS-T22 Build data schemas andor data profiles to enable multiple mission use of data.
+D-SS-T23 Apply knowledge of databases, data file formats, commercial imagery data, digital image processing
+techniques, and organizations data-related software.
+055-501 Skill in designing, implementing, monitoring, D-SS-S04 Skill in analyzing data, andor reconciling
+SKILLS andor maintaining databases. differences and redundancies to ensure
+D-Ss-s02 Skill in developing data set processes for consistency.
+data discovery, modeling, mining, andor D-S88-805 Skill in a variety of computing languages and
+production. tools e.g., scripting languages.
+Skill in acquiring, validating, integrating, Skill in data tools in the extraction and
+D-SS-S03 andor maintaining data within databases. D-SS-S06  attribution, preparation, management andor
+analysis of spatial data.
+D-SS-K01 Knowledge of data extraction, final product D-SS-K05 Knowledge of laws, regulations, policies,
+KNOWLEDGE and metadata specifications. and ethics as they relate to cybersecurity
+D-SS-K02 Knowledge of integrating data from various and privacy.
+sources and ensuring compatibility and D-SS-K06 Knowledge of data protection laws, industry
+smooth interaction between different regulations, and compliance standards
+systems. related to data handling and privacy.
+D-SS-K03 Knowledge of exploratory and confirmatory D-SS-K07 Knowledge of the fundamental principles
+data analysis. and practices of data governance, including
+D-SS-K04 Knowledge of risk management processes data ownership, accountability, and policies.
+(e.g., methods for assessing  mitigating risk).
+--- Page 41 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+D-SS-A01 Ability to communicate complex information, D-SS-A06 Ability to focus research efforts to meet the
+ABILITIES concepts, or ideas in a confident and customers decision-making needs.
+well-organized manner through verbal, written, D-SS-A07 Ability to function effectively in a dynamic,
+andor visual means. fast-paced environment.
+D-SS-A02 Ability to develop or recommend analytic D-SS-A08 Ability to function in a  collaborative
+approaches or solutions to problems and environment, seeking continuous consultation
+situations for which information is incomplete with other analysts and expertsboth internal
+or for which no precedent exists. and external to the organizationto leverage
+D-SS-A03 Ability to evaluate information for reliability, analytical and technical expertise.
+validity, and relevance. Ability to think critically.
+D-SS-A04 Ability to evaluate, analyze, and synthesize D-SS-A09 Ability to understand objectives and effects.
+large quantities of data (which may be D-SS-A10 Ability to multi-task, collaborate with peers,
+fragmented  contradictory) into high quality, D-SS-A11 customers, and management to accomplish a
+fused targetingintelligence products. variety of different tasks in a constantly
+D-SS-A05 Ability to exercise judgment when policies are changing environment.
+not well-defined.
+- A bachelors degree in computer science, statistics, information technology, software engineering, managment information
+systems, applied mathematics, or a related discipline is usually required.
+- Amasters or doctoral degree in data science, economics, information technology (if curricula contain data stewardship) or a
+related field is usually preferred.
+EDUCATION
+- Experience in data stewardship techniques and methodologies is usually required.
+--- Page 42 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Data Governance Analyst
+WORK ROLE Data Governance Analyst
+OCCUPATION CODE D-GA
+Governance, Management and Risk Analysis
+Data Governance and Management
+Coordinating, researching, and providing support in data governance efforts, framing workflow procedures, policy
+GENERAL development, and monitoring with representatives and data experts in the business. Ensuring awareness dissemination
+JOB and employee training in data management areas, as well as elevating data management and governance maturity levels.
+DESCRIPTION Analyzes datainformation from one or multiple sources to conduct preparation of the environment, respond to requests
+for information, and submit intelligence collection and production requirements in support of planning and operations.
+D-GA-T01 Assist in the coordination, validation, and management of all-source collection requirements, plans, andor
+activities.
+D-GA-T02 Maintain information exchanges through publish, subscribe, and alert functions that enable users to send and
+receive critical information as required.
+D-GA-T03 Coordinate with cybersecurity teams to maintain awareness of internal  external cyber organization structures,
+strengths, and employments of staffing and technology.
+D-GA-T04 Implement data management standards, requirements, and specifications.
+D-GA-T05 Evaluate threat decision-making processes.
+D-GA-T06 Identify threat vulnerabilities and how to protect the data (eg. laws and regulations..etc).
+D-GA-T07 Create requests for information and share data with relevant parties.
+D-GA-T08 Identify threat tactics and methodologies that are relevant to the data use.
+D-GA-T09 Ildentify and evaluate threat critical capabilities, requirements, and vulnerabilities that are relevant to the data
+use.
+D-GA-T10 Provide analyses and support for effectiveness assessment.
+D-GA-T11 Provide current intelligence support to critical internalexternal stakeholders as appropriate.
+D-GA-S01 Skill in developing or recommending analytic D-GA-S05 Skill in assessing a variety of data analytics
+SKILLS approaches or solutions to problems and techniques (such as data mining and
+prescriptive and predictive analytics) for
+complex data analysis through the whole
+or for which no precedent exists. data life cycle.
+situations for which information is incomplete
+D-GA-S02 Skill in generating queries and reports.
+D-GA-S03 Skill in evaluating information for reliability, D-GA-S06 Skill in writing, reviewing and editing data
+validity, and relevance governance procedures and policies.
+D-GA-S04 Skill in tailoring analysis to the necessary D-GA-S07 Communication and presentation skills.
+levels (e.g., classification  organizational).
+--- Page 43 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+D-GA-K01 Knowledge of information extraction. D-GA-K05 Knowledge of laws, regulations, policies,
+KNOWLEDGE a . 1
+D-GA-K02 Knowledge of digital rights management. and ethics as they relate to cybersecurity
+D-GA-K03 Knowledge of exploratory and confirmatory and privacy.
+data analysis. D-GA-K06 Knowledge of data and privacy principles.
+D-GA-K04 Knowledge of risk management processes
+(e.g., methods for assessing  mitigating risk).
+D-GA-A01 Ability to communicate complex information, D-GA-A04 Ability to evaluate, analyze, and synthesize
+ABILITIES concepts, or ideas in a confident and large quantities of data (which may be
+well-organized manner through verbal, fragmented  contradictory) into high quality,
+written, andor visual means. fused targetingintelligence products.
+D-GA-A02 Ability to collaborate with data engineers D-GA-A05 Ability to function effectively in a dynamic,
+analytics teams to develop or recommend fast-paced environment.
+analytic approaches or solutions to problems D-GA-A06 Ability to think critically.
+and situations for which information is D-GA-A07 Ability to think like threat actors.
+incomplete or for which no precedent exists. D-GA-A08 Ability to understand objectives and effects.
+D-GA-A03 Ability to evaluate information for reliability, D-GA-Aog Ability to multi-task, collaborate with peers,
+validity, and relevance. customers, and management to accomplish
+a variety of different tasks in a constantly
+changing environment.
+- A bachelors degree in computer science, law, mathematics, managment information systems, or a related discipline is
+usually required.
+- A masters or doctoral degree in data science, economics, information technology (if curricula contain data manament)
+or a related field is usually preferred.
+EDUCATION
+EXPERIENCE - Experience in data governance techniques and methodologies is usually required.
+--- Page 44 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+5.3 Date Science and Analytics Category
+Data Analyst
+WORK ROLE Data Analyst
+OCCUPATION CODE D-An
+Data Science and Analytics
+SPECIALTY AREA Data Analytics and Business Intelligence
+GENERAL Examines data from multiple disparate sources with the goal of providing security and privacy insight. Designs and
+JOB implements custom algorithms, workflow processes, and layouts for complex, enterprise-scale data sets used for
+modeling, data mining, and research purposes. A data analyst collects, organizes and studies data to provide business
+DESCRIPTION insight.
+D-An-T01 Analyze and define data needs, including current requirements and specification as well as plan with the DBA
+for future capacity demands.
+D-An-T02 Support data governancequality teams to develop data standards, policies, and procedures.
+D-An-T03 Collaborate with data engineers to manage the compilation, cataloging, caching, distribution, and retrieval of
+data including managed flow of relevant information (via web-based portals or other means) based on mission
+requirements.
+D-An-T04 Provide recommendations on new data management technologies and architectures.
+D-An-T05 Analyze data sources to provide actionable recommendations.
+D-An-T06 Assess the validity of source data and subsequent findings.
+D-An-T07 Collect metrics and trending data.
+D-An-T08 Apply analytical methods including exploratory data analysis and statistical testings for data inspection,
+exploration and visualisation.
+D-An-T09 Confer with systems analysts, engineers, programmers, and others to design application.
+D-An-T10 Identify, collect, and preprocess data from various sources to prepare it for analysis.
+D-An-T11 Apply appropriate statistical techniques to available data to discover new relations and offer insights, helping
+to improve organizational processes and support decision making.
+D-An-T12 Utilize open source tools to deal with data files  apply quantitative techniques (e.g., descriptive and inferential
+statistics, sampling, experimental design, parametric and non-parametric tests of difference, ordinary least
+squares regression, general line).
+--- Page 45 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+D-An-S01 Skill in conducting queries and developing D-An-S07 Skill in developing machine understandable
+SEES algorithms to analyze data structures. semantic ontologies.
+D-An-S02 Skill in creating and utilizing mathematical or D-An-S08 Skill in Regression Analysis (e.g., Hierarchical
+statistical models. Stepwise, Generalized Linear Model, Ordinary
+D-An-S03 Skill in generating queries and reports. Least Squares, Tree-Based Methods,
+D-An-S04 Skill in using programming and data tools to Logistic).
+collect, preprocess, and analyze data from D-An-S09  Skill in using basic descriptive statistics
+various sources. and techniques (e.g., normality, model
+D-An-S05 Skill in identifying hidden patterns or distribution, scatter plots).
+relationships. D-An-S10 Skill in the use of design modeling (e.g.,
+D-An-S06 Skill in performing analytical methods unified modeling language).
+including exploratory data analysis, D-An-S11 Skill in data mining techniques (e.g.,
+statistical testing, sensitivity analysis, outlier searching file systems) and analysis.
+identification and removal techniques. D-An-S12 Skill to identify sources, characteristics, and
+uses of the organizations data assets.
+D-An-K01 Knowledge of computer networking D-An-K06 Knowledge of sources, characteristics, and
+KNOWLEDGE concepts  protocols, and network security uses of the organizations data assets.
+methodologies. D-An-K07 Knowledge of the capabilities  functionality
+D-An-K02 Knowledge of computer programming associated with various technologies for
+principles. organizing and managing information (e.g.,
+D-An-K03 Knowledge of data administration and data databases, bookmarking engines).
+standardization policies. D-An-K08 Knowledge of advanced data remediation
+D-An-K04 Knowledge of data mining and data security features in databases.
+warehousing principles. D-An-K09 Knowledge of database access application
+D-An-K05 Knowledge of database management programming interfaces.
+systems, query languages, table D-An-K10 Knowledge of applications that can log errors,
+relationships, and views. exceptions, and application faults  logging.
+--- Page 46 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+D-An-A01 Ability to carry out data quality control, D-An-A06 Ability to use data visualization tools (e.g.,
+ABILITIES validation and linkage. Flare, HighCharts, AmCharts, D3.js,
+D-An-A02 Ability to produce clear graphical Processing, Google Visualization API,
+representations and data visualisations. Tableau, Raphael.js).
+D-An-A03 Ability to work with complex data structures D-An-A07 Ability to accurately and completely source
+using high-level programming languages. all data used in intelligence, assessment
+D-An-A04 Ability to dissect a problem and examine the andor planning products.
+interrelationships between data that may D-An-A08 Ability to multi-task, collaborate with peers,
+appear unrelated. customers, and management to accomplish
+D-An-A05 Ability to identify basic common coding a variety of different tasks in a constantly
+flaws at a high level. changing environment.
+- A bachelors degree in computer science, statistics, business information systems, information managment or a related
+discipline is usually required.
+- A masters or doctoral degree in data science, economics, science (if curricula contain data analysis) or a related
+quantitative field is usually preferred.
+EDUCATION
+- Experience in data analysis techniques and statistical methodologie is usually required.
+--- Page 47 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Data Scientist
+WORK ROLE Data Scientist
+OCCUPATION CODE D-S
+Data Science and Analytics
+SPECIALTY AREA Data Science
+GENERAL
+JOB
+DESCRIPTION
+Data scientists use advanced analytics technologies, including machine learning and predictive modelling, to support the
+identification of trends, scrape information from unstructured data sources and provide automated recommendations.
+D-S-T01 Resolve problems using applied mathematics, statistical methods and probability concepts such as processing
+data using descriptive statistics, applying probability concepts in random situations, quantifying relationship
+between variables
+D-S-T02 Apply analytical methods including exploratory data analysis and statistical testings for data inspection,
+exploration and visualisation.
+D-S-T03 Solve complex problems by applying tensor-based analysis techniques such as using systems of multi-linear
+equations, determining the results of tensor operations.
+D-S-T04 Use analytical methods, visualization, and statistical testing to find patterns and draw conclusions.
+D-S-TO5 Apply performance metrics and hypothesis testing to ensure model accuracy and effectiveness.
+D-S-TO6 Identify, collect, and preprocess data from various sources to prepare it for analysis.
+D-S-TO7 Build and evaluate statistical models and machine learning models to derive actionable insights and
+predictions.
+D-S-T08 Collaborate with ML engineers and MLOps Specialists to deploy machine learning models for various
+business-related applications, such as recommendation systems, fraud detection, and demand forecasting.
+D-S-T09 Work on data preparation, implement reusable cleaning processes, and utilize diverse data architectures and
+tools.
+0-5-501آ Skill in mastering statistical methods and D-S-S04  Skill in translating complex statistical output
+SKILLS diverse data analytics techniques (data
+into clear, actionable insights for diverse
+mining, predictiveprescriptive analytics) to
+Poe iences.
+tackle complex data throughout its lifecycle. Mel Mec
+--- Page 48 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+D-S-S02 Skill in employing various performance and D-S-S05 Skill in developing effective machine learning
+accuracy metrics for thorough statistical and statistical models to extract valuable
+assessment, model validation,  hypothesis insights from data.
+testing. D-S-S06 Skill in comparing selected applied
+D-S-S03  Skill in applying analytical methods including mathematics  statistical methods  identify
+exploratory data analysis  statistical testing their differences
+to a specific data set, to reach accurate and
+١ 1 D-S-S07 Skill in leveraging parallel and distributed
+reliable conclusions.
+computer architecture to handle large
+datasets efficiently.
+D-S-K0O1 Knowledge of applied  discrete mathematics, D-S-KO6 Knowledge of a broad range of statistical,
+KNOWLEDGE and graph theory. mathematical and advanced analytics tools
+0-5-1602 Knowledge of statistical paradigms (such that support organization.
+as regression, time series, dimensionality, D-S-KO7 Knowledge of probabilistic representations
+clusters). (causal networks, Bayesian analysis, Markov
+D-S-K03 Knowledge of inferential  predictive statistics. nets)
+D-S-K04 Knowledge of information retrieval techniques. D-S-K08 Knowledge of exploratory  confirmatory data
+D-S-KO5 Knowledge of advanced analytics techniques analysis.
+as well as machine learning  deep learning D-S-KO9 Knowledge of quantitative and qualitative
+algorithms. analytics.
+D-S-A01 Ability to interpreting statistical output D-S-A04 Ability to explore and confirm data analysis.
+ABILITIES effectively and accurately. 0-5-8405 Ability to multi-task, collaborate with peers,
+D-S-A02 Ability to applied mathematics and statistics, customers, and management to accomplish
+and can use this knowledge to carry out data a variety of different tasks in a constantly
+science tasks. changing environment.
+D-S-A03 Ability to extract information.
+- A bachelors degree in statistics, mathematics, computer science, computer systems engineering or a related discipline
+EDUCATION is usually required.
+- A masters or doctoral degree in machine learning, data science, or a related quantitative field is usually required.
+EXPERIENCE - Experience in programming is usually required.
+- Experience in statistical modelling or machine learning is usually required.
+--- Page 49 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+5.4 Engineering and Architecture Category
+Data Engineer
+WORK ROLE Data Engineer
+OCCUPATION CODE D-En
+Engineering and Architecture
+SPECIALTY AREA Data Engineering
+GENERAL A data engineer is an IT worker whose primary job is to prepare data for analytical or operational uses. These software
+JOB engineers are typically responsible for building data pipelines to bring together information from different source systems.
+They integrate, consolidate and cleanse data and structure it for use in analytics applications. They aim to make data easily
+DESCRIPTION accessible and to optimize their organizations big data ecosystem.
+D-En-T01 Design, implement, and manage data pipelines for acquiring, storing, and transforming large volumes of data.
+D-En-T02 Build and maintain data lakes, data warehouses and databases to ensure data availability and reliability.
+D-En-T03 Ensure data quality and integrity through data validation and cleaning processes.
+D-En-T04 Develop and implement data governance, privacy, and security measures to protect sensitive information.
+D-En-T05 Optimize data infrastructure for performance, scalability, and cost efficiency.
+D-En-T06 Troubleshoot and resolve issues related to data pipelines and data infrastructure.
+D-En-T07 Implement extraction-transformation-loading (ETL) processes and optimize data retrieval.
+D-En-T08 Engage in the most complex data challenges and solutions.
+D-En-T09 Source system analysis from a complex single or multiple data sources in a conformed model for analysis.
+D-En-T10 Design, build and test data products based on feeds from multiple systems, using a range of different storage
+technologies, access methods or both.
+D-En-T11 Work with metadata repositories to complete complex tasks such as data and systems integration impact
+analysis.
+D-En-T12 Manage the compilation, cataloging, caching, distribution, and retrieval of data.
+D-En-T13 Make dataset for predictive and prescriptive modeling.
+D-En-T14 Access to representative features that can describe a model.
+D-En-T15 Build data pipelines for different requirments.
+--- Page 50 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+D-En-S01 Skill in designing, coding, testing, correcting D-En-S06 Skill in explaining the types of problems in
+اتات  documenting simple-to-complex programs databases, data processes, data products
+and scripts from agreed specifications and and services.
+subsequent iterations. D-En-S07 Skill in extraction-transformation-loading (ETL)
+D-En-S02 Skill in undertaking data profiling  sourcing process.
+system analysis. D-En-S08 Skill in identifying technical solutions for
+D-En-S03 Skill in maintaining a repository to ensure complex data.
+information accuracy and quality. D-En-S09 Skill in designing, building and testing data
+D-En-S04 Skill in seting up robust governance and products that are complex or large scale
+security processes to keep repositories up to D-En-S10 Skill in data integration methods and
+date. frameworks.
+D-En-S05 Skill in knowing how to best to optimize data D-En-S11 Skill in producing synthetic data and use it
+infrastructure. for data analytics.
+D-En-K01 Knowledge of general principles, concepts D-En-K07 Knowledge of data processing models
+KNOWLEDGE and practices in Data Management and (batch, steaming, parallel)
+organization. D-En-K08 Knowledge of navigating solutions for complex
+D-En-K02 Knowledge of data warehousing and data data.
+mining. D-En-KO09 Knowledge of big data solutions for large
+D-En-K03 Knowledge of main concepts in data scale data processing.
+processing (such as data cleaning, data D-En-K10 Knowledge of large and ultra-large scale
+validation, data verification and data software systems organization  warehouse
+transformation). platforms.
+D-En-K04 Knowledge of data security and protection. D-En-K11 Knowledge of metadata registries, publishing
+D-En-K05 Knowledge of infrastructure and platforms metadata, and systems integration.
+for data science applications. D-En-K12 Knowledge of computer networking concepts
+D-En-K06 Knowledge of data Infrastructure: services and protocols, and network security
+and components, including data storage methodologies.
+infrastructure.
+--- Page 51 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+D-En-A01 Ability to deal with complex technical D-En-A04 Ability to dissect a problem and examine the
+ABILITIES problem. interrelationships between data that may
+D-En-A02 Ability to work with one of the well-known appear unrelated.
+big data analytics platforms and tools (such D-En-A05 Ability to use and understand complex
+as Hadoop, Spark, and cloud based big data mathematical concepts (e.g., discrete math).
+services). D-En-A06 Ability to multi-task, collaborate with peers,
+D-En-A03 Ability to build complex data structures and customers, and management of oneself or
+high-level programming languages. others to accomplish a variety of different
+tasks in a constantly changing environment.
+- A bachelors degree in computer science, statistics, software engineering information technology or a related discipline
+is usually required.
+- Amasters or doctoral degree in data science, machine learning, economics, science (if curricula contain data analysis)
+or a related quantitative field is usually preferred.
+EDUCATION
+EXPERIENCE - Experience in data engineering techniques and methodologie is usually required.
+--- Page 52 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Artificial Intelligence (Al) Engineer
+WORK ROLE Artificial Intelligence (Al) Engineer
+OCCUPATION CODE Al-En
+Engineering and Architecture
+SPECIALTY AREA Artificial Intelligence (Al) Engineering
+GENERAL Al Enginees are responsible for designing, developing, and implementing artificial intelligence and machine learning
+JOB solutions. They revolve around creating Al models, algorithms, and applications that can analyze and interpret complex
+data to deliver actionable insights and predictions. They collaborate with cross-functional teams, including data scientists,
+DESCRIPTION software engineers, and domain experts, to integrate Al capabilities into various products and services.
+Al-En-T01 Implement and deploy artificial intelligence (Al) algorithms, including training machine learning (ML) models
+such as neural networks, to solve business problems and optimize processes.
+Al-En-T02 Develop backend services and APIs to interface with machine learning (ML) models.
+Al-En-T03 Build and deploy inference pipelines to productionize ML models.
+Al-En-T04 Develop scripts to process structured and unstructured data.
+Al-En-T05 Implement natural language processing (NLP) and computer vision techniques to extract insights from
+unstructured data sources.
+Al-En-T06 Utilize tools and frameworks for data exploration, feature engineering, and model evaluation.
+Al-En-T07 Optimize Al models for performance, scalability, and accuracy.
+Al-En-T08 Design MLDL systems and infrastructure.
+Al-En-T09 Cooperate to integrate Al and ML capabilities into existing applications.
+Al-En-T10 Assess, evaluate and validate the model performance bias.
+Al-En-T11 Oversee and set-up MLOps (machine learning operations) pipelines required for the delivery of artificial
+intelligence services on the platform.
+Al-En-T12 Determine scheduling of compute resources and inference schedules based on prediction requirements (batch
+vs real time inferences vs offline, etc.).
+Al-En-T13 Monitor the performance of deployed models and watch for concept drifting.
+--- Page 53 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Al-En-S01 Skill in training machine learning (ML) Al-En-S10 Skill in identifying artificial intelligence solutions
+Shas algorithms to obtain an ML model. computation requirements to define needed
+Al-En-S02 Skill in a high-level programming language. compute resources.
+Al-En-S03 Skill in turning ML models into APIs ina Al-En-S11 Skill in using best practices and tools to test,
+high-level programming language. deploy, manage, and monitor ML models in
+Al-En-S04 Skill in preprocessing and cleaning large real-world production (ex. MLOps tools).
+datasets to ensure data quality and prepare Al-En-S12 Skill in using of critical thinking and problem
+them for analysis. solving skills to scale and productionize ML
+Al-En-S05 Skill in the core artificial intelligence (Al) models.
+disciplines such as computer vision (CV), Al-En-S13 Skill in working with stakeholders to identify
+natural language processing (NLP), deep opportunities to solve business problems.
+ing (DL).
+earning (DL) Al-En-S14 Skill in communicating clearly with seniors
+Al-En-S06 Skill in ensuring continuous improvement of and fellow analysts on the required tasks
+Al models by reviewing and validating the assigned.
+model monitoring capabilities and model Al-En-S15 Skill in collaborating with data scientists and
+retraining workflows. domain experts to understand requirements
+Al-En-S07 Skill in ensuring continuous improvement of and define project objectives.
+artificial intelligence (Al) models by reviewing a 1 ١
+Al-En-S16 Skill in project management and delivery
+validating the model monitoring 1 1
+methodologies such as agile approach.
+capabilities and model retraining workflows.
+Al-En-S08 Skill in when to apply which ML algorithm  Al-En-S17 Skill in communicating machine learning and
+select the most appropriate ML model for artificial intelligence concepts to non-technical
+the data at hand. audiences.
+Al-En-S09 Skill in using Machine Learning Operations Al-En-S18 Skill in fine-tuning  prompt engineering to
+(ML.Ops) concepts  tools to monitor, optimize, adapt a genera-purpose large language
+improve  deploy Al-enabled solutioris. model (LIM).
+--- Page 54 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Al-En-K01 Knowledge of core ML algorithms and Al-En-K06 Knowledge in ML architecture (ex. framing
+KNOWLEDGE modelling and data science workflows. and architect ML solutions).
+Al-En-K02 Knowledge of data science workflows for Al-En-K07 Knowledge of communication and teamwork
+structured and unstructured data bases. skills.
+Al-En-K03 Knowledge of the Core Al disciplines such as Al-En-K08 Knowledge  application of privacy, security
+CV, NLP, Deep Learning. compliance, and ethical Al approaches in ML
+Al-En-K04 Knowledge of planning, design, testing, and system design.
+monitoring of various aspects of the Al Al-En-K09 Knowledge of application of agile delivery
+system, such as data, architecture, methodologies and concepts.
+infrastructure, and algorithms. Al-En-K11 Knowledge of coaching and mentoring best
+Al-En-K05 Knowledge of the artificial intelligence practices.
+solutions requirements to contribute to the Al-En-K12 Knowledge of privacy and ethical artificial
+definition of production plans, deployment intelligence approaches in ML system design.
+requirements  frameworks, tools, software, Al-En-K13 Knowledge of the basic concepts, issues
+hardware, virtualization, and scheduling of and risks related to artificial intelligence and
+compute resources. its organizational impact.
+Al-En-A01 Ability to package  deploy digital solutions. Al-En-A06 Ability to identify dataset size and storage
+ABILITIES Al-En-A02 Ability to apply critical thinking. requirements to cater for computing capacity
+Al-En-A03 Ability to code high  low level object oriented and model scaling requirements as part of
+programming languages to a mature level. the ML system design.
+Al-En-A04 Ability to understand structured and Al-En-A07 Ability to identify Al solutions requirements
+unstructured data bases. to contribute to the scheduling of compute
+Al-En-A05 Ability to work with application development resources.
+languages, tools, and frameworks. Al-En-A08 Ability to comply with local and global data
+governance regulations.
+Al-En-A09 Ability to develop ideas from concept to
+product.
+- Abachelors degree in computer science, computer systems engineering or a related discipline or completion of a college
+EDUCATION program in computer science is usually required.
+- A masters or doctoral degree in machine learning, data science, or a related quantitative field is usually required.
+- Progression to software engineer is possible with experience.
+- Experience in statistical modelling or machine learning is usually required.
+EXPERIENCE
+--- Page 55 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Data Architect
+WORK ROLE Data Architect
+OCCUPATION CODE D-Ar
+Engineering and Architecture
+SPECIALTY AREA Data and Artificial Intelligence (Al) Architecture
+A Data Architect is responsible for designing and implementing an organizations data Architecture, including data models,
+GENERAL data integration, data storage, and Data management systems. They work closely with business stakeholders and IT
+JOB teams to ensure that data solutions align with business objectives and comply with regulatory requirements. They set the
+DESCRIPTION vision for the organizations use of data, through data design, to ensure that data is managed properly and meets the
+organizations needs.
+D-Ar-T01 Design data architecture that effectively addresses specific business problems while adhering to enterprise-
+wide standards and principles.
+D-Ar-T02 Design  implement data models  integration solutions as well as applications that ensure accuracy, reliability,
+and scalability.
+D-Ar-T03 Develop data storage  management strategies that enable efficient access, analysis, and governance of large
+datasets.
+D-Ar-T04 Ensure that acquired or developed system(s)  architecture(s) are consistent with organizations data architecture
+guidelines.
+D-Ar-T05 Identify and prioritize critical business functions in collaboration with organizational stakeholders.
+D-Ar-T06 Collaborate with business stakeholders and IT teams to understand business requirements and design data
+solutions accordingly.
+D-Ar-T07 Collaborate with data scientists and software engineers to develop and deploy data-related solutions.
+D-Ar-T08 Design data architectures that integrate security principles and align with security policies, ensuring data
+confidentiality, integrity, and availability.
+D-Ar-TO9 Evaluate and select data management tools and technologies.
+D-Ar-T10 Evaluate data  security architectures  designs to determine the adequacy of security design  architecture
+proposed or provided in response to requirements contained in acquisition documents.
+D-Ar-T11 Undertake data profiling and source system analysis.
+D-Ar-T12 Present clear insights to colleagues to support the end use of the data.
+D-Ar-T13 Take responsibility for the assurance of data solutions and make recommendations to ensure compliance.
+D-Ar-T14 Document and update as necessary all definition and data architecture activities.
+D-Ar-T15 Document how the implementation of a new system or new interface between systems impacts the current and
+target environment including but not limited to security posture.
+D-Ar-T16 Produce, maintain and update relevant data models for an organisations specific needs.
+D-Ar-T17 Extract and document data models from existing systems.
+D-Ar-T18 Analyze where data standards have been applied or breached, and undertake an impact analysis of that breach.
+D-Ar-T19 Work with metadata repositories to complete complex tasks such as data  systems integration impact analysis.
+--- Page 56 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+D-Ar-S01 Skill to apply data and privacy principles to D-Ar-S07 Skill in developing data standards for
+organizational requirements (relevant a specific component.
+to confidentiality, integrity, availability, D-Ar-S08 Skill in maintaining a repository to ensure
+authentication, non-repudiation). information remains accurate and up to date.
+D-Ar-S02 Skill in design modeling and building use D-Ar-S09 Skill to identify data and privacy issues that
+cases (e.g., unified modeling language). stem from connections with internal and
+D-Ar-SO3 Skill in designing  analyzing data systems, external customers  partner organizations.
+including their resilience, dependability, and
+response to changes in conditions, operations,
+and the environment.
+D-Ar-S10 Skill in applying and incorporating
+information technologies into proposed
+solutions.
+D-Ar-S04 Skill in communicating effectively with
+technical and non-technical stakeholders. D-Ar-S11 Skill in determining the appropriate remedy
+D-Ar-S05 Skill in supporting  hosting discussions within and assist with its implementation.
+a multidisciplinary team, with potentially
+difficult dynamics.
+D-Ar-SO6 Skill in being an advocate for the team
+externally, and can manage differing
+perspectives.
+D-Ar-S12 Skill in determining preventive measures.
+D-Ar-KO1 Knowledge of various types of data D-Ar-K10 Knowledge of key concepts in security and
+KNOWLEDGE architectures. data management.
+D-Ar-K02 Knowledge of data modeling and integration D-Ar-K11 Knowledge of data architecture tools,
+techniques. methods, and techniques.
+D-Ar-K03 Knowledge of the enterprise information D-Ar-K12 Knowledge of software engineering.
+technology (IT) architectural concepts and D-Ar-K13 Knowledge of data storage  management
+patterns (e.g., baseline, validated design, principles, models, methods, and systems.
+and target architectures.) D-Ar-K14 Knowledge of organizational process
+D-Ar-K04 Knowledge of risk management processes improvement concepts and process maturity
+related to data security, privacy,  governance. models.
+(e.g., methods for assessing and mitigating D-Ar-K15 Knowledge of service management
+risk). concepts for data and related standards.
+D-Ar-K05 Knowledge of laws, regulations, policies, D-Ar-K16 Knowledge of confidentiality, integrity, and
+and ethics as they relate to data and privacy. availability requirements.
+D-Ar-KO6 Knowledge of data and privacy principles. D-Ar-K17 Knowledge of data-enabled solutions.
+D-Ar-KO7 Knowledge of database design  database D-Ar-K18 Knowledge of data analysis and visualization
+programming. tools.
+D-Ar-K08 Knowledge of organizations enterprise D-Ar-K19 Knowledge of cloud computing and big data
+information security architecture. technologies.
+D-Ar-KO9 Knowledge of data and privacy principles D-Ar-K20 Knowledge of an organizations information
+and organizational requirements (relevant classification program and procedures data
+to confidentiality, integrity, availability, breach.
+authentication, non-repudiation).
+--- Page 57 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+D-Ar-A01 Ability to apply the methods, standards, and D-Ar-A07 Ability to design and implements data
+ABILITIES approaches for describing, analyzing, and governance frameworks to ensure data
+documenting an organizations enterprise integrity, security, and compliance.
+data architecture. D-Ar-A08 Ability to share expertise in writing and
+D-Ar-A02 Ability to apply an organizations goals and verbally with other members of the team.
+objectives to develop and maintain data D-Ar-A09 Ability to develop cutting-edge systems and
+architecture. use them in a creative way.
+D-Ar-A03 Ability to design and optimize systems to D-Ar-A10 Ability to perform outstanding maths
+meet enterprise performance requirements. activates, strong analytical and problem-
+D-Ar-A04 Ability to execute technology integration solving techniques.
+processes. D-Ar-A11 Ability to write a high-level of programming
+D-Ar-A05 Ability to build data architectures  frameworks. language, adapt new scripting languages,
+D-Ar-A06 Ability to apply data and privacy principles understand the requirements  constraints
+to organizational requirements (relevant of software products  services on different
+to confidentiality, integrity, availability, platforms including intelligent one(s).
+authentication, non-repudiation). D-Ar-A12 Ability to create basic visuals  presentations.
+- A bachelors degree in computer science, statistics, mathematics, software engineering or related field is usually required.
+- Amasters or doctoral degree in statistics, data science, or a related quantitative field is usually preferred.
+EDUCATION
+- Experience in enterprise data architecture is usually required.
+--- Page 58 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Data Modeler Associate
+WORK ROLE Data Modeler Associate
+OCCUPATION CODE D-Ma
+Engineering and Architecture
+SPECIALTY AREA Data  Artificial Intelligence (Al) Architect
+Data Modellers are responsible for designing, creating, and maintaining the data models used by an organization (using
+GENERAL relational, dimensional, and NoSQL databases). Data models are used to represent the data structures and relationships
+JOB within a database or an information system. The Data Modeller works closely with the business stakeholders to understand
+DESCRIPTION their requirements and translate them into a data model that meets their needs. The Data Modeller also ensures that the
+data model is scalable, efficient, and easy to maintain.
+D-Ma-T01 Perform data profilinganalysis activities that helps to establish, modify, and maintain data model.
+D-Ma-T02 Apply data analysis, design, modelling,  quality assurance techniques, based upon a detailed understanding
+of business processes, to establish, modify or maintain data structures and associated components (entity
+descriptions, relationship descriptions, attribute definitions).
+D-Ma-T03 Ensure and enforce a governance process to oversee implementation activities and ensure alignment to the
+defined architecture.
+D-Ma-T04 Help the business in identifying how data supports business processes and how to model those needs.
+D-Ma-T05 Liaise with stakeholders in building trust in the data being used for decision making.
+D-Ma-T06 Work closely with data architects to develop bespoke databases utilizing a mixture of conceptual, physical, and
+logical models.
+D-Ma-T07 Work with key business representatives, data owners, end users, application designers and data architects to
+design current and future state data model.
+D-Ma-S01 Skill in designing and creating data models. D-Ma-S09 Skill in communicating the details of data
+SKILLS D-Ma-S02 Skill in maintaining  updating data models. structures  associated components to
+D-Ma-S03 Skill in ensuring data models are scalable, others using the data structures and
+efficient, and easy to maintain. associated components.
+D-Ma-S04 Skill in translating business requirements D-Ma-S10 Skill in creating and utilizing mathematical or
+into data models. statistical models.
+--- Page 59 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+SKILLS D-Ma-S05 Skill in identifying and resolving data-related D-Ma-S11 Skill in developing data dictionaries.
+issues. D-Ma-S12 Skill in developing data models, design
+D-Ma-S06 Skill in working with data modelling tools and modeling (e.g., unified modeling language).
+industry standard techniques to capture and D-Ma-S13 Skill in data mining techniques (e.g.,
+document data artefacts  be knowledgeable searching file systems) and analysis.
+on topics such as data lineage, data usage D-Ma-S14 Skill in identifying hidden patterns or
+and data structures. relationships.
+D-Ma-S07 Skill in applying standard data modelling and D-Ma-S15 Skill in data modeling  data mapping tools.
+designing techniques based upon a detailed D-Ma-S16 Skill to identify sources, characteristics, and
+understanding of requirements. uses of the organizations data assets.
+D-Ma-S08 Skill in establishing, modifying,  maintaining D-Ma-S17 Skill in generating queries and reports.
+data structures and associated components. D-Ma-S18 Skill in communicating effectively with
+technical and non-technical stakeholders.
+D-Ma-K01 Knowledge of data modeling concepts and D-Ma-K11 Knowledge of programming language
+KNOWLEDGE integration techniques. structures and logic.
+D-Ma-K02 Knowledge of data management areas D-Ma-K12 Knowledge of sources, characteristics, and
+including data architecture, data modelling uses of the organizations data assets.
+and design, data quality, reference and D-Ma-K13 Knowledge of the capabilities  functionality
+master data, and metadata. associated with various technologies for
+D-Ma-K03 Knowledge of using basic descriptive organizing and managing information (e.g.,
+statistics and techniques (e.g., normality, databases, bookmarking engines).
+model distribution, scatter plots). D-Ma-K14 Knowledge of laws, regulations, policies,
+D-Ma-K04 Knowledge of data modeling tools such as and ethics as they relate to data, privacy, and
+ERwin, ERStudio, or PowerDesigner. cybersecurity.
+D-Ma-K05 Knowledge of data management best D-Ma-K15 Knowledge of risk management processes
+practices. (e.g., methods for assessing and mitigating
+D-Ma-K06 Knowledge of database management risk).
+systems, query languages, table D-Ma-K16 Knowledge of machine learning theory and
+relationships, and views. principles.
+D-Ma-K07 Knowledge of query languages such as SQL D-Ma-K17 Knowledge of database theory.
+(structured query language). D-Ma-K18 Knowledge of Information Theory (e.g.,
+D-Ma-K08 Knowledge of data migration planning and source coding, channel coding, algorithm
+implementation. complexity theory, and data compression).
+D-Ma-K09 Knowledge of data mining and data D-Ma-K19 Knowledge of machine learning theory and
+warehousing principles. principles.
+D-Ma-K10 Knowledge of digital rights management.
+--- Page 60 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+D-Ma-A01 Ability to interface with, and gain the respect D-Ma-A08 Ability to analyze large amounts of detailed
+ABILITIES of, stakeholders at all levels and roles within information, quickly understand complex
+the company. issues, and break information down into
+D-Ma-A02 Ability to prioritize and use initiative. smaller, more manageable pieces.
+D-Ma-A03 Problem solving and analytical skills. D-Ma-A09 Ability to communicate complex information,
+D-Ma-A04 Attention to detail and accuracy. or ideas in a confident  well-organized manner
+D-Ma-A05 Ability to work independently and in a team through verbal, written, andor visual means.
+environment with good communication and D-Ma-A10 Ability to evaluate information for reliability,
+collaboration skills. validity, and relevance.
+D-Ma-A06 Ability to work with considerable latitude and D-Ma-A11 Ability to build complex data structures and
+independence of action. high-level programming languages.
+D-Ma-A07 Ability to clearly communicate technical D-Ma-K12 Ability to function in a collaborative
+concepts verbally and in writing to environment, seeking continuous consultation
+management, technical staff, and customers with other data science members and
+in terms appropriate for each audience. experts both internal and external to the
+organizationto leverage analytical and
+technical expertise.
+- Abachelors degree in computer science, statistics, mathematics, software engineering or related field is usually required.
+- Amasters or doctoral degree in statistics, machine learning, data science, or a related field is usually preferred.
+EDUCATION
+- Experience with data modeling solutions, including tools, industry data models, data warehouse approaches, data
+modeling approaches relational, and dimensional or equivalent knowledge is required.
+EXPERIENCE
+--- Page 61 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+5.5 Research Category
+al Intelligence (Al) Ethicist
+WORK ROLE Artificial Intelligence (Al) Research Scientist
+OCCUPATION CODE Al-R
+Research
+SPECIALTY AREA Artificial Intelligence (Al) Research
+This job applies scientific discovery researchprocess, including hypothesis and hypothesis testing, to obtain actionable
+knowledge related to scientific problem, business process, or reveal hidden relations between multiple processes. The
+goal of Al Research is to explore and advance cutting-edge research in Al, including ML as well as related fields like
+Cryptography, to develop and discover principles of impact to an organizations clients and businesses.
+GENERAL
+JOB
+DESCRIPTION
+Al-R-T01 Conduct artificial intelligence research, typically within a specialized focus area.
+Al-R-T02 Conduct logical analyses of business, scientific, engineering, and other technical problems, formulating
+mathematical models of problems for solution by computers.
+Work on multiple research projects in collaboration with internal and external researchers and with applied 8-103 -ام
+engineering teams.
+Al-R-T04 Provide advice on information systems strategy, policy, management and service delivery.
+Participate in relevant top-tier academic conferences. 8-105 -ام
+Al-R-TO06 Conduct reviews to assess quality assurance practices, software products and information systems.
+Al-R-T07 Build models and simulations to describe data, predict events, and inform a course of action.
+Al-R-T08 Work with senior leaders to help define, build, and transform businesses.
+Al-R-T09 Carry out analysis techniques for data inspection, exploration and visualisation.
+AIl-R-T10 Support test and evaluation as well as validation and verification efforts, by developing a test harness to
+support systematic evaluation of machine learning frameworks using evaluation data sets.
+Al-R-T11 Execute, with team lead oversight, experiments to develop novel assets (algorithms or solutions) to be reused
+across organizational teams.
+Al-R-T12 Contribute to the RD team by analyzing previous research reports and deriving insights that can be leveraged
+in current research use cases.
+AI-R-T13 Apply appropriate statistical techniques to available data to discover new relations and offer insight into
+research problems, helping to improve organizational processes, support decision making, solve problems, fix
+critical errors, and raise important issues to appropriate level.
+Al-R-T14 Help to identify the data engineering requirements for any data science product, while working with data
+engineers and data scientists to design and deliver those products into the organization effectively.
+61
+--- Page 62 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Al-R-S01 Skill in working with ML frameworks, libraries, Al-R-S07 Skill in examining data or facts to determine
+SKILLS and packages. appropriate actions or recommendations.
+AI-R-S02 Skill in working in an interdisciplinary research AI-R-S08  Skill in determining phases and steps,
+environment, especially running experiments. defining activities and tasks and establishing
+schedules to complete objectives on time
+Al-R-S03 Skill in providing guidance  advice to enable and within budget.
+decision-making about tasks, situations, and
+processes. 8-509-ام Skill in estimating the results of an action or
+Al-R-S04 Skill in preparing and delivering written, oral a series of actions.
+or visual material for the workplace that AI-R-S10 Skill in developing machine learning, statistical
+presents information. models and experimental designs.
+Al-R-S05 Skill in developing alliances, contacts or Al-R-S11 Skill in directing  monitoring the performance
+partnerships, and exchanging information of others.
+with others. wae 55 0 ,
+8-512-دام Skill in identifying  defining concrete machine
+AI-R-S06 Skill in building models and simulations to learning tasks and solutions when presented
+describe data, predict events, and inform a with broader customer needs.
+course of action.
+Al-R-KO1 Knowledge of public safety and security Al-R-KO6 Knowledge of critique statistical analyses,
+KNOWLEDGE operations and  systems, of policy, and application of machine learning
+regulations and procedures for the techniques and methodologies.
+protection of people, data and property. Al-R-KO7 Knowledge of a broad range of statistical
+Al-R-K02 Knowledge of all aspects of the research tools, particularly those deployed within the
+lifecycle such as formulating problems, organization,  can use these appropriately
+gathering data, generating hypotheses, and help others to use them.
+developing models and  algorithms, Al-R-KO8 Knowledge of MLDL techniques both from
+conducting experiments,  synthesizing mathematical formulation to applied issues
+results, building prototype applications and such 35 loss functions, optimization
+communicating the significance of research. methods, sampling, under- and over-fitting.
+Al-R-KO3 Knowledge of arithmetic, algebra, geometry, Al-R-KO9 Knowledge of the role of ethical Al and its
+calculus and their applications, principles, application in research projects.
+methods and function. Al-R-K10 Knowledge of exploratory and confirmatory
+Al-R-K04 Knowledge of core Al disciplines create new data analysis.
+methods and architectures of new AI-R-K11 Knowledge of computer systems organization
+algorithms. for big data applications, CAP, BASE and
+Al-R-Ko5 Knowledge of one or more specialized areas ACID theorems.
+e.g., deep learning (DL), reinforcement
+learning (RL), planning, information
+representation  retrieval, graphs, multiagent analytics.
+systems (MAS), natural language processing AI-R-K13 Knowledge of data visualization tools and
+(NLP), or other Al fields.
+Al-R-K12 Knowledge of quantitative and qualitative
+agile delivery methodologies and concepts.
+--- Page 63 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Al-R-A01 Ability to work in collaborative project AI-R-A05 Ability to understand applied mathematics
+ABILITIES settings. and statistics methods, and can use this
+Al-R-A02 Ability to obtain and maintain a KSA Top knowledge to carry out Al related-tasks.
+Secret level security clearance. If selected, Al-R-A06 Ability to collect, prepare and analyse
+heshe will be subject to a government datasets.
+security clearance investigation and must AI-R-A07 Ability to work under tight timelines, in cases
+meet the requirements for access to for multiple project deliveries.
+classified information. Al-R-A08 Ability to adapt in a fast paced multinational
+AI-R-A03 Ability to translate mathematical concepts environment.
+into well-documented and efficient code. Al-R-A09 Ability to coordinate with several institutes to
+Al-R-A04 Ability to interpreting statistical output build data and code repositories.
+effectively and accurately.
+- A masters degree in statistics, mathematics, computer science, computer systems engineering or related discipline is
+usually required.
+- A masters or doctoral degree in artificial intelligence, machine learning, data science, or a related quantitative field is
+usually preferred.
+EDUCATION
+- Experience in research is usually required.
+- Experience in statistical modelling or machine learning is usually required.
+EXPERIENCE
+--- Page 64 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+حت
+SDAIA recommends that the organizations and practitioners should
+invest in human capital by applying the National Occupational
+Standard Framework for Data and Artificial Intelligence, which will
+contribute to improve and refine practices and formulating career
+paths for national capabilities and benefitting from it in the applica-
+tions related to the human capacity development. For instance: tal-
+ent acquisition, job description development, workforce planning,
+guiding and developing individuals professionally, performance
+management and evaluation, developing licenses and accredit-
+ed professional certificates, and developing national occupational
+policies. Besides, one of SDAIA uses of the National Occupational
+Standard Framework for Data and Artificial Intelligence in formulat-
+ing career paths can be viewed in (Annex A).
+--- Page 65 ---
+for Data  Artificial Intelligence
+--- Page 66 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Annex (A)
+SDAIA has applied the national occupational standards in Data  Al. This is achieved by applying internally
+defined occupations with standardized job titles  career paths for each profession.
+SADAD implemented the National Occupational Standards Framework for Data  Al by aligning the
+framework with occupations internally  creating unified job titles  paths for each profession.
+These paths and titles allow employees to clearly understand their career progression at all levels and the
+job requirements within it.
+This step is part of SDAIAs efforts to develop human capital, as the framework outlines the required tasks
+to perform and the knowledge and skills that enable employees to perform tasks. this is linked with
+employee training requirements through learning paths, professional certifications, and on-the-job training
+programs.
+--- Page 67 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Career paths for core data and artificial intelligence jobs
+Chief Expert Principle Senior Data
+Data Engineer
+Data Engineer Data Engineer Data Engineer Data Engineer Engineering
+Chief Expert Principle Senior
+Data Scientist Data Science
+Data Scientist Data Scientist Data Scientist Data Scientist
+Chief Expert Principle Senior
+Data Analyst Data Analysis
+Data Analyst Data Analyst Data Analyst Data Analyst
+Chief Expert Principle Senior 1 , ,
+Al Engineer Al Engineering
+Al Engineer Al Engineer Al Engineer Al Engineer
+Chief Expert Principle Senior Al
+Al Researcher Al Researcher Al Researcher Al Researcher Researcher Al Research
+--- Page 68 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Al Engineer
+Requirements Progression
+Promotion
+Education ears  Accreditation en  raining programs,
+Experience Practice  Training Professional Certificates
+Fresh A certificate Job rotation  training Intensive Training programs
+Graduate of readiness with close supervision bootcamps in the required
+from the from a team lead on Competencies, such as but not
+some or the limited to:
+Education - Deep Learning Specialization by
+required competencies:
+and Trainin: 00 deeplearning Al.
+9 Computer Vision, NLP, ech SRN
+5 1 - Machine Learning by Andrew Ng,
+Evaluation - Deep Learning, Data
+50 Stanford University.
+Commission  Science, DevOps, Agile
+- Applied Al with DeepLearning by
+Al Development, Privacy jay.
+Engineer Security Compliance, professional Certificates in the
+Bachelors Data Engineering, Data required competencies such as
+5 Governance. but not limited to (or equivalent):
+Degree in
+- Google TensorFlow Developer
+Computer Certificate. : Human
+5 Practical
+Science, - AWS Certified Machine Resources, tests
+Electric Cetinllnte, Department
+1 : - Specialtyz. (to be ,Engineering 5 requirements- Microsoft Certified Azure Al devioped)
+or relevant Engineer Associate. for promotion
+field
+2-4 years of SDAIA On job training with Professional Certificates in
+experience in Professional Minor supervision the required competencies
+from a team lead for suchas but not limited to (or
+intermediate level on equivalent):
+AlIML Accreditation
+engineering (Senior)
+: some or all the required - Google Machine Learning
+Senior experience competencies: Professional.
+Al or software Computer Vision, NLP, - IBM Al Engineering
+Engineer development Deep Learning, Data Professional Certificate.
+or equivalent Science, DevOps, Agile
+Development, Privacy
+Security Compliance,
+experience in
+ML
+Data Engineering, Data
+Governance.
+--- Page 69 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Al Engineer
+Requirements Progression
+Technical Promotion
+Evaluation  Requirement
+Education Years of Accreditation On Job Training programs
+Experience Practice  Training Professional Certificates
+Bachelors 4-6 years of SDAIA - Mentoring  training Recommended Professional
+Degree in experience in Professional number of engineers  development training and
+Computer AlML Accreditation senior engineers. Certificates, Such as but not
+Science, engineering (Principle) - Technically leading 2 limited to:
+Electric experience team of engineers in MIT technical leaders training:
+Engineering or software number of projects with - Gordon-MIT Engineering
+orrelevant development reporting to a project Leadership Program.
+Human
+oe field or equivalent manager. - Technology Leadership
+Principle Resources
+Al experience in Program. No test
+ML Public Speaking for Technical ired Department
+: ublic Speaking for Technica require
+Engineer requirements
+Leaders:
+for promotion
+- Speaking as a leader by the
+Humphrey group.
+Leaders programs by Harvard
+Business School:
+- Program for Leadership
+Development.
+- Negotiation Mastery.
+--- Page 70 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Al Engineer
+Progression
+Technical Promotion
+Requirements
+Evaluation  Requirement
+Education Years of Accreditation On Job Training programs
+Experience Practice  Training Professional Certificates
+6-8 years of Recomended Advanced
+experience in Professional Development
+AIML Certificates for Technical
+engineering Leaders, such as but not
+Expert Al experience or limited to:
+Engineer software Executive leaders programs
+development by Harvard Business School:
+Bachelors  or equivalent - Advanced Management
+Degree in  experience in Program (AMP). Human
+- Resources
+Computer ML Expert General Management No test
+i . Department
+Science, evaluation Program (GMP). required م َ
+Electric - Fully managing and - Driving Digital Strategy. requirements
+Engineering leading a team of - Leading Change and for promotion
+or relevant principles in a number Organizational Renewal.
+field 1 of projects.
+Chief Al 8 years of pros
+Engineer experience in
+AIML
+engineering
+experience or
+software
+development
+or equivalent
+experience in
+ML
+--- Page 71 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Al Research
+uirements Progression
+Promotion
+( 7 1 On Job ) Traini  1 Requirement
+. ears 0 300 nJo raining programs
+Educat : Accreditat : 3 : vee
+ucation  Experience coreanation Practice  Training   Professional Certificates
+Fresh Acertificate  On job rotation and Recommendation for:
+Graduate ofreadiness Waning with close - Attending national and
+supervision for entry
+from the level on some or all international conferences.
+Education the required - Nomination for postgraduate
+Al and Training competencies: scholarships for masters
+R h Develop and implement
+esearcner Evaluation artificial intelligence degree holders.
+Commission  SOlutions for processing
+big data and conduct
+research in the fields of
+Bachelors artificial intelligence and
+data science.
+Degree in 1 Human
+Practical
+Computer 2-4 years of SDAIA On job training with Training professional tests Resources
+Science, experience in Professional minor supervision from development  professional (to be Department
+Electric researchin Accreditation  team lead for certifications are devloped) requirements
+Engineering artificial (Senior) intermediate level on recommended, including but for promotion
+or relevant intelligence some or all the required not limited to:
+field sciences. competencies: Training for technical leaders
+Develop and implement at MIT:
+Senior artificial intelligence - Gordon-MIT Engineering
+Leadership Program.
+Al i i
+solutions for processing  Tacineleap تمجه
+Researcher big data and conduct Program.
+research in the fields of  Public Speaking for Technical
+Leaders:
+artificial intelligence and
+- Speak like a leader.
+Leadership Programs from
+Harvard Business School:
+- Leadership Development
+Program.
+- Negotiation Mastery.
+data science.
+--- Page 72 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Al Research
+Technical Promotion
+5 Evaluation  Requirement
+Education Years of Accreditation On Job Training programs
+Experience Practice  Training Professional Certificates
+4-6 years of SDAIA - Mentoring  Advanced professional
+experience in Professional training number of Al training
+research in Accreditation researchers  senior Al  Certifications for
+Bachelors ficial (Principle) researchers. technical leaders are
+De 1 intelligence - Technically leading recommended, but not
+gree in 500
+6 t sciences a team of limited to:
+omputer :
+Harvard Business School Human
+naa Science, researchers ona
+Principle ١ Executive Leadership No test Resources
+Electric number of projects
+Al  Programs: required Department
+ngineering reporting to the Project 1
+Researcher - AMP Advanced requirements
+or relevant Manager.
+58 Management Software. for promotion
+ie
+- Public Administration
+Program.
+- Leading digital strategy.
+- Leading change and
+organizational renewal.
+--- Page 73 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Al Research
+Progression
+Technical Promotion
+uirements
+1 Evaluation  Requirement
+On Job Training programs 1
+Practice  Training
+Years of
+Experience
+Professional Certificates
+cveston
+ein
+Bachelors 6-8 years of
+experience in
+Degree in
+Computer research in
+dienes artificial
+Electric intelligence
+Engineering sciences. cull ١ 4 Human
+- Fully managing an
+or relevant 8
+0ه
+field Expert leading a team of No test Department
+5 principles in a number i
+evaluation of projects required requirements
+for
+8 years of 5
+promotion
+experience in
+research in
+artificial
+intelligence
+sciences.
+--- Page 74 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Data Engineer
+Promotion
+7 1 On Job Traini  1 Requirement
+Education  Experience Accreditation Practice  Training Professional Certificates
+Fresh Acertificate On job rotation and Intensive Training programs
+Graduate ofreadiness  training with close and bootcamps in the
+from the supervision for entry required competencies,
+Education level on some or all such as but not limited to:
+and Training  the required - Data Engineering
+Evaluation competencies: Foundations Specialization by
+Commission Al Solutions the University of California
+- Modern Big Data Analysis
+Development, DevOps, 5 9 ae a
+with SQL Specialization by
+Data Agile Development, the University of California
+Enai Privacy and Security - Data Engineering Bootcamp
+Engineer
+9 Compliance, Data - Data Camp
+1 1 Professional Certificates in
+Engineering, Data 
+the required competencies
+Governance. feat
+Bachelors such as but not limited to (or Human
+: equivalent): Practical
+Degree in - IBM Certified Data Engineer gactg Resources
+Computer -DAMA-CDAM: The Certified (to be Department
+Science, Data Management Associate gevigned) requirements
+Electric (CDAM) for
+a - AWS Certified Machine ام
+Engineering Learning - Specialty.
+or relevant 1 30 1
+2-4 years of SDAIA On job training with Professional Certificates in
+tists experience Professional Minor supervision the required competencies
+in Data Accreditation from a team lead for such as but not limited to (or
+Engineering (Senior) intermediate level on equivalent):
+a some or all the 
+or similar  - Data Engineer Professional
+required
+roles 50 (Google).
+Senior competencies: - AWS Certified Big Data
+Al Solutions 9 Pata.
+Data Development, DevOps,  DAMA-DAA: The Data
+Engineer Agile Development, Management Architect (DAA).
+Privacy and Security - Google Machine Learning
+Compliance, Data Professional.
+Engineering, Data
+Governance, Machine
+Learning.
+--- Page 75 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+a Engineer
+Technical Promotion
+. Evaluation  Requirement
+Education Years of Accreditation On Job Training programs
+Experience Practice  Training Professional Certificates
+Bachelors 4-6 years of SDAIA - Mentoring  training  Recommended
+Degree in experience Professional number of Al Professional development
+Computer inData Accreditation researchers  senior Al  training and Certificates,
+Science, Engineering (Principle)  researchers. Such as but not limited to:
+Electric or similar - Technically leading a MIT technical leaders
+١ 0 training:
+Engineering roles team of researchers on
+١ - Gordon-MIT Engineering
+or relevant a number of projects
+1 : Leadership Program.
+field reporting to the Project :
+Principle - Technology Leadership Human
+Manager.
+Data Program. No test Resources
+Engineer Public Speaking for required Department
+Technical Leaders: requirements
+- Speaking as a leader by the for
+Humphrey group. promotion
+Leaders programs by
+Harvard Business School:
+- Program for Leadership
+Development.
+- Negotiation Mastery.
+--- Page 76 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+a Engineer
+Requirements Progression
+Technical Promotion
+5 Evaluation  Requirement
+Education Years of Accreditation On Job Training programs
+Experience Practice  Training Professional Certificates
+Bachelors 6-8 years of Recomended Advanced
+Degree in experience Professional Development
+Computer in Data Certificates for Technical
+Science, Engineering Leaders, such as but not
+Electric or similar limited to:
+. . Executive leaders programs
+Engineering roles
+Expert by Harvard Business
+or relevant
+Data School:
+A field
+Engineer e - Advanced Management
+Program (AMP).
+- Fully managing and
+Expert  ging - General Management No test etn
+xpe 1 leading a team of Program (GMP). required Resources
+evaluation principles in anumber  Driving Digital Strategy. Department
+of projects. - Leading Change and requirements
+Organizational Renewal. for
+promotion
+8 years of
+experience
+Chief in Data
+Data Engineering
+Engineer or similar
+roles
+--- Page 77 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Data ence
+Requirements Progression
+Promotion
+( Requirement
+: Years of wae On Job Training programs
+Educati A ditat
+ueation Experience coreanal 3 Practice  Training Professional Certificates
+Fresh Acertificate On job rotation and Intensive Training programs
+Graduate ofreadiness training with close and bootcamps in the
+from the supervision for entry required competencies,
+5 such as but not limited to:
+Education level on some or all
+00 5 - Data Science Specialization:
+تطعا قمع the required Statistics and Machine
+Evaluation competencies: Learning.
+Commission Machine Learning, Data - Data Science Applications
+Science, Al Solution using Python from the
+Data Development, Agile University of Michigan.
+Scientist Development, Model - ومتمعدها عمتطعدالا tix
+Testi Stanford University.
+ند - Data Visualization and
+Communication using
+Tableau.
+Professional Certificates in
+the required competencies
+such as but not limited to
+(or equivalent): Human
+Masters - Microsoft Azure Data Practical
+1 Resources
+in Data Science Specialist. tests
+. Department
+Science or - Data Analyst using (to be
+i requirements
+equivalent Microsoft Power BI. devloped)
+- AWS Certified Machine for
+Learning Practitioner. promotion
+2-4 years of SDAIA On job training with Professional Certificates in
+experience Professional Minor supervision the required competencies
+in data ecrenitation from a team lead for such as but not limited to
+science and (Senior) intermediate level on (or equivalent):
+1 some or all the - Data Science Professional
+Senior analysis or a required Certification from IBM.
+Data related field. competencies: - Google Data Analytics
+Scientist Machine Learning, Data Professional Certification.
+Science, Al Solution - Machine Learning
+Development, Agile Professional Engineer.
+Development, Model
+Testing.
+--- Page 78 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+a ence
+Requirements Progression
+Technical Promotion
+Evaluation  Requirement
+5 Years of aoa On Job Training programs
+Education Experience اموعدم Practice  Training Professional Certificates
+4-6 years of SDAIA - Mentoring  training Recommended Professional
+experience Professional number ofAlresearchers development training and
+in data Accreditation senior Al researchers. Certificates, Such as but not
+science and (Principle) - Technically leading  limited to:
+analysis or a ateam of researchers MIT technical leaders training:
+related field. on anumber of projects - Gordon-MIT Engineering
+reporting to the Project Leadership Program. Hanan
+Principle Masters Manager. - Technology Leadership Resources
+Data in Data Program. No test Department
+Scientist  Public Speaking for Technical edired  requirements
+equivalent Tenders for
+promotion
+- Speaking as a leader by the
+Humphrey group.
+Leaders programs by Harvard
+Business School:
+- Program for Leadership
+Development.
+- Negotiation Mastery.
+--- Page 79 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Requirements Progression
+Technical Promotion
+١ Years of 058 On Job  Training programs Evaluation Requirement
+eavaton Experience pocredtaion  Practice  Training  Professional Certificates
+6-8 years of Recomended Advanced
+experience Professional Development
+in data Certificates for Technical
+1 Leaders, such as but not
+Expert science and limited to:
+Data analysis or a Executive leaders programs
+Scientist related field. by Harvard Business
+School:
+- Advanced Management Human
+Masters - Fully managing and Program (AMP). Resources
+in Data Expert  leading a team of - General Management Notest Department
+Science or evaluation principles inanumber Program (GMP). required requirements
+equivalent of projects. - Driving Digital Strategy. fon
+- Leading Change and promotion
+Organizational Renewal.
+Chief
+Data 8 years of Recommendation for:
+Scientist experience - Attending national and
+in data international conferences.
+science and - Nomination for
+analysis or a postgraduate scholarships.
+--- Page 80 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Data Analysis
+uirements Progression
+Technical
+Promotion
+Requirement
+Y 1 On Job Traini 5 Evaluation
+. ears 0 ag: in Jo raining program:
+Education Experience Accreditation  Practice  Training   Professional Certificates
+Acertificate On job rotation and Professional certificates in
+ofreadiness training with close the required competencies
+from the supervision for entry include, but are not limited
+Education levelon some orallthe  to (or their equivalent):
+and Training required competencies: - DAMA Framework.
+Evaluation Statistical - CDMP ASSOCIATE.
+Bachelors Fresh Practical Human
+1 Commission  Understanding,
+degree in Graduate tests Resources
+Programming with
+Computer (to be Department
+Data Sci Python, R or SQL,
+cience, devioped) requirements
+Analyst ability to query and Pec) 4
+Information for promotion
+analyze data using
+SQL, Predictive
+Technology,
+or equivalent
+analysis skills, creating
+graphs and illustrations
+to simplify data and
+make it easier to
+understand.
+--- Page 81 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Promotion
+uirements Progression
+Technical
+Evaluationg Requirement
+Education Years of Accreditation On Job Training programs
+Experience Practice  Training Professional Certificates
+Bachelors 2-4yearsof SDAIA On job training with Professional Certificates in
+degree in experience Professional minor supervision the required competencies
+Computer in data Accreditation from a team lead for such as but not limited to
+Science, analysis (Senior) intermediate level on (or equivalent):
+Information using some or all the - Data Science Professional
+Technology, statistical, required Certification from IBM.
+or mathematical, competencies: - Google Data Analytics
+equivalent and Statistical Professional Certification.
+5 Human
+Senior computationa Understanding, - Machine Learning Practical
+Resources
+Data  methods to Programming with Professional Engineer. tests
+Department
+Analyst explore Python, R or SQL, (to be 1
+requirements
+patterns and ability to query and devloped)
+for promotion
+trends in analyze data using
+data. SQL, Predictive
+analysis skills, creating
+graphs and illustrations
+to simplify data and
+make it easier to
+understand.
+--- Page 82 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Requirements Progression
+Promotion
+Requirement
+Education Years of Accreditation On Job Training programs 5
+Experience Practice  Training Professional Certificates
+4-6 years of SDAIA - Mentoring  training Professional certificates in
+experiencein Professional number of Al the required competencies
+data analysis Accreditation researchers  senior Al  include, but are not limited to
+using (Principle) researchers. (or their equivalent):
+statistical, - Technically leading -CDMP PRACTITIONER.
+Principle mathematical, a team of researchers on
+Data and a number of projects
+Analyst computational reporting to the Project
+methods to Manager.
+explore
+Bachelors 1
+1 patterns and
+degree in Human
+trends in data.
+Computer No test Resources
+lo tes
+Science, ired Department
+1 1 ١ ae : require
+Information 6-8 years of Fully managing and Training, professional requirements
+5500 experience in leading a team of development  professional Fon prerneen
+0 data analysis principles inanumber  certifications are
+satel: using of projects. recommended, including but
+statistical, not limited to:
+Expert mathematical, Expert -CDMP PRACTITIONER.
+evaluation
+Data and عام
+Analyst computational -TOGAF.
+methods to -ISO 8000.
+explore -Lean Six Sigma
+patterns and GreenBlack Belt.
+trends in data.
+--- Page 83 ---
+National Occupational Standard Framework for Data  Artificial Intelligence
+Data Science
+quirements Progression
+Technical
+Promotion
+5 Evaluation Requirement
+Education Years of Accreditation On Job Training programs
+Experience Practice  Training Professional Certificates
+8 years of -Experience in Recommendation for:
+experience leadership and - Attending national and
+in data management. international conferences.
+Bachelors analysis -Experience in - Nomination for postgraduate eae
+degree in using project management. scholarships.
+istical Notest Resources
+Chief Computer Statistical, Expert
+. required Department
+Data Science, Mathematical, evaluation
+requirements
+205151 Information and
+Technology, Ccomputationa for promotion
+or equivalent  methods to
+explore
+patterns and
+trends in data.
+--- Page 86 ---
+May 2025 ic. SDAIA
+Document Number  SDAIA-P117
+Version Number  2
+SDAIA.GOV.SA QSDAIASA BSDAIA.SAUDI  SDAIA-KSA

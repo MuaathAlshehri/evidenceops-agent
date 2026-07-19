@@ -1,0 +1,376 @@
+--- Page 3 ---
+Contents
+Introduction
+1. Definitions
+2. Scope of this Document
+3. Benefits of Generative Al
+4. Principles of Generative Al
+5. Generative Al Risks  potential Mitigations
+--- Page 4 ---
+Generative Artificial Intelligence Guidelines
+Generative Artificial Intelligence (GenAl) has gathered significant attention in the media in recent months.
+Despite being relatively new, both individuals and businesses have already begun integrating it into their daily
+lives and activities. While the advantages of GenAl are readily apparent, it is also crucial to acknowledge the
+substantial risks and challenges associated with potential misuse.
+The Saudi Data and Artificial Intelligence Authority (SDAIA) is comprehensively assessing opportunities and
+related risks in order to promote investment, adoption and responsible use to gain benefits of GenAl technol-
+ogies while reducing related risks. GenAl tools can improve efficiency and create new products to the benefit
+of citizens. We are committed to facilitate the wide spreading adoption of the technology in KSA to achieve
+our national goals.
+--- Page 5 ---
+Generative Artificial Intelligence Guidelines For Public
+1. Definitions
+For the purposes of this document, the following terms and expressions, wherever they appear
+in this document, shall have the meanings indicated next to each of them unless the context
+requires otherwise:
+Generative Artificial Intelligence: The generative model is a machine learning model that can
+create new examples similar to the training dataset. This model is also a sub-part of artificial
+intelligence that can create new content (including text, images, sounds, icons, videos, etc.) and
+works by interpreting commands given by users. Generative artificial intelligence can perform
+tasks that require human cognitive abilities, including responding to and formulating verbal or
+written commands, learning, and problem-solving.
+Users: Any natural or legal person that consumes or makes use of the goods or services pro-
+duced by GenAl systems. This is applicable to all stakeholders including companies, NGOs and
+individuals.
+Developers: Any natural or legal person that develops GenAl systems to achieve certain goals.
+This includes Al developers, data scientists, and researchers.
+2. Scope of this Document
+This document serves as guidance for the public including developers and users of GenAIl-
+in the Kingdom of Saudi Arabia.This guide aims to comprehensively address the responsible
+and effective development and use of GenAl in KSA. It shall apply to all stakeholders designing,
+developing, deploying, implementing, using, or being affected by GenAl systems within KSA.
+Acknowledging the widespread demand for this technology, SDAIA has formulated this doc-ument as a 
+robust guideline, fostering both trust and understanding of GenAl systems and
+assisting to avoid negative outcomes.
+--- Page 6 ---
+Generative Artificial Intelligence Guidelines For Public
+3. Benefits of Generative Al
+GenAl is expected to transform various sectors within the KSA in the following ways:
+3.1 Increased Efficiency and Productivity
+GenAl can automate a wide range of routine tasks that are currently performed by humans, such
+as generating summaries of complex documents, transcribing text, or generating images and
+videos. This frees up people to focus on more complex strategic and critical endeavors.
+3.2 Improved Communication and Collaboration
+The deployment of GenAl holds promise in areas like the content creation, digital avatars, opti-
+mization of bandwidth for video conferencing, and the formulation of sophisticated virtual col-
+laboration environments. These are critical components that can drive enhanced communica-
+tion and cooperation.
+3.3 Informed Decision-Making
+GenAl can assist in the decision-making process by analyzing and summarizing multiformat
+data (e.g., text, audio, and video) and helping to simulate scenarios that could impact strategic
+choices. When applied appropriately, this capability provides an additional layer of information,
+fostering a data-driven approach to decision-making in diverse areas such as crisis manage-
+ment, healthcare, and education.
+--- Page 7 ---
+Generative Artificial Intelligence Guidelines For Public
+3.4 Enhanced Accessibility and Inclusion
+GenAl offers solutions to enhance content accessibility. It can produce materials adapted for
+individuals with special needs or disability, ensuring that platforms and communications are
+universally accessible. Additionally, by generating content that aligns with local dialects and
+traditions, it promotes clear communication between people from diverse backgrounds.
+3.5 Elevated Public Service Quality
+GenAl has the potential to elevate citizen experiences and boost overall satisfaction with public
+services through the customization of service delivery and expanded availability. It can be used
+effectively to optimize citizens experiences across various public sectors, including healthcare,
+education, social welfare, and legal assistance.
+--- Page 8 ---
+Generative Artificial Intelligence Guidelines For Public
+4. Principles of Generative Al
+When dealing with GenAl tools, developers and users should consistently adhere to the Al
+ethics and GenAl guidelines during all phases of the systems lifecycle to harness their benefits
+while mitigating risks.
+The Al ethics principles developed by SDAIA apply to all segments of society in the Kingdom
+of Saudi Arabia. These include, but are not limited to, public, private, and non-profit entities,
+researchers, employees in both the public and private sectors, and consumers. The principles
+are designed to be applicable to all Al tools, not just GenAl, and are listed below:
+4.1 Fairness
+Requires stakeholders to take necessary actions to eliminate bias, discrimination, or stigma-
+tization of individuals, communities, or groups in the design, data, development, deployment,
+and use of GenAl systems. Given that GenAl tools have the capability to generate content that
+may be discriminatory or lack representativeness. To ensure consistent systems that are based
+on fairness and inclusiveness, GenAl systems should be trained on data that are cleansed from
+bias and is representative of affected minority groups.
+As such, developers and users should:
+e Carefully test GenAl models to insure no bias has been embedded in the codes or algorithms
+and Ensure that the data used to train the tool are cleansed from bias and is representative
+of affected minority groups.
+e Make efforts to gain a thorough understanding of the data used to train the tool - this un-
+derstanding should encompass the datas origin, its contents, and how it was selected and
+prepared.
+e Enhance knowledge on bias, diversity, inclusion, anti-racism, values, and ethics - this knowl-
+edge will improve their ability to recognize biased or discriminatory content.
+--- Page 9 ---
+Generative Artificial Intelligence Guidelines For Public
+4.2 Reliability  Safety
+Ensures that GenAl systems adhere to set specifications and that they behave as designers
+intend. Reliability is a measure of consistency and provides confidence in how robust a system
+is. On the other hand, safety is a measure of how the Al system does not pose a risk of harm
+or danger to society and individuals. A reliable and safe working system should have built-in
+mechanisms to prevent harm.
+As such, developers and users should:
+e Design and develop GenAl system that can withstand the uncertainty, instability, and volatil-
+ity that it might encounter.
+e Establish a set of standards and protocols for assessing the reliability of a GenAl system to
+secure the safety of the systems algorithm and data output.
+e Predefined triggersalerts should be in place based on system risks, GenAl systems should
+trigger human oversight.
+e System trigger should be assigned to the appropriate stakeholder. These triggersalerts can
+be defined as part of the risk mitigation or disaster recovery procedure and may need human
+oversight.
+e Identify Al-generated content to ensure users are alert to potential reliability issues and can
+check it against other sources.
+e Encourage users to complement Al-generated content with information from reputable
+sources to ensure accuracy.
+e Strive to comprehend the quality and origins of the training data employed by the Al system
+to enhance content reliability.
+e Scrutinize content for factual accuracy and contextual relevance to prevent the dissemina-
+tion of erroneous information.
+--- Page 10 ---
+Generative Artificial Intelligence Guidelines For Public
+4.3 Transparency  Explainability
+Builds and maintains the publics trust in GenAl systems and technologies. In line with this
+principle, systems must be built to be clearly explainable and have features that track how
+automated decisions are made so that lessons can be learned if these decisions prove to be
+less than optimal. Transparency is an important consideration when building trust in human-Al
+interactions. Notification of Al-generated content eliminates ambiguity, helping users differenti-
+ate between automated and human responses.
+As such, developers and users should:
+e Clearly communicate when GenAl is used in interactions with the public.
+e Notify users when messages or content have been generated by Al.
+e Offer alternative, non-automated communication channels for users who prefer human interactions.
+e Employ tools such as watermarks to assist others in identifying content generated by Al.
+4.4 Accountability  Responsibility
+Holds designers, vendors, procurers, developers, owners, and assessors of GenAl systems
+ethically responsible and liable for the decisionsactions that may negatively affect individuals
+andor communities.
+The adoption of GenAl systems may entail legal and ethical implications. These warrant thor-
+ough consideration and include the risk of infringing intellectual property rights, concerns about
+data privacy, and the potential for human rights violations.
+As such, developers and users should:
+e Ensure that data is be properly acquired, classified, processed, and accessible to ease human
+intervention and control at later stages when needed.
+e Ensure data quality checks, cleanse data and validate the integrity of the data in order to get
+accurate results.
+--- Page 11 ---
+Generative Artificial Intelligence Guidelines For Public
+e Build and validate models in a responsible manner to achieve intended results.
+e Adhere to relevant legislation, such as Personal Data Protection Law, Intellectual Property Laws
+to ensure compliance and protect user rights.
+Consult with legal professionals to assess and mitigate risks associated with the deployment of
+GenAl systems.
+4.5 Privacy  Security
+Requires all GenAl systems to be built and operated in ways that protect the privacy of the data
+they collect. In line with this, GenAl systems should employ best practice data security meas-
+ures developed by the national authorities to prevent data breaches that could lead to reputa-
+tional, psychological, financial, professional, or other types of harm.
+As such, developers and users should:
+e Ensure adequate privacy and security measures in place when using classified data to train
+GenAl modules.
+e Implement rigorous data protection measures and consider the principles such as, the one
+outlined in the Personal Data Protection Law.
+e Assess the risks resulting from the use of the GenAl tool according to the Al ethics principles
+little or no risk, limited risk, high risk, unacceptable risk.
+e Privacy and security by design should be implemented while building the Al system. The
+security mechanisms should include the protection of various architectural dimensions of
+an Al model from malicious attacks. The structure and modules of the Al system should be
+protected from unauthorized modification or damage to any of its components
+e The privacy impact assessment and risk management assessment should be continuously
+revisited to ensure that societal and ethical considerations are regularly evaluated
+--- Page 12 ---
+Generative Artificial Intelligence Guidelines For Public
+4.6 Humanity
+Al systems should be built using an ethical methodology to be just and ethically permissible,
+based on intrinsic and fundamental human rights and cultural values to generate a beneficial
+impact on individual stakeholders and communities in both the long and short-term goals and
+objectives to be used for the good of humanity. Predictive models should not be designed to de-
+ceive, manipulate, or condition behavior that is not meant to empower, aid, or augment human
+skills but should adopt a more human-centric design approach that allows for human choice
+and determination.
+4.7 Social  Environmental Benefits
+This principle embraces the beneficial and positive impact of social and environmental priorities
+that should benefit individuals and the wider community, focusing on sustainable goals and
+objectives. GenAl systems should neither cause nor accelerate harm or otherwise adversely
+affect human beings but rather contribute to empowering and complementing social and envi-
+ronmental progress while addressing associated social and environmental ills. This entails the
+protection of social good as well as environmental sustainability.
+vi
+--- Page 13 ---
+Generative Artificial Intelligence Guidelines For Public
+5. Generative Al Risks  potential Mitigations
+While GenAl creates significant opportunities, it is important to make sure that it is used in a
+safe, ethical, and legal manner. Based on emerging trends in use of GenAl, the following risks
+and potential mitigation measures should be prioritized.
+5.1 Deepfakes and Misrepresentation
+GenAl has transformed the world of digital media through its ability to create realistic text, imag-
+es, and audio. However, these capabilities can also be used for harmful purposes, like scams,
+financial fraud, blackmail, and sophisticated identity theft. Often, individuals exploit data from
+social media and other public platforms to create fake digital representations (i.e., deepfakes).
+With the technology advancing rapidly, distinguishing between real and fake content has be-
+come more challenging.
+Mitigation Measures:
+e Watermark Implementation: All GenAl services should include identifiable watermarks. This
+measure helps individuals and security services detect and flag deepfakes and Al-synthe-
+sized content without affecting legitimate GenAl use.
+e Know Your Customer (KYC) Protocols for Cloud Server Providers: Providers that deliver
+the intensive computational power needed by GenAl, especially those providing Graphics
+Processing Units (GPUs) andor Tensor Processing Units (TPUs), should use verification pro-
+cesses similar to those used by financial institutions. For example, requiring users to provide
+passport details or other proof-of-identity documents to make it more difficult for malevolent
+actors to access these powerful tools.
+e Output Verification: GenAl services should analyze generated content for any inappropriate
+content (like hate-speech, money transfer request), as well as the use of public figures faces
+and voice samples.
+e Enhanced Digital Literacy and Online Safety: Private companies and public institutions
+--- Page 14 ---
+Generative Artificial Intelligence Guidelines For Public
+should provide training and have regular awareness campaigns that include the risks of the
+deepfakes and tools and methods to identify them, as well as information on the importance
+of limiting personal information exposure online, the dangers of unverified digital communi-
+cations, and the importance of authenticating information requests through trusted, alternate
+channels.
+5.2 Safety Threats
+While GenAl is a great tool to access information on a broad range of topics, when manipulated
+with malicious intent, it can compromise public safety and security on an unprecedented scale.
+Mitigation Measures:
+٠ Content Moderation and Filtering Systems: On platforms where GenAl output is accessible
+to users, deploying robust content moderation and filtering systems is crucial. Such systems
+should be able to detect, flag, and prevent the dissemination of harmful or malicious content
+generated by the Al. Good practice would be to verify both the user prompt and the models
+output. Regular updates and refinements to these systems based on feedback and emerging
+trends will ensure they remain effective against evolving threats.
+e Training Dataset Filtering: GenAl developers should minimize the amount of potentially dan-
+gerous information being used in training datasets for models, keeping in mind that all infor-
+mation used will eventually be available to the general public.
+e Limiting Open Access  Open Source for Scientific GenAl Models: Scientists working with
+models that could potentially create safety threats (e.g., protein synthesis) should not publish
+such models in the public domain without first requiring users to verify who they are and what
+research they intend to use the model for.
+--- Page 15 ---
+Generative Artificial Intelligence Guidelines For Public
+5.3 Misinformation and Hallucination
+Due to the nature of GenAl text models, some information they provide might be incorrect.
+Sometimes such models can even over-confidently generate facts that are complete fiction
+(also known as Al hallucination). Without critical review of such outputs, theres a risk of unin-
+tentional misinformation.
+Mitigation Measures:
+e Content Verification and Citation: Publicly available GenAl services should estimate the ac-
+curacy of information prior to displaying it to users alongside the content requested. Such
+services should also be able to cite sources indicating where the information was acquired. If
+the model cannot produce a response with a high level of accuracy and identify its sources,
+the output should be replaced with a pre-defined message warning users that the information
+generated may not be accurate.
+٠ Content Labeling: GenAl services should embed watermarks in outputs based on the type of
+media used. For photo and video, watermarks can take the form of traditional preprint, or be
+embedded into encoding or decoding. Audio content can be watermarked through embedded
+audio snippets or echo modulation. For text, content-specific word and letter combinations
+can be used, as well as non-standard fonts.
+e User Vigilance and Fact-checking: It is users responsibility to verify the content generated by
+GenAl. This means users need to scrutinize the content and fact check it against trustworthy
+sources. Users should also always look for any indication that the content came from a GenAl
+tool if this was the way it was produced (see Content Labelling above)
+e Raising Awareness: Users should be regularly reminded that outputs from GenAl can some-
+times be inaccurate, outdated, biased, or even deceptive, and be educated about standard
+fact-checking and content-verification processes.
+--- Page 16 ---
+Generative Artificial Intelligence Guidelines For Public
+5.4 Classified Data Breaches
+When interacting with GenAl, users should be aware that they might unintentionally expose sensi-
+tive information. This is because GenAl services use the information received through prompts as
+training data for further development of the model - this can then be exposed to third parties. This
+risk is complicated by the fact that GenAl models do not store information in traditional document
+form, meaning its harder to identify if any sensitive information was in fact leaked or to make the
+model unlearn this information.
+Mitigation Measures
+e GenAl Usage Protocols: Organizations should implement policies for GenAl use that prohibits
+users from entering classified information into third-party tools. These should detail acceptable
+content generation practices, actions to prevent sensitive data leaks, and steps to support eth-
+ical use of the technology. Oversight and regular reviews are essential to confirm adherence to
+policies, and rapid, organization-wide communication is key to their successful implementation.
+e Employee Awareness and Training: Organizations must emphasize to their workforce that ex-
+isting and upcoming legal requirements remain binding when using GenAl tools. This includes
+adherence to company policies, as well as broader legal mandates encompassing data govern-
+ance, cybersecurity, government data classification, personal data protection, intellectual prop-
+erty (IP) rights, and other pertinent legal or policy areas. Targeted training sessions can provide
+guidance on how to reduce potential legal risks associated with the deployment of GenAl.
+e User Data Control: GenAl service providers should provide users with options to give - or refuse
+consent to use their data for Al model training purposes, they should also provide an option to
+remove all prompt history on request in accordance with relevant laws and regulations.
+--- Page 17 ---
+Generative Artificial Intelligence Guidelines For Public
+5.5 Certification Fraud
+Human certification processes, such as exams and professional evaluations, stand as essential
+benchmarks of individual competence and institutional credibility. However, with the advent
+of GenAl, these processes are facing novel threats. GenAl, with its ability to craft human-like
+specialized content, can be misused to produce answers, essays, or even detailed research,
+effectively undermining traditional educational and professional standards. The sophistication
+of this Al-generated content poses a distinct challenge: it is original and not directly copied
+from known sources, making it harder to detect with standard anti-plagiarism tools. Thus, the
+unchecked misuse of GenAl could jeopardize the integrity of foundational educational and pro-
+fessional assessments.
+Mitigation Measures
+e Assessment Enhancement: Review all forms of assessment and evaluation to enhance their
+resilience against Al-aided fraud. Consider adjustments such as transitioning to in-person
+assessments, revising question formats, or adopting innovative evaluation methodologies.
+Moreover, organizations should conduct a thorough evaluation of critical certification exams,
+particularly those essential for positions like national critical infrastructure access or medi-
+cal practice licenses, where certifications determine eligibility. In cases where GenAl could
+potentially be exploited to pass such certifications, organizations must proactively revise the
+certification processes to reduce the likelinood of GenAl use. This ensures the assessments
+maintain their integrity and security, especially in vital areas.
+e Education and Training: Conduct comprehensive training to raise awareness and educate
+both educators and students about responsible GenAl use. This includes recognizing mis-
+use, adhering to ethical practices, and identifying suspicious behaviors that may indicate
+fraud.
+e Guidelines and Policies: Collaboratively develop and implement clear guidelines in conjunc-
+tion with students and educators to govern GenAl usage in academic settings. These guide-
+lines should align with learning objectives and specify when and how GenAl can be applied.
+--- Page 18 ---
+Generative Artificial Intelligence Guidelines For Public
+٠ Query Proficiency: Provide specialized training to enhance the competency of educators,
+researchers, and students in crafting precise and effective prompts for GenAl systems. Em-
+phasize the significance of formulating inputs that yield optimal Al outputs.
+5.6 Intellectual Property Infringement - and Protection
+The rise of GenAl has brought to the forefront the issue of unauthorized use or replication of
+copyrighted material, potentially leading to legal liabilities of IP. This risk extends to both the
+unauthorized use of existing copyrighted material and the creation of novel content by Al that
+may inadvertently infringe upon IP rights.
+Mitigation Measures:
+e P Licensing and Due Diligence: GenAl developers should obtain licenses for any IP includ-
+ed in training data, preventing indiscriminate content scraping.
+e Customers should perform their own due diligence to confirm whether Al models were
+trained with protected content before using them.
+e Creator Permission and Compensation: GenAl services should obtain original content IP
+holder permission before generating content based on their IP. GenAl services should es-
+tablish compensation mechanisms (e.g., contributor funds) to fairly remunerate creators if
+their IP has been used in training sets. For instance, Shutterstock offers creators the option
+to opt out of having their work used in Al training sets and has set up a contributor fund to
+compensate them when their work is used.
+--- Page 19 ---
+Generative Artificial Intelligence Guidelines For Public
+5.7 Variability of Outputs
+GenAl services operate differently from traditional programmed services where output gen-
+eration adheres to pre-defined algorithms in 100 percent of cases. Furthermore, developers
+of such services may update their offerings without informing end users. Consequently, users
+should be very vigilant when relying on outputs generated by GenAl.
+Mitigation Measures:
+e Clear Annotation for Al-Generated Code: Code developers who leverage GenAl coding tools,
+such as ChatGPT and GitHub Copilot, should add clear annotations within the source code
+to indicate that it was generated by Al. This annotation not only promotes transparency but
+also ensures accountability for the codes origin and quality.
+e Regularly Verify and Validate: Users should adopt a practice of regularly verifying and validat-
+ing Al-generated code and other content, especially in critical applications where accuracy
+is paramount. Implementing thorough testing and validation processes can help identify and
+rectify any inconsistencies or errors in the outputs.
+e Stay Informed About Updates: To mitigate the risk of unannounced updates to GenAl ser-
+vices, users should stay informed about any changes or enhancements made by the ser-
+vice providers. Subscribing to notifications and updates from the developers can help users
+adapt to modifications in the services behavior or output quality.
+e Build Expertise: Users, particularly those in software development and coding roles, should
+develop expertise in understanding GenAl. This proficiency will help when evaluating and
+refining Al-generated outputs to meet specific requirements.
+SDAIA
+Document Type  Regulatory Documents  الهيئة السعودية للبيانات
+Document Classification  General
+Document Number  SDAIA-P115E audi Data Authority
+Version Number  1
+SDAIA.GOVSA SDAIASA SDAIA.SAUDI  SDAIA-KSA

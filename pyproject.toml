@@ -4,4 +4,14 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "fastapi>=0.139.2",
+    "llama-index>=0.14.23",
+    "llama-index-embeddings-huggingface>=0.7.0",
+    "llama-index-llms-openai-like>=0.7.2",
+    "pydantic-settings>=2.14.2",
+    "pymupdf>=1.28.0",
+    "pytesseract>=0.3.13",
+    "pytest>=9.1.1",
+    "uvicorn>=0.51.0",
+]

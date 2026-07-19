@@ -7,6 +7,4 @@ wheels/
 .venv
 .env
 *.pyc
-storage/
-reports/
 .pytest_cache/

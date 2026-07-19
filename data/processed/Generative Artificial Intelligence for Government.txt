@@ -1,0 +1,543 @@
+--- Page 3 ---
+Contents
+1. DEFINITIONS
+2. THE SCOPE
+3. GENERATIVE ARTIFICIAL INTELLIGENCE GUIDELINES
+4. ROLES AND RESPONSIBILITIES WITHIN THE ENTITY
+Appendix 1: Guidelines for the Use of Generative Artificial Intelligence in Government Entities
+APPENDIX 2 - CHECKLIST FOR UTILIZING GENERATIVE ARTIFICIAL INTELLIGENCE TOOLS
+--- Page 4 ---
+Generative Artificial Intelligence Guidelines For Government
+Introduction
+--- Page 5 ---
+Generative Artificial Intelligence Guidelines For Government
+The field of artificial intelligence has witnessed rapid development in generative artificial intelligence services
+and tools. It is extensively utilized by governments, companies, and individuals worldwide. While this technol-
+ogy offers numerous advantages to its users, entities, and employees must be aware of the associated risks
+and limitations. They should apply critical thinking methodologies and exercise caution when utilizing the out-
+puts of generative artificial intelligence or when providing information in the form of commands to generative
+artificial intelligence. Accordingly, government employees should use generative artificial intelligence only in
+cases where they can adequately identify risks and avoid them or mitigate their severity.
+This document provides regulatory guidelines for government employees regarding the use and processing
+of government data in GenAl tools and includes examples based on common scenarios that entities may
+address. It also highlights the challenges and considerations associated with the use of generative artificial
+intelligence, proposes principles for responsible use, and presents recommended practices. The Saudi Data
+Al Authority (SDAIA) recognizes the need to keep pace with regulatory and technological changes, given
+the evolving nature of generative artificial intelligence. Therefore, this document may be updated as needed
+to keep pace with any changes.
+This document aligns with and supports compliance with current regulations and policies in the Kingdom
+of Saudi Arabia, including regulations and policies related to data governance, privacy, security, intellectual
+property, and human rights.
+--- Page 6 ---
+Generative Artificial Intelligence Guidelines For Government
+1. Definitions
+For the purposes of this document, the following terms and expressions, wherever they appear in this
+document, shall have the meanings indicated next to each of them unless the context requires otherwise:
+Generative Artificial Intelligence:
+The generative model is a machine learning model that can create new examples similar to the training
+dataset. This model is also a sub-part of artificial intelligence that can create new content (including text,
+images, sounds, icons, videos, etc.) and works by interpreting commands given by users. Generative
+artificial intelligence can perform tasks that require human cognitive abilities, including responding to and
+formulating verbal or written commands, learning, and problem-solving.
+Government Data:
+Government data encompasses all data, irrespective of its form, source, or nature, that is generated or
+acquired by government entities during the course of their official duties. It also includes data collected
+by entities responsible for infrastructure, involved in the management, operation, or maintenance of public
+facilities or national infrastructure, or engaged in public services related to the oversight of such facilities
+or infrastructure.
+Government Data Users:
+Any person who works on issuing, preparing, dealing with, processing, or storing government
+data. in addition to employees of government entities, contractors, and others.
+2. The Scope
+This document was created with the objective of promoting the responsible and effective utiliza-
+tion of GenAl tools and services in government transactions. It emphasizes the proper use and
+processing of government data in adherence to relevant laws and regulations in the Kingdom
+of Saudi Arabia.
+--- Page 7 ---
+Generative Artificial Intelligence Guidelines For Government
+3. Generative Artificial Intelligence Guidelines
+Government entities are required to adhere to the Al Ethics Principles when engaging with gen-
+erative artificial intelligence tools across all stages of the tools life cycle. This involves maximiz-
+ing their benefits while mitigating associated risks. Achieving this goal necessitates the formu-
+lation of tool-specific policies, ethical standards, and professional responsibilities. Government
+entities must also refrain from using generative artificial intelligence in critical decision-making
+processes that affect individuals or the vital interests of the Kingdom. All results should be
+human-reviewed to ensure the integrity of the GenAl output, prevent harm, as well as strictly
+adhere to accuracy and eliminate bias and discrimination within the algorithms. This approach
+ensures the reliability of the results and eliminates any negative consequences.
+The Al Ethics Principles, as outlined by SDAIA, are meant to be applied to individuals across
+diverse sectors in the Kingdom of Saudi Arabia. This includes, but is not limited to, workers
+in public, private, and non-profit entities, researchers, employees in both public and private
+sectors, and consumers. Notably, these principles are intended to be universally applicable,
+encompassing all artificial intelligence tools used, and are not exclusive to generative artificial
+ie
+intelligence.
+--- Page 8 ---
+Generative Artificial Intelligence Guidelines For Government
+Below is a breakdown of the mandatory regulations governing the use of government data in
+generative artificial intelligence tools:
+3.1 Fairness
+It is crucial to implement measures to identify groups affected by the system and to prevent
+or minimize biases, discrimination, or profiling that individuals or groups may encounter due to
+data or algorithms. This is essential to avoid negative discrimination against specific groups.
+Generative artificial intelligence tools possess the capability to generate content that may ex-
+hibit discriminatory tendencies, lack representation, or contain biases and stereotypes. These
+biases can be diverse and linked to various intersecting identity factors, such as gender and
+race. A number of models are trained using vast datasets from the Internet, which is often the
+source of these biases.
+Users must:
+1. Carefully evaluate the created content to ensure alignment with the Kingdom of Saudi Ara-
+bias regulations, values, and ethics. This evaluation must also include comprehensive and care-
+ful scrutiny of biases or stereotypical associations.
+2. Learn to write commands (for GenAl tools) in ways that ensure the creation of correct and
+free of biased content.
+3. Make efforts to obtain a comprehensive understanding of the data used to train the tool, in-
+cluding knowing the source of the data, its contents, and how it is selected and prepared.
+4. Enhance users understanding and awareness of bias, the importance of diversity and inclu-
+sion, anti-racism, values and ethics, as this knowledge will contribute to improving their ability
+to identify biased content.
+--- Page 9 ---
+Generative Artificial Intelligence Guidelines For Government
+3.2 Reliability and Safety
+A generative artificial intelligence system must ensure adherence to specifications, operating
+consistently as intended and expected by its designers throughout all stages of its life. Reliability
+serves as a measure of the credibility and dependability of the system in carrying out its specific
+functions and achieving intended results. Generative artificial intelligence tools are often suscep-
+tible to inaccuracies, as they learn from internet data containing errors and outdated information.
+While content generated with generative artificial intelligence may initially seem consistent, it
+frequently lacks the logical consistency or context necessary. Recognizing both strengths and
+limitations is crucial in the responsible use of generative artificial intelligence within government
+entities. Ensuring quality necessitates a multi-faceted approach encompassing monitoring, hu-
+man supervision, and user education to effectively harness the capabilities of generative artificial
+intelligence and reduce associated risks.
+Users must:
+1. Identify content generated with generative artificial intelligence to ensure that users are pre-
+pared to address potential reliability issues and have the ability to verify content using other
+sources.
+2. Proofread content for factual accuracy and relevance to context to prevent the spread of
+misinformation.
+3. Seek to understand the quality and sources of training data used by a generative artificial
+intelligence system to enhance content reliability.
+4. Encourage supplementing content created with generative artificial intelligence with informa-
+tion from trusted sources to ensure accuracy.
+--- Page 10 ---
+Generative Artificial Intelligence Guidelines For Government
+3.3 Transparency and Interpretability
+It is crucial to construct generative artificial intelligence tools with a high degree of clarity and
+interpretability. These tools should incorporate features that allow for the tracking of automated
+decision-making stages, ensuring transparency and explain ability to both those directly and indi-
+rectly affected by them.
+Transparency is an important consideration when building trust in interactions between humans
+and generative artificial intelligence in government entities, and alerts help demystify content gen-
+erated by generative artificial intelligence, helping users distinguish between automated and hu-
+man responses.
+Users must:
+1. Communicate clearly and meaningfully when using generative artificial intelligence to interact with the
+public.
+2. Notify beneficiaries when messages or content are created with generative artificial intelligence.
+3. Provide alternative, non-automated communication channels for beneficiaries who prefer human interac-
+tions.
+4. Use watermarks to help beneficiaries identify content created with generative artificial intelligence.
+--- Page 11 ---
+Generative Artificial Intelligence Guidelines For Government
+3.4 Accountability and Responsibility
+Designers, developers, users, and evaluators of generative artificial intelligence tools bear ethi-
+cal responsibility for decisions and actions that may lead to potential risks and negative impacts
+on individuals and communities.
+Adopting a generative artificial intelligence system may carry legal and ethical implications, re-
+quiring comprehensive consideration including, but not limited to, the risk of infringement of
+intellectual property rights, concerns about data protection, and the potential for human rights
+violations.
+Users must:
+1. Consult with relevant legal professionals to assess the risks associated with the use of generative artifi-
+cial intelligence tools and find a way to avoid or reduce these risks.
+2. Comply with relevant legislation, including the Personal Data Protection Law, and protect user rights.
+3. Ensure that content created with generative artificial intelligence tools respects intellectual property
+rights and adheres to copyright legislation.
+--- Page 12 ---
+Generative Artificial Intelligence Guidelines For Government
+3.5 Privacy and Security
+It is important to develop and use generative artificial intelligence tools in a safe manner, taking
+into account relevant regulatory requirements, including the regulatory requirements related to the
+protection of personal data subjects, the relevant cybersecurity standards issued by the National
+Cybersecurity Authority, and the Data Classification Policy. With the aim of preventing illegal access
+to data and the system, which may lead to damage to reputation or psychological, financial, or pro-
+fessional harm, generative artificial intelligence tools are designed using mechanisms and controls
+that enable managing and monitoring the results throughout the systems life cycle.
+Users must:
+1. Employees in government entities must refrain from entering any data classified as restricted
+or higher (restricted, confidential, and top secret).
+2. Implement strict data protection measures in accordance with the provisions of the Personal
+Data Protection Law.
+3. The use of generative artificial intelligence tools should be limited to data classified as pub-
+lic data.
+4. You should check the privacy policies of these tools, including their disclosure and sharing
+terms.
+5. The risks arising from the use of tools must be taken into account, including data leakage,
+misinformation, deepfake, bias, and decisions affecting the safety of individuals. It is crucial not
+to enter any data or information that is not properly classified. Assessing the risks involves es-
+timating and addressing the potential risks resulting from the development or use of generative
+artificial intelligence tools. Subsequently, the risk levels in the tools are classified at any of the
+following levels in accordance with the Al Ethics Principles issued by SDAIA.
+6. The risks resulting from the use of generative artificial intelligence tools must be assessed in
+accordance with the Al Ethics Principles:
+--- Page 13 ---
+Generative Artificial Intelligence Guidelines For Government
+1. Little or no risks: There are no restrictions on Al systems that pose little or no risk, such as spam
+filters but, it is recommended that these systems be ethically compliant.
+2. Limited risks: Al systems that pose limited risks, such as technical programs related to function,
+development, and performance, are subject to the application of the Al Ethics principles mentioned
+in this document.
+3. High risk: Al systems that pose high risks to basic rights must undergo pre- and post-conform-
+ity assessments, and in addition to adhering to ethics, the relevant statuary requirements must be
+considered.
+4. Unacceptable risks: Al systems that pose an unacceptable risk to peoples safety, livelihoods,
+and rights, such as those related to social profiling, exploitation of children, or distorted behavior,
+that are likely to occur are not allowed.
+3.6 Humanity
+It is essential to build and use GenAl tools according to a fair and ethical methodology grounded in human
+rights and fundamental cultural values. This approach aims to create a positive impact on the involved par-
+ties and local communities, contributing to the realization of both short and long-term goals for the benefit
+and prosperity of humanity. It is necessary to design and use GenAl tools in a manner that avoids deception,
+manipulation, or the establishment of behavior contrary to the empowerment, enhancement, or augmentation
+of human skills. Instead, the design and use approach should be centered on providing choices and deci-
+sion-making capabilities for the benefit of humanity.
+3.7 Social and Environmental Benefits
+Promote the positive and beneficial impact of social and environmental priorities that are designed
+to benefit individuals and society as a whole, which focus on sustainable goals and objectives.
+GenAl tools should not cause or accelerate harm or negatively impact humans but rather should
+contribute to enabling and complementing technological, social, and environmental advancement
+while seeking to address the challenges associated with it.
+--- Page 14 ---
+Generative Artificial Intelligence Guidelines For Government
+4. Roles and Responsibilities within the Entity
+This section defines roles and responsibilities to ensure that generative artificial intelligence tools
+are used responsibly in the Kingdom of Saudi Arabia.
+4.1 Data Management Office
+The Data Management Office plays a pivotal role in ensuring the ethical and legal use of GenAl
+tools. It is responsible for approving the tools that are used after reviewing the privacy, disclo-
+sure, and data-sharing policies to ensure their compliance with the relevant regulations and
+policies of the Kingdom of Saudi Arabia. Additionally, it is responsible for ensuring robust data
+management practices, including obtaining, processing, and maintaining data. This involves ver-
+ifying the legitimacy of data sources and obtaining necessary approvals. The Data Management
+Office must conduct audits to evaluate the quality of generative artificial intelligence training data
+and identify any potential bias. In addition, the Data Management Office has been tasked with
+liaising with legal experts to address data privacy concerns and ensure compliance with relevant
+legislation, such as the Personal Data Protection Law and policies issued by the Saudi Data
+Al Authority.
+--- Page 15 ---
+Generative Artificial Intelligence Guidelines For Government
+4.2 Users
+Users of generative artificial intelligence tools in government entities must apply a critical think-
+ing methodology and exercise caution when dealing with content created using these tools.
+Despite their value, such content is not inherently reliable and should be supplemented with
+information from trustworthy sources. It is the users responsibility to inform the government
+entity about any errors, biases, or inappropriate content generated with generative artificial in-
+telligence tools. Furthermore, staying informed about the latest developments in the capabilities
+and limitations of generative artificial intelligence tools is crucial for making informed judgments.
+When utilizing content created with generative artificial intelligence, it is imperative to ensure that
+relevant individuals are informed, and watermarks may be used when necessary to indicate that.
+4.3 Government Entities
+It is the responsibility of government entities in the Kingdom of Saudi Arabia to establish clear
+policies and guidelines for the responsible use of generative artificial intelligence. This involves
+consulting experts to assess legal risks and ensure compliance with all applicable laws and
+regulations. Government entities must prioritize transparency by disclosing content created with
+generative artificial intelligence. They should provide users with easy methods to identify content
+generated with this technology and offer alternatives to non-automated communication when
+users prefer human interactions.
+Additionally, government entities must actively promote educational initiatives to enhance users
+understanding of generative artificial intelligence. This includes imparting knowledge on how to
+critically evaluate content created with these tools and how to use these tools responsibly.
+--- Page 16 ---
+Generative Artificial Intelligence Guidelines For Government
+Y Appendix 1
+Guidelines for the Use of Generative Artificial Intelligence in Government Entities
+How can government entities benefit from GenAl
+Generative artificial intelligence offers a range of potential benefits to government entities that
+can be leveraged. However, it is crucial for these entities to ensure that they do not violate the
+guidelines mentioned in this document.
+1. Enhancing Operational Efficiency
+Generative artificial intelligence can help government employees complete time-consuming
+tasks more efficiently, enabling them to redirect their focus toward more complex or strategic
+activities.
+Example: The department manager can request generative artificial intelligence to draft job
+descriptions for newly created department functions and subsequently edit them, rather than
+creating the descriptions from scratch.
+2. Make Informed Decisions
+Generative artificial intelligence services can assist users in making informed decisions by pro-
+cessing large amounts of previous data, creating reports, and providing an overview of impor-
+tant information.
+Example: In the event of a new disease spreading, generative artificial intelligence can swiftly
+offer an overview of the most effective measures taken by authorities in different countries pre-
+viously, which will provide support to guide Saudi Arabias response.
+--- Page 17 ---
+Generative Artificial Intelligence Guidelines For Government
+3. Quality of Service and Citizen Support
+Citizens experiences with government services can be enriched by deploying chatbots, for
+example, generative artificial intelligence can be used to simplify user inquiries and support,
+as well as to create personalized content and services to meet individual needs.
+Example: A government entity can use a chatbot to provide a detailed explanation to users
+on how to apply for a caf license, enabling the user to avoid spending time and effort re-
+searching the required legislation.
+4. Accelerate the Research and Analysis Process
+The research process across sectors, including healthcare, economics, and environmental
+studies, can be accelerated through generative artificial intelligence, as it can help analyze
+data, create summaries and reports, and streamline searches.
+Example: Public Relations employees can leverage generative artificial intelligence to gen-
+erate summaries of news from media outlets worldwide, to gain insights into how the world
+perceives Saudi Arabia.
+5. Crisis Response
+During times of crisis or emergency, generative artificial intelligence can process and distrib-
+ute vital information and help employees allocate resources efficiently.
+Example: Generative artificial intelligence can process unstructured data from multiple
+sources simultaneously, such as weather data, social media feeds, and emergency services
+reports, to support Crisis Control Center operations.
+--- Page 18 ---
+Generative Artificial Intelligence Guidelines For Government
+6. Content Creation
+Generative artificial intelligence simplifies the complex task of content creation, as the technol-
+ogy can generate high-quality text, audio and video content, as well as reports and summaries,
+reducing time and effort.
+Example: Marketing employees can use generative artificial intelligence to prepare weekly
+awareness posts about open data.
+7. Translation
+Generative artificial intelligence has the ability to overcome language barriers, facilitating effec-
+tive communication between diverse groups of people. Unlike basic translation tools, which of-
+fer literal translations and often lack nuance, generative artificial intelligence employs advanced
+natural language processing technologies. This enables it to generate more accurate and fluent
+translations that consider context and incorporate subtle linguistic details, such as idiomatic
+expressions. It also reflects differences across cultures, resulting in more accurate and hu-
+man-like output. Additionally, generative artificial intelligence can be leveraged to create audio
+and video content as well as translation, accurately conveying the tone of voice, personality
+traits, and intent of the native speaker.
+Example: Generative artificial intelligence can automatically create audio and video guides for
+museums in multiple languages.
+Potential Challenges or Risks Associated with the Use of GenAl
+Generative artificial intelligence has the potential to transform government operations when
+adopted responsibly, empowering employees and delivering high-quality services to citizens.
+While discovering the benefits of generative artificial intelligence is essential, it is crucial to
+confront challenges and risks to maximize the benefits from the capabilities of such advanced
+technology.
+--- Page 19 ---
+Generative Artificial Intelligence Guidelines For Government
+General Challenges and Risks
+1. Political: The complexities involved in the process of formulating policies, regulations, and in-
+ternational cooperation appropriate for the governance of artificial intelligence technologies,
+including generative artificial intelligence tools.
+2. Economic: Financial constraints, employment disruptions, and income inequality resulting
+from the widespread adoption of artificial intelligence technologies.
+3. Social: Social issues, such as public perception, ethical concerns, and societal attitudes
+toward artificial intelligence, including generative artificial intelligence, affect the level of its
+acceptance and integration into various aspects of life.
+4. Technology: These include infrastructure constraints, access to cutting-edge research and
+talent, and cybersecurity risks arising from the advancement and widespread adoption of
+artificial intelligence and generative artificial intelligence.
+5. Environmental: Coping with the increased energy consumption and e-waste generation due
+to the computationally intensive requirements of artificial intelligence tools, including gener-
+ative artificial intelligence tools.
+6. Legal: It includes all laws and regulations in force in the Kingdom of Saudi Arabia, including
+intellectual property rights, Al Ethics Principles, and data laws and policies, to ensure the
+responsible use of artificial intelligence technologies in general and generative artificial intel-
+ligence in particular.
+--- Page 20 ---
+Generative Artificial Intelligence Guidelines For Government
+Common Risks and Challenges
+In this section, we explore the challenges or risks that employees of government entities may
+face. Addressing these issues requires adopting a proactive approach, and the advantages of
+generative artificial intelligence can be harnessed to mitigate the associated risks through a
+cautious approach and the adoption of preventive measures.
+Data Leaks Cases
+Government employees may unintentionally share restricted information with these services, re-
+sulting in data leakage, as generative artificial intelligence services typically store user-provided
+data to expand their training dataset. These services also pose a risk of unintentional disclosure
+of classified data to other users.
+Misinformation
+Generative artificial intelligence can present misleading information, potentially leading users to
+be tricked into providing partially or wholly incorrect information (often called a hallucination)
+as a result of the technology.
+Deepfake
+Misinformation and hallucinations are among the side effects of generative artificial intelligence,
+but the most significant threat arises when scammers exploit the technology to generate hy-
+per-realistic yet fake content, often called deepfake. Deepfake can be used to commit financial
+fraud or disseminate false yet realistic-looking footage intended to manipulate public opinion or
+tarnish individual or national reputation.
+Prejudice and Injustice
+Generative artificial intelligence models trained on biased datasets may produce content that
+reflects those biases, potentially entrenching stereotypes and leading to discrimination against
+specific individuals and communities.
+--- Page 21 ---
+Generative Artificial Intelligence Guidelines For Government
+Safety Concerns
+Safety risks when using generative artificial intelligence may arise from relying on incorrect or
+misleading content, leading to adverse consequences. For example: if content generated with
+generative artificial intelligence is used in critical decision-making processes without proper ver-
+ification, it could pose significant safety risks.
+Practical Guidelines - with Examples
+Creating Documents or Messages
+Generative artificial intelligence can assist government employees in drafting memorandums,
+letters, job descriptions, and other written materials.
+Best practices:
+1. Provide specific context in command format to receive more relevant and accurate respons-
+es.
+2. Edit and review created content, regardless of its source. The user is responsible for the
+content used to communicate with the target audience and other stakeholders.
+3. Ensure compliance with the Data Classification Policy by excluding information classified as
+restricted or higher from the command format and refrain from using it to establish commu-
+nications regarding sensitive topics.
+Example:
+Good command format example: Please write a job description for the Chief Accountant who
+will be responsible for auditing budgets.
+Bad command format example:  work for a government entity and would like to hire 20 new
+accountants. Please write the job description for these accountants. Keep in mind that they will
+supervise the audit of budgets.
+--- Page 22 ---
+Generative Artificial Intelligence Guidelines For Government
+Simplifying Content
+Generative artificial intelligence can assist in creating simple, straightforward content that is
+easy to understand. You can provide instructions in command format regarding the target audi-
+ence and desired reading level of the text.
+Best practices:
+1. Specify if you have a particular audience in mind when writing command format.
+2. Test different command format or request multiple versions of the same sentence until you
+achieve the desired result.
+3. Ensure compliance with the Data Classification Policy by excluding classified information
+from command format.
+4. Review the text to ensure it is conveyed into inclusive and respectful language. While mod-
+els may suggest common linguistic patterns, its important to be aware that they may also
+exhibit biases (for example. Exclude individuals based on age, race, or gender).
+Example:
+Good command format example: Simplify agricultural incentive texts published using clear lan-
+guage to be used in social media campaigns for farmers. The target audience is farmers who
+grow tomato crops within the Kingdom. The objective is to develop a simple awareness cam-
+paign on social media.
+Bad command format example: Below is a plan outlining undisclosed agricultural incentives.
+Summarize the internally developed draft of incentives that we can utilize in external communi-
+cations.
+--- Page 23 ---
+Generative Artificial Intelligence Guidelines For Government
+Summarizing Texts
+Generative artificial intelligence excels at summarizing long texts into concise summaries, mak-
+ing it a valuable tool for various tasks. For example, you can summarize a 5-page report in one
+paragraph.
+Best practices:
+e Specify the desired format (for example: bulleted list or text).
+e Thoroughly review the original document(s) to avoid missing or distorting any important
+information.
+e Ensure compliance with the Data Classification Policy by excluding information classified as
+restricted and higher from command format.
+e Make sure to remove any sensitive data from the notes or entries.
+Example:
+Good command format example: Summarize the key findings and insights from this published
+benchmark study on trends in renewable energy adoption. Focus on emerging technologies and
+potential growth areas, and present the summary in bullet point format for clarity.
+Bad command format example:  aim to assess if the budget statement appropriately allocates
+investments to priority sectors. Please provide a summary and analysis of the main findings from
+the benchmark study conducted by a public entity on renewable energy adoption trends in the
+region, and identify the investment opportunities revealed in the budget corresponding to the
+identified trends.
+--- Page 24 ---
+Generative Artificial Intelligence Guidelines For Government
+Creating Content in a Different Language
+Generative artificial intelligence can assist in creating communications in languages other than
+Arabic, for example: you can use ChatGPT to translate this document into French or Spanish.
+Best practices :
+1. Try different languages: ChatGPT, Bard, and other generative artificial intelligence models
+may have been trained on texts focused on a specific language or languages.
+2. Ensure the accuracy of the content by performing a back translation on the output of the
+translated text.
+3. Ensure compliance with the Data Classification Policy by excluding information classified as
+restricted and higher from the command format.
+4. Avoid using content created in a language you do not understand without first consulting
+someone fluent in that language.
+5. Use command format to specify regional dialects when needed.
+Example:
+Good command format example: Translate these instructions from Arabic to English or French,
+ensuring that the translated text is clear and accurately conveys the original message.
+Bad command format example: Translate these instructions for Americans to understand.
+--- Page 25 ---
+Generative Artificial Intelligence Guidelines For Government
+Using Generative Artificial Intelligence for Project Planning
+Generative artificial intelligence can be leveraged to create a basic project plan presentation that
+can later be refined. For example, Government employees can obtain a project plan template
+through the use of generative artificial intelligence.
+Best practices:
+1. Avoid entering specific project details, such as project name, authority, budget, system
+names, employee names, or any classified data.
+2. Manually customize and refine the plan to meet the specific needs of your project.
+3. Ensure that the created project plan aligns with your organizations overall goals and strat-
+egies.
+4. Review the plan to ensure it aligns with applicable legal and regulatory requirements for
+compliance.
+Example:
+Good command format example: Provide a general project plan template for developing a
+budget for a public entity, including templates for tracking actual and planned expenses.
+Bad command format example: Develop a planning model for a new public entity project, where
+four consultants will be appointed for a period of six months to work on allocating the national
+budget for the next year.
+--- Page 26 ---
+Generative Artificial Intelligence Guidelines For Government
+Using Generative Artificial Intelligence to Analyze Data
+Generative artificial intelligence offers the capability to perform numerical analysis on datasets
+however, ethical and legal considerations must be adhered to when engaging in data analysis.
+Best practices:
+1. Restrict the data analysis by generative artificial intelligence to datasets classified as public
+or open data.
+2. Ensure that data analysis using generative artificial intelligence complies with relevant pro-
+visions, controls, and policies.
+3. Obtain explicit consent from the data subject before utilizing generative artificial intelligence
+to analyze the data (unless the data is made available under an open data license.)
+4. Maintain a clear record of the data analysis process.
+5. Implement data anonymization techniques before uploading data to the tool to ensure ad-
+herence to privacy principles.
+6. Respect the principles of data ownership and seek consent when possible.
+7. Prioritize data security measures to prevent unauthorized access or breaches.
+Example:
+Good command format example: Analyze trends in customer purchasing behavior for the past
+year.
+Bad command format example: As part of the public entitys ongoing work, there is an effort to
+develop incentives for companies responsible for selling popular products in the Kingdom at
+the present time. Below is the collected data, which includes information on purchases from
+shopping centers including the name and credit card number. The data is not anonymized, each
+customers best-selling product is analyzed and identified.
+--- Page 27 ---
+Generative Artificial Intelligence Guidelines For Government
+Appendix 2
+Checklist for Utilizing Generative Artificial Intelligence Tools
+Legal and Ethical Compliance
+generative artificial intelligence tool adheres to the Kingdoms current regulations and poli-
+cies, the Personal Data Protection Law, and the Al Ethics Principles.
+Data Processing and Policies
+The use of government data in generative artificial intelligence tools is consistent with the
+entitys policies, including privacy, data classification, data sharing, and relevant terms and
+conditions.
+establishing and adhering to standards and controls for the use of generative artificial intelli-
+gence tools in contracts and procurement.
+Training and Education
+Employees undergo continuous training courses aimed at enhancing awareness of both the
+potential benefits and risks associated with using generative artificial intelligence tools.
+Employees undergo training to review and comprehend policies and procedures for using
+tools related to data collection, processing, and protection, enabling them to make informed
+recommendations.
+Employees undergo training courses covering the technical aspects of generative artificial
+intelligence tools to enhance workflow efficiency.
+--- Page 28 ---
+Generative Artificial Intelligence Guidelines For Government
+Disclosure
+Limit the utilization of the generative artificial intelligence tool within the government entity to
+authorized personnel.
+Detailed records of employee use of the tool are kept to evaluate its impact on workflow.
+Outputs
+Users leveraging generative artificial intelligence tools acknowledge that the output gener-
+ated by the tools may be subject to inaccuracy, contain outdated information, be biased, or
+have misleading content.
+Users consistently verify the validity and accuracy of these outputs, particularly when pre-
+paring official reports and legal documents.
+Users are notified that the results may not adhere to intellectual property protection regula-
+tions and understand the necessity for continuous verification.
+Verify the accuracy of the generated code before using and executing it.
+Document Type  Regulatory Documents
+Document Classification  General 
+Saudi Data  Al Authority
+Document Number  SDAIA-P116E
+Version Number  1
+SDAIA.GOVSA  SDAIASA SDAIA.SAUDI  SDAIA-KSA

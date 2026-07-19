@@ -1,0 +1,375 @@
+--- Page 3 ---
+National Al Index (NAII)
+Table of Contents
+1. Document Purpose
+2. Index Overview
+3. Index Development Methodology
+3.1 Analysis
+3.2 Design
+3.3 Measurement
+3.4 Results
+--- Page 4 ---
+National Al Index (NAII)
+1. Document Purpose
+This document aims to introduce the National Al Index (NAII) by outlining its objectives and the
+methodology adopted in its development. It also covers the key components on which the Index relies to
+assess the readiness of government entities to adopt Al technologies. The document presents the
+maturity levels for Al adoption by government entities, providing a detailed description of each level,
+then explains the evaluation questions included in the Index, and concludes with the mechanism for
+analyzing results.
+2. Index Overview
+The National Al Index (NAII) aims to assess the readiness level of government entities to adopt Al
+technologies, monitor their progress on a periodic basis, and provide practical recommendations on
+strengths and potential areas for improvement for each entity, thereby supporting the development and
+use of these technologies at the national level. The Index consists of three main pillars, seven sub-pillars,
+and twenty-three domains to ensure a comprehensive measurement process.
+The design of the Index considers current challenges and future opportunities faced by government
+entities in adopting Al. The most notable of these challenges include weak alignment between Al
+initiatives and national priorities, limited availability of suitable data for training, variations in the
+readiness of technical infrastructure across entities, a shortage of specialized national talent, and a lack
+of unified and clear measurement standards.
+--- Page 5 ---
+National Al Index (NAII)
+Index Objectives:
+- Aligning government efforts and priorities in the field of Al.
+- Providing and improving the necessary enablers for Al adoption within government entities.
+- Enabling the launch and adoption of Al products in key sectors and ensuring impact realization.
+The Index delivers results that reflect each entitys adoption level while also providing the necessary
+support and recommendations to strengthen their capabilities in developing effective and sustainable
+Al solutions and applications that directly contribute to achieving the objectives of Saudi Vision 2030.
+Additionally, the Index aims to empower government entities to develop Al products in priority sectors,
+provide the essential enablers to support the sustainability of these efforts, and maximize their impact.
+3. Index Development Methodology
+The development of national indices is one key tool for strengthening the governance of emerging
+technologies and guiding efforts toward achieving strategic objectives. With the rapid expansion in Al
+adoption across both the public and private sectors, there is a clear need to design a national index that
+reflects entities readiness to adopt Al and identifies opportunities for advancement in this vital field.
+The methodology for developing the Index is based on three interconnected stages aimed at achieving
+comprehensiveness and accuracy in building the Index, including surveying and analyzing benchmark
+studies, designing the Index by defining its key components and measurement mechanism, and
+performing measurement procedures. This process includes conducting workshops, completing and
+--- Page 6 ---
+National Al Index (NAII)
+verifying questionnaires, and finally analyzing the results to determine each entitys level of adoption.
+The findings are then compiled into reports that support decision-makers in enhancing Al utilization and
+improving enterprise performance.
+3.1 Analysis
+The development of the National Al Index was based on an in-depth analysis of a comprehensive set of
+national and international references. This analysis included studying national indices in Saudi Arabia
+and reviewing regulatory frameworks related to Al. It also examined international Al indices, in addition
+to analyzing the experiences of governments and corporations in this field.
+--- Page 7 ---
+National Al Index (NAII)
+3.2 Design
+The design phase of the National Al Index aims to build a comprehensive and flexible measurement tool
+that reflects the reality of entities in terms of strategic direction, internal readiness, and achieved
+outcomes and impact. The design process considered alignment with the local context and leveraged
+global best practices to ensure the reliability of results and their applicability across various sectors.
+3.2.1 Index Framework
+The Index consists of three main pillars: Directions, Enablers, and Outputs. These pillars include seven
+main sub-pillars, divided into 23 sub-domains covering strategic, regulatory, technical, operational, and
+human aspects. These components were carefully selected to provide a comprehensive and integrated
+view of entities readiness levels in the field of Al.
+Directions Enablers Outputs
+Strate: Governance Boonen
+SY Capabilities
+Planning and Frameworks and  Availability and Technical   Headcount and evelopment and  Operational
+Performance Policies Accessibility Standards Diversity Deployment Efficiency
+Initiati Regulatory  Quality and Availability and Professional   Privacy and   Employee
+nitiatives Enablement Integration Monitoring Development Security Productivity
+Reliability and  ١  Operational  Academic   Operation and Service Quality
+Budget  Safety Reliability Resilience Collaboration Management nd Improvement
+Regulatory cre
+--- Page 8 ---
+National Al Index (NAII)
+A. Directions:
+Strategy
+Leading entities adopt ambitious strategies to deeply integrate Al into their operations, with the aim of
+enhancing operational efficiency, reducing costs, and delivering personalized services. These entities
+focus on leveraging Al to achieve a competitive advantage, foster innovation, and improve service quality
+through advanced analytics.
+Such strategies outline how the organization harnesses Al to achieve its objectives, defining priorities,
+requirements, actions, timelines, and the governance framework necessary for sustainable
+implementation. This sub-pillar covers:
+Planning and Performance
+Formulating the strategy and vision serves as the enterprise reference for directing Al efforts
+toward measurable objectives and identifying priority domains. This contributes to building a
+shared understanding, linking initiatives to enterprise objectives, and ensuring alignment with
+national strategies and Saudi Vision 2030.
+Initiatives
+Initiatives serve as a tool of translating the strategic vision into practical projects that deliver
+tangible impact. It includes operational and experimental initiatives aimed at improving
+performance, such as process automation and the delivery of intelligent recommendations.
+--- Page 9 ---
+National Al Index (NAII)
+Budget
+This refers to the dedicated budget for implementing Al initiatives within the entity, which is
+essential for turning plans into outcomes. It reflects a strategic commitment in supporting digital
+transformation.
+Governance
+As Al adoption develops, governance becomes a necessity to ensure the responsible and safe use of
+technologies. Governance frameworks define roles, responsibilities, and decision-making mechanisms,
+striking a balance between innovation, transparency, and compliance, thereby enhancing public trust
+and achieving enterprise excellence. Al governance encompasses a set of frameworks, policies, and
+enterprise structures that regulate the development and use of Al to ensure compliance and promote
+safe, responsible use through periodic reviews and the adoption of leading local and global practices.
+This includes:
+Frameworks and Policies
+Regulatory frameworks form the foundation for effective governance. They support the
+organized use of smart technologies, strengthen public trust, and consider cultural and
+developmental specificities.
+Regulatory Enablement
+This includes establishing a regulatory unit dedicated to Al within the entity to strengthen
+governance and enterprise transformation, along with clearly defining its mandates.
+--- Page 10 ---
+National Al Index (NAII)
+Reliability and Safety
+This involves ensuring the accuracy and stability of Al systems through control procedures,
+adherence to national standards, and mitigation of potential risks, in alignment with relevant
+regulatory frameworks.
+Regulatory Compliance
+Regulatory compliance requires embedding regulations into daily operations rather than treating
+them as a mere formality. This includes implementing regulatory frameworks issued by SDAIA,
+such as the Generative Artificial Intelligence Guidelines and Deepfake Guidelines.
+B. Enablers
+Data
+Data forms the foundation of all Al applications, with the quality of outcomes highly dependent on the
+accuracy, availability, and integration of data. Enablement involves building a robust enterprise
+structure, enhancing data quality, and ensuring privacy and security, thereby supporting the
+sustainability and efficiency of Al models. This includes:
+Availability and Accessibility
+Ensuring that data is available and easily accessible through the use of data discovery tools, data
+catalogs, and automated updates to maintain currency.
+Quality and Integration
+Data quality directly affects model accuracy. Therefore, it is essential to track data sources,
+document usage rights, conduct legal reviews for data usage, and ensure compliance with
+intellectual property rights.
+--- Page 11 ---
+National Al Index (NAII)
+Reliability
+To maintain data continuity and trust, it is recommended to use distributed cloud storage along
+with backup solutions for disaster recovery.
+Infrastructure
+Infrastructure involves digital resources such as servers, cloud, and data centers that enable the
+development and operation of Al applications. It must be flexible, scalable, and secure to ensure
+consistent performance and accurate results. The related domains include:
+Technical Standards
+Ensuring compatibility, performance, and sustainability by providing a scalable, flexible
+infrastructure capable of accommodating growth, as well as integrating with national platforms.
+Availability and Monitoring
+Focusing on providing a flexible internal infrastructure for high-performance computing that
+supports Al technologies, offering scalability, operational efficiency, and regular hardware
+upgrades.
+Operational Resilience
+Ensuring service continuity by maintaining downtime not exceeding 30 minutes annually and
+using predictive analytics to reduce potential outages.
+--- Page 12 ---
+National Al Index (NAII)
+Human Capabilities
+Human capabilities are the cornerstone of Al adoption, requiring specialized technical expertise in Al
+design, development, operation, and governance. Human enablement involves attracting top talent,
+training skilled professionals, building career pathways, and providing a flexible, motivating work
+environment, in addition to fostering academic partnerships to prepare the next generation of
+professionals. This includes:
+Headcount and Diversity
+Effective enterprise adoption requires building diverse teams with deep expertise, aligned with
+the National Occupational Standard Framework for Data and Artificial Intelligence.
+Professional Development
+Keeping pace with digital transformation demands a sustainable training plan that supports
+continuous learning, aligned with job roles, and offering accredited certifications in the field.
+Academic Collaboration
+Partnering with universities and institutes helps supply the entity with qualified talent and
+fosters an applied learning environment. It also facilitates attracting talented students through
+training programs and technology competitions.
+Job Stability
+In the competitive market for specialized talent, retaining such expertise is a strategic priority.
+This can be achieved through analyzing employee attrition causes and developing professional
+and financial incentives, as well as aligning HR policies with the National Occupational Standard
+Framework.
+--- Page 13 ---
+National Al Index (NAII)
+C. Outputs
+Applications
+Possessing in-house capabilities to develop Al-based products and applications is one of the most
+significant indicators of enterprise maturity in this domain.
+Development and Deployment
+This includes the number of Al applications developed, as well as the development and
+deployment of intelligent applications that provide tailored solutions to meet the entitys needs
+through an internal development environment supporting model lifecycle management using
+frameworks such as MLOps.
+Privacy and Security
+The entity adopts a Security and Privacy by Design approach, integrating encryption and access
+controls from the earliest stages of analysis. It complies with national regulations, such as the
+Personal Data Protection Law, and implements immediate recovery plans while conducting
+periodic risk measurements to ensure the safety and continuity of applications.
+Operation and Management
+Operation involve tracking model usage and linking performance to enterprise indicators, such
+as service quality and cost reduction. Intelligent monitoring mechanisms are implemented for
+proactive improvement, and analytical reports are submitted to senior management to support
+decision-making and enhance investment in successful models.
+--- Page 14 ---
+National Al Index (NAII)
+Impact
+The impact of Al extends from cost reduction and efficiency enhancement to improved user experience
+and more accurate, effective decision-making. This impact can only be realized when Al technologies
+are integrated into the enterprise environment in alignment with strategy, governance, and enablers.
+Operational Efficiency
+Al contributes to improving operational efficiency and productivity by reducing costs through
+automating manual processes. The impact is measured using return on investment (ROI) models
+that include productivity gains, time savings, and performance improvements, directing
+investments toward higher-value solutions. Al supports at least 25 of jobs, with productivity
+gains targeted at over 15. Performance analysis tools are used to monitor this improvement
+and link job training to actual outcomes.
+Employee Productivity
+Al is employed to analyze beneficiary behavior and personalize services, enhancing user
+experience and improving time-related performance indicators by over 20. Interactivity is
+further strengthened through proactive solutions such as chatbots, with Al integrated across all
+service channels.
+Service Quality and Improvement
+This reflects the extent to which the entity adopts Al to deliver interactive, personalized, and
+proactive services through diverse channels for users, customers, or citizens. Al powers more
+than 25 of services, with improvements in response time, satisfaction, and personalization
+exceeding 20.
+--- Page 15 ---
+National Al Index (NAII)
+Each of these domains is evaluated based on a set of detailed questions and specific criteria outlined
+in the following sections.
+3.2.2 Adoption Measurement Levels
+The National Al Index classifies the maturity level of government entities in Al adoption into six main
+levels. Each level reflects a specific stage in the entitys practices and development of Al capabilities,
+and helps define a roadmap for continuous improvement.
+Level
+apabilities
+0 - 4.9 5 - 24.9 25 - 49.9 50 - 79.9 80 - 94.9 95 -100
+The organization Al is integrated into
+recognizes the Regulatory frameworks, operations and
+importance of Al. Strategies, and Al enterprise decision-
+Limited initiatives or governance mechanisms making. Strategy,
+pilot projects are nave 5920 infrastructure, and
+being built without 3 skills are aligned, with
+Al drives strategic The organization
+transformation, leads the national
+enables digital landscape in Al
+services, and delivers maturity,
+tangible impact. demonstrating
+efforts or capabilities begins across several
+exist in tne field clear organizational مسد with adoption guided by candle scope sevanced adoption.
+Description structure or emerging measurement performance panded in continuous
+comprehensive practices. indicators and periodically innovation, and
+integration. governance. measurable impact
+Adoption Al has not yet been
+established within the
+Level organization. No Initial implementation
+Achieve strategic National leadership and
+Raise awareness and Build capabilities and
+Purpose NA initiate practical conduct controlled
+experimentation experiments organizational level value. innovation.
+alignment and maximize tainable enterprise
+Figure (3): Adoption Measurement Levels
+--- Page 16 ---
+National Al Index (NAII)
+Level 0: Absence of Capabilities
+Score: 0  4.9
+Description: Al has not yet been established within the organization. No efforts or capabilities exist in
+this field.
+Objective: None.
+Level 1: Establishing
+Score: 5  24.9
+Description: The organization recognizes the importance of Al. Limited initiatives or pilot projects are
+being built without a clear organizational structure or comprehensive integration.
+Objective: Raise awareness and initiate practical experimentation.
+Level 2: Activated
+Score: 25  49.9
+Description: Regulatory frameworks, strategies, and Al governance mechanisms have been activated.
+Initial implementation begins across several departments with emerging measurement practices.
+Objective: Build capabilities and conduct controlled experiments.
+--- Page 17 ---
+National Al Index (NAII)
+Level 3: Managed
+Score: 50  79.9
+Description: Al is integrated into operations and enterprise decision-making. Strategy, infrastructure,
+and skills are aligned, with adoption guided by performance indicators and governance.
+Objective: Achieve comprehensive integration at the organizational level.
+Level 4: Excellence
+Score: 80  94.9
+Description: Al drives strategic transformation, enables digital services, and delivers tangible impact.
+Initiatives are expanded in scope and evaluated periodically.
+Objective: Achieve strategic alignment and maximize value.
+Level 5: Pioneer
+Score: 95  100
+Description: The organization leads the national landscape in Al maturity, demonstrating advanced
+adoption, continuous innovation, and measurable impact.
+Objective: National leadership and sustainable enterprise innovation.
+--- Page 18 ---
+National Al Index (NAII)
+3.3 Measurement
+The percentage of Al adoption by entities is measured in three main steps, beginning with the delivery
+of introductory workshops, followed by the distribution of questions for completion along with the
+collection of supporting documents, and concluding with the analysis and verification of responses.
+3.3.1 Awareness Workshops
+Workshops are conducted with representatives of government entities to raise awareness of the
+importance of Al adoption, introduce the National Al Index and its objectives, and explain the questions
+in detail. The workshops also clarify the response mechanism and the process for compiling and sharing
+supporting documents.
+3.3.2 Questionnaire and Supporting Documents
+The National Al Index questions are shared with government entities for completion. Entities are also
+required to compile and share the documents and evidence supporting each response.
+3.3.3 Review and Verification
+Responses and supporting documents are reviewed and verified for accuracy and validity by a
+specialized team. Follow-up workshops with entities may be held, where necessary, to address any
+points requiring clarification.
+--- Page 19 ---
+National Al Index (NAII)
+3.4 Results
+This stage represents the final step in implementing the National Al Index. It aims to accurately portray
+the readiness level of government entities for Al adoption. It relies on data collected during the
+measurement stage, transforming practices and indicators into quantitative results and benchmark
+comparisons that enable the identification of gaps and guide future development plans.
+3.4.1 Adoption Scores
+The adoption score reflects the overall level attained by the entity in utilizing and implementing Al
+technologies, based on an analysis of its enterprise performance results in this domain. The score is
+calculated by aggregating and analyzing the results of the sub-domains within the Index components,
+applying the predetermined weights for each domain. This approach enables the development of a
+tailored roadmap to raise the level of adoption and determine the entitys position on the maturity scale.
+3.4.2 Comprehensive and Detailed Reports
+The reporting stage of the National Al Index plays a pivotal role in measuring Al adoption among entities.
+These reports aim to support decision-makers in government entities by providing an accurate
+analytical reading of the current state of adoption, enabling entities to set their development priorities
+based on reliable data.
+--- Page 20 ---
+National Al Index (NAII)
+This stage includes two types of reports:
+Comprehensive National Report:
+Provides a holistic view of Al adoption levels across the government sector, highlighting areas
+that have achieved advanced maturity, as well as identifying aspects requiring development or
+intervention to strengthen enterprise readiness.
+Detailed Report for Each Entity:
+Based on the measurement results, SDAIA will analyze each entitys performance across
+various domains and provide targeted recommendations that outline practical steps for
+improving adoption levels. These recommendations will focus on addressing weaknesses and
+maximizing the impact of Al utilization. The recommendations aim to:
+Support decision-making within government entities through an objective analysis of
+the adoption state.
+Enhance the entities ability to develop future improvement plans with greater accuracy
+and alignment to national priorities.
+Raise competitiveness and encourage healthy competition among government entities
+in adopting Al.
+Achieve national alignment in progress toward the objectives of the National Strategy
+for Data and Al.
+--- Page 21 ---
+National Al Index (NAII)
+This step forms an integral part of the Indexs governance framework, contributing to the
+establishment of a culture of continuous improvement in Al adoption across government entities
+in Saudi Arabia.
+3.4.3 Follow-Up
+To enhance the effectiveness of the National Al Index and ensure the sustainability of its impact within
+the government sector, a comprehensive annual review will be conducted for the Index components,
+questions, and measurement methodology. This will ensure accuracy, alignment with the sectors actual
+needs, and responsiveness to the ongoing evolution of Al practices.
+--- Page 22 ---
+SDAIA 
+Document Type Regulatory
+الهيئة السعودية للبيانات
+Saudi Data  A Authorty Document Number  SDAIA-P123
+Version Number  1
+SDAIA.GOV.SA SDAIASA SDAIA.SAUDI  SDAIA-KSA

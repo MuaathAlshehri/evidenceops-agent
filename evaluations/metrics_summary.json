@@ -1,0 +1,15 @@
+{
+    "total_cases": 10,
+    "completed": 6,
+    "failed": 4,
+    "task_completion_rate": 60.0,
+    "approval_compliance": 100.0,
+    "retrieval_hit_rate": 0.0,
+    "tool_selection_accuracy": 0.0,
+    "latency": {
+        "average": 34.34,
+        "median": 34.19,
+        "min": 8.74,
+        "max": 66.75
+    }
+}

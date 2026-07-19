@@ -1,0 +1,1058 @@
+--- Page 3 ---
+Table of Content
+Introduction
+Definitions
+Scope
+Al Ethics Principles and Controls
+Roles and Responsibilities
+Appendices
+--- Page 4 ---
+Al Ethics Principles
+Due to the fast growth of practices and technologies around Artificial Intelligence (Al), the use of Al has
+expanded to several industries such as health, education, entertainment, etc. Al helps make entities dec-
+sion-making processes more efficient, accurate and faster by predicting future patterns. Al can be used to
+analyze data, including big data, by developing and operating systems with advanced models and algrithms
+that help improve the quality of processes. Due to the increasing interest in these technologies, many enti-
+ties in both the public and private sectors, in addition to non-profit entities, have developed digital solutions
+based on Al to address existing challenges using creative and innovative methods, thus making the role of Al
+more essential to maintain the competitive capabilities of these entities.
+--- Page 5 ---
+Al Ethics Principles
+Due to the fast growth of practices and technologies around Artificial Intelligence (Al), the use of Al has epand-
+ed to several industries such as health, education, entertainment, etc. Al helps make entities decsion-making
+processes more efficient, accurate and faster by predicting future patterns. Al can be used to analyze data,
+including big data, by developing and operating systems with advanced models and algorithms that help im-
+prove the quality of processes. Due to the increasing interest in these technologies, many entities in both the
+public and private sectors, in addition to non-profit entities, have developed digital solutions based on Al to
+address existing challenges using creative and innovative methods, thus making the role of Al more essential
+to maintain the competitive capabilities of these entities.
+to adopting Al technology, encouraging research and innovation, and driving economic
+Q Support the Kingdoms efforts towards achieving its vision and national strategies related
+0 growth for prosperity and development.
+Develop and establish Al ethics policies, guidelines, regulations, and frameworks.
+Govern data and Al models to limit the negative implications of Al systems (economically,
+psychologically, socially, etc.) and potential threats (security, political, etc.).
+: a Help entities adopt standards and ethics when building and developing Al-based solutions
+Je to ensure responsible use thereof.
+fe Protect the privacy of data subjects and their rights with respect to the collection and pro-
+Oy cessing of their data.
+--- Page 6 ---
+Al Ethics Principles
+Definitions
+For the purposes of this document, the following words and phrases, wherever mentioned herein,
+shall have meanings ascribed thereto, unless the context requires otherwise:
+Adopting Entity
+Any public entity, business, or individual that is required to comply with the present document.
+Artificial Intelligence
+Artificial intelligence or Al is a collection of technologies that can enable a machine or system to sense,
+comprehend, act, and learn.
+Al System Assessor
+Any natural or legal person that audits Al systems to achieve certain goals.
+Al System Lifecycle
+The cyclical process that Al projects are expected follow to be able to design, build, and produce a robust
+and safe system that delivers business value and insights through adhering to a standard and structured
+way of managing Al model delivery and implementation.
+Authorized User
+An individual that is permitted, appropriately cleared, and has a requirement to access an information sys-
+tem to perform or assist an established and preset role or responsibility on the systems functionalities and
+components.
+Al Ethics
+A set of values, principles, and techniques to guide moral conduct in developing and using Al technologies.
+Al System
+A set of predictive models and advanced algorithms that can be used to analyze data and predict the future
+or facilitate decision making for projected future events.
+--- Page 7 ---
+Al Ethics Principles
+Al System Developer
+Any natural or legal person that develops Al systems by building predictive models using data and algo-
+rithms to achieve certain goals.
+Al System Owner
+Any natural or legal person that applies or uses Al systems to achieve certain goals.
+The Chief Data Officer (CDO) is responsible for the development and execution of the Data Management
+Data Governance and oversee the implementation practices across the Public Entities.
+Data
+A collection of facts in a raw or unorganized form such as numbers, characters, images, video, voice re-
+cordings, or symbols.
+Data Sample
+The data used to build, train and test predictive models and Al algorithms to reach specific results.
+End-User
+Any natural or legal person that consumes or makes use of the goods or services produced by Al systems.
+Personal Data
+Every data - of whatever source or form  that would lead to the identification of the individual specifically,
+or make it possible to identify him directly or indirectly, including: name, personal identification number,
+addresses, contact numbers, license numbers, records, personal property, bank account and credit card
+numbers, fixed or removing pictures of the individual, and other data of personal nature.
+SDAIA
+Saudi Data and Artificial Intelligence Authority
+--- Page 8 ---
+Al Ethics Principles
+Validity (Accuracy)
+How accurately a method measures what it is intended to measure.
+Data Governance
+Data governance is the process of managing the availability, usability, integrity, and security of data in
+organizations and systems, based on data standards and policies that also control data usage.
+Data Subject
+An individual to whom the personal data belongs, his representative, or whoever has legal guardianship
+over him.
+National Regulatory Authority
+Any independent governmental or public entity assuming regulatory duties and responsibilities for a specific
+sector in the Kingdom of Saudi Arabia under a legal instrument.
+Reliability
+The property of intended consistency in behavior and results.
+Sensitive Data
+Personal data that indicates or includes a reference to a persons ethnic or tribal origin religious, intellectu-
+al or political beliefs membership of civil associations or institutions criminal and security data biometric
+identifying data genetic data credit data health data location data and data that indicates that one or
+both of an individuals parents are unknown.
+--- Page 9 ---
+Al Ethics Principles
+Scope
+This Al Ethics Framework shall apply to all Al stakeholders designing, developing, deploying, implementing,
+using, or being affected by Al systems within KSA, including but not limited to public entities, private entities,
+non-profit entities, researchers, public services, institutions, civil society organizations, individuals, workers,
+and consumers.
+Al Risks
+The categories and levels of risks associated with the development andor use of artificial intelligence are
+classified into the following:
+Little or no risk: There are no restrictions on Al systems that pose little or no risk such as spam
+filters, but it is recommended that these systems be ethically compliant.
+Limited risk: Al systems that pose limited risks, such as technical programs related to function,
+development, and performance, are subject to the application of the Al ethics principles mentioned in
+this document.
+High risk: Al systems that pose high risks to basic rights must undergo pre- and post-conformity
+assessments, and in addition to adhering to ethics, the relevant statutory requirements must be con-
+sidered.
+Unacceptable risk: Al systems that pose an unacceptable risk to peoples safety, livelihood, and
+rights such as those related to social profiling, exploitation of children, or distortion of behavior that
+are likely to occur are not allowed.
+Risk management should be directly interlinked into Al initiatives, so that oversight is concurrent with internal
+development of Al technology. Risk management of Al systems affects a wide range of risk types including
+data, algorithm, compliance, operational, legal, reputational, and regulatory risks. Risk management subcom-
+ponents, such as model interpretability, bias detection, performance monitoring, are built in so that oversight
+is constant and consistent with Al development activities. In this approach, standards, testing, and controls
+are embedded into various stages of the Al System Lifecycle, from design to development and post-deploy-
+ment.
+--- Page 10 ---
+Al Ethics Principles
+The Al System Lifecycle is the cyclical process that Al projects follow. It defines each step that an organi-
+zation is expected to follow to take advantage of Al to derive practical business value. It is a standard way
+of representing the tasks based on best practices in implementing and managing Al models which makes
+it a great candidate for embedding Al ethics.
+--- Page 11 ---
+Al Ethics Principles
+The Al System Lifecycle is split into four steps, all of which have equal importance, and the relevant
+activities are explained below:
+Plan and Design Prepare Input Data
+- Define the problem - Gather data
+- Support your problem with a data-driven - Discover and assess data
+approach - Cleanse and validate data
+- Selecta framing approach on technology - Transform data into Al model input features
+and system which governs Al
+- Conduct feasibility assessment for the Plan and
+selected approach Design
+- Define KPls
+Prepare
+Input
+Data
+Build and
+Validate
+Deploy and Monitor Build and Validate
+- Deploy the model to the Al system - Train and test the model
+- Create versioning structure - Tune the hyperparameters of the model
+- Monitor the production model performance - Validate model performance
+periodically - Risk Evaluation
+- Assess if there is a need to change the design
+according to results of periodic reviews
+--- Page 12 ---
+Al Ethics Principles
+Al Ethics Principles and Controls
+Principle 1 - Fairness
+The fairness principle requires taking necessary actions to eliminate bias, discrimination or stigmatization of
+individuals, communities, or groups in the design, data, development, deployment and use of Al systems.
+Bias may occur due to data, representation or algorithms and could lead to discrimination against the histor-
+ically disadvantaged groups.
+When designing, selecting, and developing Al systems, it is essential to ensure just, fair, non-biased, non-dis-
+criminatory and objective standards that are inclusive, diverse, and representative of all or targeted segments
+of society. The functionality of an Al system should not be limited to a specific group based on gender, race,
+religion, disability, age, or sexual orientation. In addition, the potential risks, overall benefits, and purpose of
+utilizing sensitive personal data should be well-motivated and defined or articulated by the Al System Owner.
+To ensure consistent Al systems that are based on fairness and inclusiveness, Al systems should be trained
+on data that are cleansed from bias and is representative of affected minority groups. Al algorithms should be
+built and developed in a manner that makes their composition free from bias and correlation fallacy.
+--- Page 13 ---
+Al Ethics Principles
+Plan and Design:
+1- At the initial stages of setting out the purpose of the Al system, the design team shall collaborate to pipoint
+the objectives and how to reach them in an efficient and optimized manner. Planning the design of the Al
+system is an essential stage to translate the systems intended goals and outcomes. During this phase, it is
+important to implement a fairness-aware design that takes appropriate precautions across the Al system al-
+gorithm, processes, and mechanisms to prevent biases from having a discriminatory effect or lead to skewed
+and unwanted results or outcomes.
+2- Fairness-aware design should start at the beginning of the Al System Lifecycle with a collaborative effort
+from technical and non-technical members to identify potential harm and benefits, affected individuals and
+vulnerable groups and evaluate how they are impacted by the results and whether the impact is justifiable
+given the general purpose of the Al system.
+3- A fairness assessment of the Al system is crucial, and the metrics should be selected at this stage of the
+Al System Lifecycle. The metrics should be chosen based on the algorithm type (rule-based, classification,
+regression, etc.), the effect of the decision (punitive, selective, etc.), and the harm and benefit on correctly
+and incorrectly predicted samples.
+4- Sensitive personal data attributes relating to persons or groups which are systematically or historical-
+ly disadvantaged should be identified and defined at this stage. The allowed threshold which makes the
+assessment fair or unfair should be defined. The fairness assessment metrics to be applied to sensitive
+features should be measured during future steps.
+--- Page 14 ---
+Al Ethics Principles
+Prepare Input Data:
+1- Following the best practice of responsible data acquisition, handling, classification, and management
+must be a priority to ensure that results and outcomes align with the Al systems set goals and objectives.
+Effective data quality soundness and procurement begin by ensuring the integrity of the data source and
+data accuracy in representing all observations to avoid the systematic disadvantaging of under-represented
+or advantaging over-represented groups. The quantity and quality of the data sets should be sufficient and
+accurate to serve the purpose of the system. The sample size of the data collected or procured has a signif-
+icant impact on theaccuracy and fairness of the outputs of a trained model.
+2- Sensitive personal data attributes which are defined in the plan and design phase should not be included
+in the model data not to feed the existing bias on them. Also, the proxies of the sensitive features should be
+analyzed and not included in the input data. In some cases, this may not be possible due to the accuracy or
+objective of the Al system. In this case, the justification of the usage of the sensitive personal data attributes
+or their proxies should be provided.
+Build and Validate:
+1- At the build and validate stage of the Al System Lifecycle, it is essential to take into consideration im-
+plementation fairness as a common theme when building, testing, and implementing the Al system. Model
+building and feature selection will require engineers and designers to be aware that the choices made about
+grouping or separating and including or excluding features as well as more general judgments about the reli-
+ability and security of the total set of features may have significant consequences for vulnerable or protected
+groups.
+2- During the selection of the champion model, the fairness metric assessment should be considered. The
+champion model fairness metrics should be within the defined threshold for the sensitive features. The op-
+timization approach of fairness and performance metrics should be clearly set throughout this phase. The
+fairness assessment should be justified if the champion model does not pass the assessment.
+3- Causality-based feature selection should be ensured. Selected features should be verified with business
+owners and non-technical teams.
+4- Automated decision-support technologies present major risks of bias and unwanted application at the
+deployment phase, so it is critical to set out mechanisms to prevent harmful and discriminatory results at this
+phase.
+--- Page 15 ---
+Al Ethics Principles
+Deploy and Monitor:
+1- Well-defined mechanisms and protocols should be set in place when deploying the Al system to measure
+the fairness and performance of the outcomes and how it impacts individuals and communities. When ana-
+lyzing the outcomes of the predictive model, it should be assessed if represented groups in the data sample
+receive benefits in equal or similar portions and if the Al system disproportionately harms specific members
+based on demographic differences to ensure outcome fairness.
+2- The predefined fairness metrics should be monitored in production. If there is any deviation from the al-
+lowed threshold, it should be investigated whether there is a need to renew the model.
+3- The overall harm and benefit of the system should be quantified and materialized on the sensitive groups.
+Principle 2 - Privacy  Security
+The privacy and security principle represents overarching values that require Al systems throughout the Al
+System Lifecycle to be built in a safe way that respects the privacy of the data collected as well as upholds
+the highest levels of data security processes and procedures to keep the data confidential preventing data
+and system breaches which could lead to reputational, psychological, financial, professional, or other types
+of harm. Al systems should be designed with mechanisms and controls that provide the possibility to govern
+and monitor their outcomes and progress throughout their lifecycle to ensure continuous monitoring within
+the privacy and security principles and protocols set in place.
+--- Page 16 ---
+Al Ethics Principles
+Plan and Design:
+1- The planning and design of the Al system and its associated algorithm must be configured and modelled
+in a manner such that there is respect for the protection of the privacy of individuals, personal data is not
+misused and exploited, and the decision criteria of the automated technology is not based on personally
+identifying characteristics or information.
+2- The use of personal information should be limited only to that which is necessary for the proper function-
+ing of the system. The design of Al systems resulting in the profiling of individuals or communities may only
+occur if approved by Chief Compliance and Ethics Officer, Compliance Officer or in compliance with a code
+of ethics and conduct developed by a national regulatory authority for the specific sector or industry.
+3- The security and protection blueprint of the Al system, including the data to be processed and the algo-
+rithm to be used, should be aligned to best practices to be able to withstand cyberattacks and data breach
+attempts.
+4- Privacy and security legal frameworks and standards should be followed and customized for the particular
+use case or organization.
+5- An important aspect of privacy and security is data architecture consequently, data classification and
+profiling should be planned to define the levels of protection and usage of personal data.
+6- Security mechanisms for de-identification should be planned for the sensitive or personal data in the sys-
+tem. Furthermore, readwriteupdate actions should be authorized for the relevant groups.
+--- Page 17 ---
+Al Ethics Principles
+Prepare Input Data:
+1- The exercise of data procurement, management, and organization should uphold the legal frameworks and
+standards of data privacy. Data privacy and security protect information from a wide range of threats.
+2- The confidentiality of data ensures that information is accessible only to those who are authorized to ac-
+cess the information and that there are specific controls that manage the delegation of authority.
+3- Designers and engineers of the Al system must exhibit the appropriate levels of integrity to safeguard the
+accuracy and completeness of information and processing methods to ensure that the privacy and security
+legal framework and standards are followed. They should also ensure that the availability and storage of data
+are protected through suitable security database systems.
+4- All processed data should be classified to ensure that it receives the appropriate level of protection in ac-
+cordance with its sensitivity or security classification and that Al system developers and owners are aware of
+the classification or sensitivity of the information they are handling and the associated requirements to keep it
+secure. All data shall be classified in terms of business requirements, criticality, and sensitivity in order to pre-
+vent unauthorized disclosure or modification. Data classification should be conducted in a contextual man-
+ner that does not result in the inference of personal information. Furthermore, de-identification mechanisms
+should be employed based on data classification as well as requirements relating to data protection laws.
+5- Data backups and archiving actions should be taken in this stage to align with business continuity, disaster
+recovery and risk mitigation policies.
+--- Page 18 ---
+Al Ethics Principles
+Build and Validate:
+1- Privacy and security by design should be implemented while building the Al system. The security mech-
+anisms should include the protection of various architectural dimensions of an Al model from malicious
+attacks. The structure and modules of the Al system should be protected from unauthorized modification or
+damage to any of its components.
+2- The Al system should be secure to ensure and maintain the integrity of the information it processes. This
+ensures that the system remains continuously functional and accessible to authorized users. It is crucial that
+the system safeguards confidential and private information, even under hostile or adversarial conditions. Fur-
+thermore, appropriate measures should be in place to ensure that Al systems with automated decision-mak-
+ing capabilities uphold the necessary data privacy and security standards.
+3- The Al System should be tested to ensure that the combination of available data does not reveal the sen-
+sitive data or break the anonymity of the observation.
+Deploy and Monitor:
+1- After the deployment of the Al system, when its outcomes are realized, there must be continuous monitor-
+ing to ensure that the Al system is privacy-preserving, safe and secure. The privacy impact assessment and
+risk management assessment should be continuously revisited to ensure that societal and ethical consider-
+ations are regularly evaluated.
+2- Al System Owners should be accountable for the design and implementation of Al systems in such a way
+as to ensure that personal information is protected throughout the life cycle of the Al system. The compo-
+nents of the Al system should be updated based on continuous monitoring and privacy impact assessment.
+Principle 3 - Humanity
+The humanity principle highlights that Al systems should be built using an ethical methodology to be just
+and ethically permissible, based on intrinsic and fundamental human rights and cultural values to generate
+a beneficial impact on individual stakeholders and communities, in both the long and short-term goals and
+objectives to be used for the good of humanity. Predictive models should not be designed to deceive, manip-
+ulate, or condition behavior that is not meant to empower, aid, or augment human skills but should adopt a
+more human-centric design approach that allows for human choice and determination.
+--- Page 19 ---
+Al Ethics Principles
+Plan and Design:
+1- It is essential to design and build a model that is based on the fundamental human rights and cultural val-
+ues and principles that are applied within and on the Al systems decisions, processes, and functionalities.
+2- The designers of the Al model should define how the Al system will align with fundamental human rights
+and KSAs cultural values while designing, building, and testing the technology as well as how the Al system
+and its outcomes will strive to achieve and positively contribute to augment and complement human skills
+and capabilities.
+Prepare Input Data:
+1- To ensure that Al models embody a human-centric build and design that requires adhering to practices
+of responsible and ethical data management frameworks and processes to be followed according to best
+practices and data regulations within KSA.
+2- Data must be properly acquired, classified, processed, and accessible to ensure respect for human rights,
+and KSAs cultural values and preferences.
+Build and Validate:
+1- When constructing Al systems, designers and engineers should prioritize building Al systems and algo-
+rithms that allow and facilitate decision-making with an outlook of aligning with human rights and KSAs cul-
+tural values. The automated decisions that result from Al systems should not act in a partial and standalone
+manner without considering broader human rights and cultural values in their final outcomes and results.
+2- Designers and Engineers should enable Al systems with the appropriate parameters and algorithm training
+to attain outcomes that advance humanity.
+--- Page 20 ---
+Al Ethics Principles
+Deploy and Monitor:
+1- Periodic assessments of the deployed Al system should be conducted to ensure that its results are aligned
+with human rights and cultural values, accuracy key performance indicators (KPIs), and impact on individuals
+or communities to ensure the continuous improvement of the technology.
+2- Designers of Al models should establish mechanisms of assessing Al systems against fundamental hu-
+man rights and cultural values to mitigate any negative and harmful outcomes resulting from the use of the
+Al system. If any negative and harmful outcomes are found, the owner of the Al system should identify the
+areas that need to be addressed and apply corrective measures to recursively improve the functioning and
+outcomes of the Al system.
+Principle 4  Social  Environmental Benefits
+The social and environmental benefit principle embraces the beneficial and positive impact of social and
+environmental priorities that should benefit individuals and the wider community that focus on sustainable
+goals and objectives. Al systems should neither cause nor accelerate harm or otherwise adversely affect
+human beings but rather contribute to empowering and complementing social and environmental progress
+while addressing associated social and environmental ills. This entails the protection of social good as well
+as environmental sustainability.
+Plan and Design:
+1- Al systems have a significant impact on communities and the ecosystems that they live in hence Al System
+Owners should have a high sense of awareness that these technologies may have disruptive and transform-
+ative effects on society and the environment. The design of Al systems should be approached in an ethical
+and sensitive manner in line with the values of prevention of harm to both human beings and the environment.
+2- When planning and designing Al systems, due consideration should be given to preventing and helping
+address social and environmental issues in a way that will ensure sustainable social and ecological respon-
+sibility.
+--- Page 21 ---
+Al Ethics Principles
+Prepare Input Data:
+1- The processes and policies that govern data management should be followed when preparing the catego-
+rization and structuring of data that will feed into the Al system.
+2- The data pertaining to the social and environmental topics should be accessible to the public data infra-
+structure and must clearly articulate the social benefit of the data presented.
+Build and Validate:
+1- The models and algorithms must have, as their ultimate goal, a result linked to a socially recognized
+end, with the ability to demonstrate how the expected results relate to that social or environmental purpose
+through transformative and impactful benefits where applicable.
+2- It is best practice to measure and maintain acceptable levels of resource usage and energy consumption
+during this phase setting the tone that Al systems not only strive to foster Al solutions that address global
+concerns relating to social and environmental issues but also practice sustainable and ecological responsi-
+bilities
+Deploy and Monitor:
+1- After the deployment of the Al system, the Al System Owner should ensure that continuous assessment
+of the human, social, cultural, economic and environmental impact of Al technologies are carried out with full
+cognizance of the implications of the Al system for sustainability as a set of constantly evolving goals across
+a range of dimensions against the priority objectives that were set at the Plan and Design phase.
+2- The Al System Owner should also foster and encourage the power of Al solutions in addressing areas of
+global concern aligning with sustainable development goals.
+--- Page 22 ---
+Al Ethics Principles
+Principle 5 - Reliability  Safety
+The reliability and safety principle ensures that the Al system adheres to the set specifications and that the
+Al system behaves exactly as its designers intended and anticipated. Reliability is a measure of consistency
+and provides confidence in how robust a system is. It is a measure of dependability with which it operationally
+conforms to its intended functionality and the outcomes it produces. On the other hand, safety is a measure
+of how the Al system does not pose a risk of harm or danger to society and individuals. As an illustration, Al
+systems such as autonomous vehicles can pose a risk to peoples lives if living organisms are not properly
+recognized, certain scenarios are not trained for or if the system malfunctions. A reliable working system
+should be safe by not posing a danger to society and should have built-in mechanisms to prevent harm.
+The risk mitigation framework is closely related to this principle. Potential risks and unintended harms should
+be minimized in this aspect.
+The predictive model should be monitored and controlled in a periodic and continuous manner to check if its
+operations and functionality are aligned with the designed structure and frameworks in place. The Al system
+should be technically sound, robust, and developed to prevent malicious usage to exploit its data and out-
+comes to harm entities, individuals or communities. A continuous implementationcontinuous development
+approach is essential to ensure reliability.
+Plan and Design:
+1- Designing and developing an Al system that can withstand the uncertainty, instability, and volatility that it
+might encounter is crucial.
+2- Planning to set out a robust and reliable Al system that works with different sets of inputs and situations is
+essential to prevent unintended harm and mitigate risks of system failures when positioned against unknown
+and unforeseen events.
+3- Establishing a set of standards and protocols for assessing the reliability of an Al system is necessary to
+secure the safety of the systems algorithm and data output. It is essential to keep a sustainable technical out-
+lay and outcomes generated from the system to maintain the publics trust and confidence in the Al system.
+4- The documentation standards are essential to track the evolution of the system, foresee possible risks and
+fix vulnerabilities.
+5- All critical decision points in the system design should be subject to sign-off by relevant stakeholders to
+minimize risks and make stakeholders accountable for the decisions.
+--- Page 23 ---
+Al Ethics Principles
+Prepare Input Data:
+1- Adequate steps and actions should be taken to measure the data samples quality, accuracy, suitability,
+and credibility when dealing with the data sets of an Al model. This is essential to ensure the accuracy of data
+interpretation by the Al system, the consistency of avoiding misleading measurements, as well as ensuring
+the relevance of the Al systems outcomes to the purpose of the model.
+2- It is crucial for the build and validate step to test how the system behaves under outlier events, extreme
+parameters, etc. In this step, stress test data should be prepared for extreme scenarios.
+Build and Validate:
+1- To develop a sound and functional Al system that is both reliable and safe, the Al systems technical
+construct should be accompanied by a comprehensive methodology to test the qualit of the predictive da-
+ta-based systems and models according to standard policies and protocols.
+2- To ensure the technical robustness of an Al system rigorous testing, validation, and re-assessment as well
+as the integration of adequate mechanisms of oversight and controls into its development is required. System
+integration test sign-off should be done with relevant stakeholders to minimize risks and liability.
+3- Automated Al systems involving scenarios where decisions are understood to have an impact that is irre-
+versible or difficult to reverse or may involve life-and-death decisions should trigger human oversight and final
+determination. Furthermore, Al systems should not be used for social scoring or mass surveillance purposes.
+Deploy and Monitor:
+1- Monitoring the robustness of the Al system should be adopted and undertaken in a periodic and continu-
+ous manner to measure and assess any risks related to the technicalities of the Al system (an inward perspec-
+tive) as well as the magnitude of the risk posed by the system and its capabilities (an outward perspective).
+2- The model must also be monitored in a periodic and continuous manner to verify whether its operations
+and functions are compatible with the designed structure and frameworks. The Al system must also be safe
+to prevent destructive use to exploit its data and results to harm entities, individuals, or groups. It is necessary
+to continuously work on implementation and development to ensure system reliability.
+--- Page 24 ---
+Al Ethics Principles
+Principle 6 - Transparency  Explainability
+The transparency and explainability principle is crucial for building and maintaining trust in Al systems and
+technologies. Al systems must be built with a high level of clarity and explainability as well as features to track
+the stages of automated decision-making, particularly those that may lead to detrimental effects on data sub-
+jects. It follows that data, algorithms, capabilities, processes, and purpose of the Al system need to be trans-
+parent and communicated as well as explainable to those who are directly and indirectly affected. The degree
+to which the system is traceable, auditable, transparent, and explainable is dependent on the context and
+purpose of the Al system and the severity of the outcomes that may result from the technology. Al systems
+and their designers should be able to justify how the rationale behind their design, practices, processes, algo-
+rithms, and decisions or behaviors are ethically permissible, nondiscriminatory, and nonharmful to the public.
+Plan and Design:
+1- When designing a transparent and trusted Al system, it is vital to ensure that stakeholders affected by Al
+systems are fully aware and informed of how outcomes are processed. They should further be given access
+to and an explanation of the rationale for decisions made by the Al technology in an understandable and
+contextual manner. Decisions should be traceable. Al system owners must define the level of transparency
+for different stakeholders on the technology based on data privacy, sensitivity, and authorization of the stake-
+holders.
+2- The Al system should be designed to include an information section in the platform to give an overview of
+the Al model decisions as part of the overall transparency application of the technology. Information sharing
+as a sub-principle should be adhered to with end-users and stakeholders of the Al system upon request or
+open to the public, depending on the nature of the Al system and target market. The model should establish
+a process mechanism to log and address issues and complaints that arise to be able to resolve them in a
+transparent and explainable manner.
+--- Page 25 ---
+Al Ethics Principles
+Prepare Input Data:
+1- The data sets and the processes that yield the Al systems decision should be documented to the best
+possible standard to allow for traceability and an increase in transparency.
+2- The data sets should be assessed in the context of their accuracy, suitability, validity, and source. This has
+a direct effect on the training and implementation of these systems since the criteria for the datas organiza-
+tion, and structuring must be transparent and explainable in their acquisition and collection adhering to data
+privacy regulations and intellectual property standards and controls.
+Build and Validate:
+1- Transparency in Al is thought about from two perspectives, the first is the process behind it (the design
+and implementation practices that lead to an algorithmically supported outcome) and the second is in terms
+of its product (the content and justification of that outcome). Algorithms should be developed in a transparent
+way to ensure that input transparency is evident and explainable to the end-users of the Al system to be able
+to provide evidence and information on the data used to process the decisions that have been processed.
+2- Transparent and explainable algorithms ensure that stakeholders affected by Al systems, both individuals
+and communities, are fully informed when an outcome is processed by the Al system by providing the oppor-
+tunity to request explanatory information from the Al system owner. This enables the identification of the Al
+decision and its respective analysis which facilitates its auditability as well as its explainability.
+3- If the Al system is built by a third party, Al system owners should make sure that an Al Ethics due diligence
+is carried out and all the documentation are accessible and traceable before procurement or sign-off.
+Deploy and Monitor:
+1- Upon deployment of the Al system, performance metrics relating the Al systems output, accuracy and
+alignment to priorities and objectives, as well as its measured impact on individuals and communities should
+be documented, available and accessible to stakeholders of the Al technology.
+2- Information on any system failures, data breaches, system breakdowns, etc. should be logged and stake-
+holders should be informed about these instances keeping the performance and execution of the Al system
+transparent. Periodic Ul and UX testing should be conducted to avoid the risk of confusion, confirmation of
+biases, or cognitive fatigue of the Al system.
+--- Page 26 ---
+Al Ethics Principles
+Principle 7 - Accountability  Responsibility
+The accountability and responsibility principle holds designers, vendors, procurers, developers, owners and
+assessors of Al systems and the technology itself ethically responsible and liable for the decisions and actions
+that may result in potential risk and negative effects on individuals and communities. Human oversight, gov-
+ernance, and proper management should be demonstrated across the entire Al System Lifecycle to ensure
+that proper mechanisms are in place to avoid harm and misuse of this technology. Al systems should never
+lead to people being deceived or unjustifiably impaired in their freedom of choice. The designers, developers,
+and people who implement the Al system should be identifiable and assume responsibility and accountability
+for any potential damage the technology has on individuals or communities, even if the adverse impact is
+unintended. The liable parties should take necessary preventive actions as well as set risk assessment and
+mitigation strategy to minimize the harm due to the Al system. The accountability and responsibility principle
+is closely related to the fairness principle. The parties responsible for the Al system should ensure that the
+fairness of the system is maintained and sustained through control mechanisms. All parties involved in the Al
+System Lifecycle should consider and action these values in their decisions and execution.
+Plan and Design:
+1- This step is crucial to design or procure an Al System in an accountable and responsible manner. The
+ethical responsibility and liability for the outcomes of the Al system should be attributable to stakeholders
+who are responsible for certain actions in the Al System Lifecycle. It is essential to set a robust governance
+structure that defines the authorization and responsibility areas of the internal and external stakeholders
+without leaving any areas of uncertainty to achieve this principle. The design approach of the Al system
+should respect human rights, and fundamental freedoms as well as the national laws and cultural values of
+the kingdom.
+2- Organizations can put in place additional instruments such as impact assessments, risk mitigation frame-
+works, audit and due diligence mechanisms, redress, and disaster recovery plans.
+3- It is essential to build and design a human-controlled Al system where decisions on the processes and
+functionality of the technology are monitored and executed, and are susceptible to intervention from author-
+ized users. Human governance and oversight establish the necessary control and levels of autonomy through
+set mechanisms.
+--- Page 27 ---
+Al Ethics Principles
+Prepare Input Data:
+1- An important aspect of the Accountability and Responsibility principle during Prepare Input Data step in
+the Al System Lifecycle is data quality as it affects the outcome of the Al model and decisions accordingly. It
+is, therefore, important to do necessary data quality checks, clean data and ensure the integrity of the data in
+order to get accurate results and capture intended behavior in supervised and unsupervised models.
+2- Data sets should be approved and signed-off before commencing with developing the Al model. Further-
+more, the data should be cleansed from societal biases. In parallel with the fairness principle, the sensitive
+features should not be included in the model data. In the event that sensitive features need to be included, the
+rationale or trade-off behind the decision for such inclusion should be clearly explained. The data preparation
+process and data quality checks should be documented and validated by responsible parties.
+3- The documentation of the process is necessary for auditing and risk mitigation. Data must be properly
+acquired, classified, processed, and accessible to ease human intervention and control at later stages when
+needed.
+Build and Validate:
+1- Model development of the Al system and algorithm should consist of the selection of features, hyperpa-
+rameter tuning and performance metric selection. To achieve this, the technical stakeholders who build and
+validate models should be responsible for these decisions.
+2- Assigning the appropriate ownership and communicating responsibilities will set the tone for accountability
+that would aid in steering the development of the Al system on good reasons, solid interference, and will allow
+the intervention of human critical judgement and expertise.
+3- The decisions should be supported with quantitative (performance measures on traintest datasets, con-
+sistency of the performance on different sensitive groups, performance comparison for each set of hyperpa-
+rameters, etc.) and qualitative indicators (decisions to mitigate and correct unintended risks from inaccurate
+predictions).
+4- The appropriate stakeholders and owners of the Al technology should review and sign off the model after
+successful testing and validation of user acceptance testing rounds have been conducted and completed
+before the Al models can be productionized.
+--- Page 28 ---
+Al Ethics Principles
+Deploy and Monitor:
+1- The responsibility and associated liability in the Deploy and Monitor step should be set clearly. The out-
+comes and decisions set in the build and validate step should be monitored continuously and should result
+in periodic performance reports.
+2- Predefined triggersalerts should be defined for this step on the data and performance metrics. Setting
+these triggers is a rigorous process and each trigger should be assigned to the appropriate stakeholder.
+These triggersalerts can be defined as part of the risk mitigation or disaster recovery procedure and may
+need human oversight.
+Roles and Responsibilities
+The Al Ethics Framework defines the following roles and responsibilities both at the national and entity level.
+National Level
+SDAIA
+SDAIA works to review and update the principles of artificial intelligence ethics and monitor compliance with
+them. SDAIA also prepares national guides, standards, and directives that ensure the effective management
+and dissemination of artificial intelligence ethics at the Kingdom level and achieve the desired goal. In order
+to implement its objectives, the Authority may carry out the following tasks:
+Al Ethics Development: Develop, issue, and update this Al Ethics principles and framework. This
+document should be revisited regularly to address possible changes affecting Al Ethics, associated
+regulations, communities, and the environment.
+Al Ethics Adoption Plan Development: Develop supporting material and provide continuous guidance
+to Adopting Entities to facilitate the adoption of this Framework.
+Al Ethics Advisory: Support Adopting Entities in complying with this Framework and answer any que-
+ries related to the Al Ethics and compliance with this document.
+--- Page 29 ---
+Al Ethics Principles
+Al Ethics Compliance Measurement: Measure compliance of Adopting Entities on a regular basis
+based on the defined compliance mechanism directly or through sector regulators (Refer to the Com-
+pliance section for more details) and audit Al Ethics activities when required.
+Al Ethics Compliance Monitoring: Conduct investigations and audits and monitor compliance with
+this Framework with the support of the National Regulatory Authorities.
+Adopting Entities
+All Adopting Entities shall have the primary responsibility for ensuring that their Al Ethics documents are pub-
+lished in compliance with these Al Ethics Principles. As such, Entities shall designate individuals who will be
+responsible for carrying out the Al Ethics activities as outlined below.
+1- Head of the Entity  Chief Data Officer (CDO): Responsible for the Al Ethics practice within an Entity.
+Responsibilities include:
+Approve and oversee the implementation of the Al Ethics Plan within the Entity.
+Designate different roles with regard to Al Ethics.
+Approve the Al Ethics annual report.
+Take or delegate the necessary actions for the resolution of the issues that are raised by the CCOCO.
+Act as the first point of contact between the Entity and the Authority. The Head of the Entity or CDO
+shall resolve any pending issues around Al Ethics for their respective Entity and escalate them to SDAIA
+whenever necessary.
+--- Page 30 ---
+Al Ethics Principles
+2- Chief Compliance Officer (CCO)  Compliance Officer (CO): The strategic lead of the Al Ethics practice,
+the CO is positioned under the CDO and reports directly to the CDO. The responsibilities of the CCOCO
+shall include:
+Oversee the development of the Al Ethics Plan and present it to the head of the Entity. The CCOCO
+shall also review the performance of Al Ethics to identify improvement opportunities and feed into the
+Al Ethics Plan.
+Review the Al Ethics identification and prioritization activities, monitor Al Ethics KPls for in-house and
+third-party systems, and ensure maintenance activities are being performed.
+Ensure compliance of the Entitys Al Ethics activities with national regulations, including but not limited
+to Data Classification, Data Privacy, and Freedom of Information. Make sure that third-party systems
+comply with these Principles through contractual guarantees.
+3- Responsible Al Officer (RAIO): The operational lead of Responsible Al within the entity and works collab-
+oratively with other officers from the Data Management team. Responsibilities include:
+Develop the Al Ethics Plan, including the Al Ethics prioritization methodology, and set targets and KPIs
+to be agreed on with the CCOCO or head of EntityCDO.
+Collaborate with other officers in managing, governing, and protecting data.
+Defining, updating, maintaining, and reviewing Al ethics priorities and procedures.
+Educate and raise awareness across the Entitys employees on Al Ethics and support national aware-
+ness campaigns in coordination with the CCOCO.
+--- Page 31 ---
+Al Ethics Principles
+4- Al System Assessor: Responsible for auditing Al systems to achieve certain goals and has the following
+responsibilities:
+Review communications channels and interactions with stakeholders to provide disclosure and effec-
+tive feedback channels.
+Conduct periodical reviews on the Al Ethics process and documentation.
+Continuously review Al Ethics KPIs.
+Publish audit reports on the Al Ethics Assessment of the organization which covers the Al development
+and deployment process as well as the third-party Al product procurement process.
+Optional Registration
+Optional Registration aims to motivate target entities to consider Al ethics when building and developing Al-
+based solutions to ensure a responsible use.
+Compliance
+The Authority may follow up and measure the level of commitment and compliance of registered en-
+tities and support them in evaluating compliance with the application of their Al ethics and submitting
+optional reports.
+--- Page 32 ---
+Al Ethics Principles
+The level of compliance is measured according to the following:
+Displaying the progress of the product or entity in complying with the checklist mentioned in the attach-
+ments of this document.
+Results of internal or external evaluation of Al ethics.
+Objectives of the product or entity and indicators for measuring the performance of Al ethics.
+The level of compliance to Al ethics and the fulfillment of its requirements and the badges obtained by
+the product or entity.
+The authority can assist the entities in reviewing annual reports and make recommendations regarding gen-
+eral compliance with Al ethics.
+Motivational Badges
+To motivate the implementing agencies to register and work with the principles of Al ethics, the Authority may
+provide motivational badges that will reflect the level of compliance and progress on Al ethics adoption. The
+Authority will issue a guide explaining the mechanism and controls for awarding them.
+--- Page 33 ---
+Al Ethics Principles
+Annexure
+Annexure A: Al Ethics Tools
+Al Fairness Position Statement: A fairness position statement allows the owner of the Al technology
+to clearly state the fairness criteria that have been employed by the Al system and explain the rationale
+and logic behind it in a direct and non-technical language. To implement a fair Al system in a sustainable
+way, choosing the right fairness objectives is key to setting the tone of the Al model in terms of its ethi-
+cal standards and regulatory requirements. This is done by sharing the reasons and underlying fairness
+values expressed throughout the model as well as the decision-making process of the Al model to com-
+municate and reach the wider audience. This document would be made accessible and available to the
+public and affected individuals and communities.
+Ethical Impact Assessment: Al has accelerated innovation in how business is conducted and exe-
+cuted by practitioners, and therefore it is imperative to evolve Al system ethical impact assessments to
+identify areas that need adjustment and recalibrating to design the Al model into an ethically accepted
+technology to maximize its positive impact on complimenting human capabilities and skillsets. The ob-
+jective of impact assessments is to evaluate and analyze the level of ethical impact of the Al technology
+on individuals or communities in both direct and indirect manners which enables the owner of the Al
+system to address identified issues and strengthen areas where improvements and adjustments are re-
+quired. It is also essential to be able to assess the ethical risks that the Al system is projecting, analyze
+the discriminatory harm impact and accurate representation of the system on the ethical impact through
+a diversified and multi-stakeholder analysis, as well as act as a facilitator to address whether a model
+should move to production or deployment. One of the purposes of the ethical impact assessment is to
+help build public confidence around the Al system and demonstrate consideration and due diligence to
+wider the public audience.
+Privacy and Security Standards: Privacy and security standards are in place to help companies im-
+prove their information security strategy by providing guidelines and best practices based on the com-
+panys industry and the type of data they maintain. In the following table, some examples are given for
+privacy and security standards:
+--- Page 34 ---
+Al Ethics Principles
+ISO standards for artificial intelligence, such
+as the ISO 23894 risk standard and the stan-
+dards issued by the Saudi Standards and
+Metrology Organization
+Standards of the Institute of Electrical and
+Electronics Engineers 2 a
+NIST Al Risk Management Framework (Na-
+tional Institute of Standards and Technology)
+NIST Al Risk Management Framework (Na-
+tional Institute of Standards and Technology)
+CIS Controls (Center for Internet Security
+Controls)
+PCI-DSS (Payment Card Industry Data
+Security Standard)
+COBIT (Control Objectives for Information
+and Related Technologies)
+--- Page 35 ---
+Al Ethics Principles
+Architecture for Trustworthy Al: The requirements that are stated in the Al Ethics Principles and Con-
+trols section should be reflected in the design of the Al system architecture. The Al system architecture
+should set the rules and restrictions across the Al System Lifecycle. The principles and controls are
+generic and addressing them to the particular use cases or Al systems should be done with the sense-
+plan-act theoretical approach. Adapting the architecture to Al Ethics entails the integration of the three
+steps of this approach:
+Sense: The system should be developed such that it recognizes all environmental elements necessary
+to ensure adherence to the requirements
+Plan: The system should only consider plans that adhere to the requirements
+Act: The systems actions should be restricted to behaviors that realize the requirements.
+The technical objectives of accuracy, reliability, safety, and robustness must be prioritized to ensure that the
+Al System functions safely. Al System Developers should build a system that will operate accurately and re-
+liably, in accordance with the intended design, even when confronted with unexpected changes, anomalies,
+and disturbances.
+Algorithm Assessment: The objective of the algorithm assessment is to ensure that individuals or
+communities are informed about the use of algorithms and the weights and counterweights that exist
+to manage their use. The Al maturity of enterprises and government entities are different, and this as-
+sessment will show the improvement areas for the respective entities or government entities to improve
+descriptions on how algorithms inform or impact decision making, particularly in those cases where
+there is a degree of automatic decision making or where the algorithms support decisions that have a
+significant impact on individuals or groups. This assessment will balance the human oversight for effi-
+cient Al systems.
+--- Page 36 ---
+Al Ethics Principles
+Fairness Assessment: It is a set of diagnostic methods that helps you compare how fair models and
+label markers perform for specific groups. It checks whether the models result is regularly overestimated
+or underestimated for one or more groups compared to others. Additionally, it evaluates how well the
+diversity of data is represented for each group. In the following table, fairness assessment tool examples
+are included
+Google Model Card Toolkit
+Al Fairness 360
+Microsoft Fairlearn
+Google What-If Tool
+Aequitas Bias And Fairness Audit Toolkit
+Veritas Fairness Assessment Tool
+Tensorflow Fairness Indicators
+Ai Explainability 360
+--- Page 37 ---
+Al Ethics Principles
+Al Methods Explanation Report: As explained under Transparency and Explainability section, it should
+be explained why the system behaves the way it does and how it takes decisions. Although some training
+methods have superior performance, they work as black-box, and it is a challenge to interpret the results.
+Small deviations in the data could lead to dramatic deviations and changes in the outcome. The report
+should explain the behavior of the system as well as ensure the deployment of reliable technology. The
+report should help to better understand the Al systems underlying mechanism as well as the interpreta-
+tion of the outcomes.
+Al System stakeholders should consider the trade-off between performance, materialization, and
+explanation methods. In some cases, explanation methods increase complexity or require sacrificing
+performance. A cost-benefit analysis should be conducted and the level of explainability should be
+justified based on this analysis.
+Algorithm Auditing: Unexpected algorithmic behaviors can be detected with algorithm audits. In gen-
+eral, algorithm audits are done on an ad-hoc basis, and it is important to standardize algorithm auditing
+process with supporting Al algorithms. The process should be systematic and continuous. Regulating
+and auditing Al systems for ethical compliance is more complicated than regulating and auditing human
+decision-making or processes. Al systems should be designed with due consideration of Al Ethics prin-
+ciples and controls. Auditing mechanisms should follow the same principles and controls in alignment
+with these principles.
+Safety Self-Assessment: Safety considerations of accuracy, reliability, security, and robustness should
+be considered at every step of the Al System Lifecycle. Al system safety self-assessments should be
+continuously logged and documented in a way that allows review and re-assessment. The performance
+of Al system safety self-assessments should be conducted by relevant stakeholders at each stage of
+the workflow. They should evaluate how the design and implementation practices line up with the safety
+objectives of accuracy, reliability, security, and robustness.
+--- Page 38 ---
+Al Ethics Principles
+Data Protection Methods: These methods help to protect data by applying data transformation meth-
+ods, especially for the data that is classified as sensitive. The following data protection methods are given
+as examples and they should be after data classification.
+Data De-Identification: is the process of eliminating Personally Identifiable Data (PII) from any document
+or other media, including an individuals Protected Health Information (PHI).
+Data Anonymization: is a kind of data sanitization process that intends to protect the privacy of individuals.
+It is the process of removing Pll from data sets to maintain the anonymity of individuals whom the data de-
+scribes. It is often the preferred method for making structured medical datasets secure for sharing.
+Data Masking: is a technique that removes or hides information, replacing it with realistic replacement
+data or fake information. The objective is to create a version that cant be decoded or reverse engineered.
+There are a number of ways to change the data, including encryption, character shuffling, and word or
+character replacement.
+Data Pseudonymization: is a way of masking data that ensures it is not possible to attribute personal data
+to a specific person, without using additional information subject to security measures. It is an integral part
+of the EU General Data Protection Regulation (GDPR), which has several recitals specifying how and when
+data should be pseudonymized.
+Data Encryption: is a method of data masking, used to protect it from cybercriminals, others with malicious
+intent, or accidental exposure. The data might be the contents of a database, an email note, an instant
+message, or a file retained on a computer.
+Data Tokenization: is a process of substituting personal data with a random token. Often, a link is maintained
+between the original information and the token (such as for payment processing on sites). Tokens can be
+completely random numbers or generated by one-way functions (such as salted hashes).
+--- Page 39 ---
+Al Ethics Principles
+Data Loss Prevention (DLP): Data Loss Prevention (DLP) is used to detect and prevent data breaches.
+This involves monitoring network activity, identifying and blocking suspicious behavior, and implementing
+encryption and access controls.
+Data Governance: Data Governance encompasses all aspects of data management throughout its en-
+tire life cycle, including security, usability, availability, and privacy. This involves defining data handling
+policies and processes and assigning data management authority and responsibilities.
+Data Minimization: Data minimization refers to the practice of collecting just the personal information
+required to satisfy a specified objective. This helps to mitigate the risks connected with data breaches
+and the abuse of personal information
+--- Page 40 ---
+Al Ethics Principles
+Annexure B: Al Ethics Tools Mapping to Al System Lifecycle
+Tool Plan  Design eis Build  Validate Deploy  Monitor
+Fairness Position Statement
+Ethical Impact Assessment
+Privacy and Security Standards    
+Architecture for Trustworthy Al
+Algorithm Assessment  
+Fairness Assessment
+Al Methods Explanation Report  
+Algorithm Auditing
+Safety Self-Assessment   
+Data Protection Methods 
+--- Page 41 ---
+Al Ethics Principles
+Annexure C: Al Ethics Checklist
+Al System Lifecycle Phase 1: Plan  Design
+Binding for
+Principles
+Third-party 
+Accountability
+Did you design the appropriate level of human oversight for the Al system and use case an
+Responsibility
+Does your Al system design prevent overconfdence in or overreliance on the Al system Accountability
+with necessary human intervention mechanisms Responsibility
+Did you de ne human oversight processes with the appropriate KPls and assign Accountability
+responsibility to the relevant parties Responsibility
+Did you design an operation and governance strategy to abort or intervene in the system Accountability
+when the system doesnt work in an intended way Responsibility
+Did you consider the liability and Data Subject protection requirements and take them Accountability
+into account Responsibility
+Did you define thresholds of the KPIs and did you put governance procedures or Accountability
+autonomous actions in place to trigger alternativefallback plans Responsibility
+PD.7 Did you provide training and education to help develop accountability practices No Accountability
+1 Responsibility
+Did you ensure that the Al Ethics Governance structure is compliant with the proposed Accountability
+governance mechanism in the National Al Ethics Policy Responsibility
+Did you ensure that the Al Ethics Governance structure includes internal or external audit Accountability
+mechanisms Responsibility
+Did you establish a strategy or a set of procedures to avoid creating or reinforcing unfair
+bias in the Al system, covering both input data as well as for the algorithm design Fairness
+--- Page 42 ---
+Al Ethics Principles
+Binding for
+Question 
+Third-party
+Principles
+Did you identify sensitive personal data attributes relating to persons or groups that are
+systematically or historically disadvantaged If so, the permissible limit that makes the No Fairness
+assessment fair or unfair must be determined.
+Did you de ne fairness assessment KPIs Fairness
+Did you consider a mechanism to include the participation of different stakeholders in
+the Al systems development and use Fairness
+Did you conduct an impact analysis on how the Al system affects fundamental human :
+rights and cultural values Did you list any potential negative effects on fundamental Humanity
+human rights and cultural values and the solutions or recovery mechanisms
+Did you put measures in place to ensure that the Al system does not lead to people Humanity
+being deceived or unjustifiably impaired in their freedom of choice
+Did you align your Al system with relevant standards or policies (for example, ISO, IEEE, Privacy
+Data Privacy Law) or widely adopted protocols for daily data management and
+governance
+Security
+Did you follow established protocols, processes, and procedures to manage and ensure Pri
+proper data governance Did you ensure that National Data Management and Personal rivacy
+Data Protection Standards are followed Security
+Did you ensure that data access control meets security, privacy, and compliance Privacy
+requirements Did you design a log mechanism for audit and debug purposes Security
+Did you design a risk management strategy for your Al system Did you include risk Reliability
+tiers, KPls, risk assessment, and mitigation procedures Safety
+--- Page 43 ---
+Al Ethics Principles
+Binding for
+Question 
+Third-party
+Principles
+Did you assess whether there is a likelihood that the Al system may cause damage or Reliability
+harm to users or third parties Did you assess the potential damage, impacted audience, Yes
+and severity Safety
+Did you assess whether there is a likelihood that the Al system may unintentionally give Reliability
+wrong results or inaccurate predictions, fail or feed societal biases Safety
+Social
+Environmental
+Benefits
+Did you consider the potential impact or safety risk to the environment, living creatures,
+or society in addition to the Data Subjects
+Did you assess whether the systems business model is aligned with the organizations Transparency
+vision and mission as well as the code of conduct Explainability
+Did you design an interpretable Al system where the data, algorithms, outcomes, and Transparency
+decisions are transparent and explainable to the related parties Explainability
+Did you design User Experience with human psychology in mind to avoid the risk of Transparency
+confusion, confirmation bias, or cognitive fatigue Explainability
+Was there any trade off assumption Fairness
+Privacy
+Have you established a measurement or assessment mechanism for privacy impact 5 it
+ecurity
+Has the data management approach been reviewed based on human-centric values and Humanity
+according to data regulations within the KSA
+--- Page 44 ---
+Al Ethics Principles
+Al System Lifecycle Phase 2: Prepare Input Data
+Binding for
+Principle
+Third-party ples
+Is there an established mechanism that fags issues related to data privacy or protection Privacy
+in the process of data collection and processing Security
+Privacy
+Has the data been reviewed in terms of scope and categorization 4
+Security
+Has the data been reviewed to check if personal data is evident within the dataset Is 5
+there an established mechanism that allows the Al model to train without or with minimal Privacy
+use of personal or sensitive data Security
+Is there an established mechanism that controls the usage of personal data (such as Privacy
+valid consent and the possibility to revoke, when applicable) Security
+Are there processes to ensure that Al systems are secure and keep information safe, Privacy
+confidential, and private, as well as the integrity of the processed information even under Security
+hostile or adversarial conditions
+Privacy
+Has the quality and source of the acquired data been assessed through set processes 5 it
+ecurity
+Has there been an assessment on whether an analysis can be performed post training Transparency
+and testing the data Explainability
+Has diversity and inclusion of the dataset at hand been considered or reviewed Fairness
+Is there an established mechanism that measures whether the integrity, quality, and Accountability
+accuracy of data collection and its sources have been evaluated and data is up to date Responsibility
+Has an analysis process been developed for the proxies of the sensitive features Fairness
+Has the team evaluated the classification, processing, and access to data to ensure that
+it has been properly acquired Humanity
+--- Page 45 ---
+Al Ethics Principles
+Binding for
+Third-party
+Principles
+Have the data and Al models been validated to include respect for human rights, values, Humanity
+and cultural preferences in the Kingdom of Saudi Arabia
+Did you classify the data using SDAIA recommendations If you use other standards, Social
+please mention them. Environmental
+Benefits
+Are there appropriate procedures to measure the quality, accuracy, relevance, and Reliability
+credibility of a data sample when dealing with data sets for an Al model Safety
+Al System Lifecycle Phase 3: Build  Validate
+Binding for
+Principles
+Third-party P
+Has the behavior of the system been tested against unexpected situations and environments Is there
+a defined fallback plan if the Al model encounters adversarial attacks or other unexpected situations
+Have the fallback plans been tested and confirmed
+Reliability
+Safety
+Are there defined processes that outline procedures to describe actions to be taken when an Al system Reliability
+fails in different contexts Have the processes been tested Safety
+Are there defined processes that outline procedures to describe when an Al system fails in different Reliability
+contexts Have the processes been tested Safety
+Is there an established mechanism of communication to assure the end-users of the systems Reliability
+reliability Safety
+Are there clear and understandable definitions explaining why the outcomes of the Al system took a Transparency
+certain decision Explainability
+Transparency
+Explainability
+Has the model been built in a simple and interpretable manner
+--- Page 46 ---
+Al Ethics Principles
+Binding for
+Third-party
+Principles
+Are there clear and understandable definitions explaining why the outcomes of the Al system took a Transparency
+certain decision Explainability
+Has the model been built in a simple and interpretable manner Transparency
+Explainability
+Has an examination of the Al models interpretability been successfully completed a er the models Transparency
+training Explainability
+Has there been a research exercise done relating to the use of available technical tools to be able to
+improve the understanding of the data, model, and its performance Fairness
+Are there established processes and quantitative analysis to test and monitor for potential biases and
+the overall fairness of the system during the development of the system Are there mechanisms in
+place to protect any individuals or groups who might be disproportionately affected by negative
+implications
+Fairness
+Are there any established mechanisms that assess whether the Al system encourages humans to Social
+develop attachment and empathy towards the system Are there mechanisms that ensure that the Al Environmental
+systems social interaction is simulated and that it has no capacity for feelings Benefits
+Have the stakeholders approved the successful tests and validated rounds of user acceptance testing Accountability
+prior to the production of Al models Responsibility
+Did you use any sensitive data attributes in the model If so, justify the use of sensitive personal data
+attributes or their proxies Fairness
+Are there Al approaches and algorithms that allow and facilitate decision-making alignment with
+human rights and KSAs cultural values Humanity
+--- Page 47 ---
+Al Ethics Principles
+Al System Lifecycle Phase 4: Deploy  Monitor
+Binding for
+Third-party
+Principles
+In case of a chatbot or other communication systems, are the end-users aware that they are interacting Accountability
+with a non-human correspondent Responsibility
+Has the team assessed the Al systems vulnerabilities to potential attacks, revelation of sensitive data, Privacy
+or breaking the confidentiality Security
+Are there mechanisms to measure if the system is producing an unacceptable amount of inaccurate Accountability
+predictions Responsibility
+Is there a set strategy in place to monitor and measure if the Al system is meeting the goals, purposes, Reliability
+and intended applications Safety
+Are the persons who are accessing the data quali ed with the necessary competences to understand Privacy
+the details of data protection requirements Security
+Are there mechanisms in place to assess the level of in uence the Al system may have on end-users Transparency
+decision-making Explainability
+Is there a process set in place, which is clear and explainable, to inform end-users of the reasons,
+criteria, and benefits behind the outcomes and results of the Al system Are there clear steps of
+communication on how and to whom issues can be raised
+Transparency
+Explainability
+Is there a process set in place to collect and consider the end-users feedback and adopt it into to the Transparency
+system Explainability
+Are there established processes and quantitative analysis to monitor biases and the overall
+fairness of the system during the deployment of the system Fairness
+In the case of variability, did you establish a measurement or assessment mechanism of
+the potential impact of such variability on fundamental rights Fairness
+--- Page 48 ---
+Al Ethics Principles
+Binding for
+Third-party
+Are there established mechanisms to ensure fairness in your Al systems px  Fairness
+Is the information about the Al system accessible to end-users of assistive technologies No Fairness
+Social
+Environmental
+Benefits
+Question
+Principles
+Are there established mechanisms to measure the social and environmental impact of the
+Al systems deployment and use
+Are there established mechanisms to ensure the application of fundamental human rights Accountability
+Responsibility
+Are there established processes for third parties or workers to report potential Accountability
+vulnerabilities, risks, or biases in the Al system Responsibility
+Are there established mechanisms to demonstrate your compliance with the principles set Accountability
+out in this document Responsibility
+Are there established mechanisms that allow for redress in case of the occurrence of any Accountability
+harm or adverse impact Responsibility
+Are there established mechanisms that provide information to end-usersthird parties Accountability
+about opportunities for redress Responsibility
+Are there continuous monitoring techniques to ensure that the Al system maintains privacy Privacy
+and security Security
+Are there periodic assessments of the deployed artificial intelligence systems to ensure the
+implementation of fundamental human rights and cultural values of the Kingdom Humanity
+--- Page 50 ---
+May 2025 ic. SDAIA
+Document Type  Regulatory Documents الهيئة السعودية للبيانات
+Document Classification  General 
+Saudi Data  Al Authority
+Document Number  SDAIA-P114E
+Version Number  1
+SDAIA.GOV.SA QQSDAIASA BSDAIA.SAUDI  SDAIA-KSA
