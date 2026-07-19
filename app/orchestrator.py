@@ -6,6 +6,7 @@ from dataclasses import asdict, dataclass
 from datetime import datetime, timezone
 from enum import Enum
 from pathlib import Path
+from time import perf_counter
 from uuid import uuid4
 
 from app.agents.research_agent import build_agent
@@ -13,8 +14,6 @@ from app.agents.research_agent import build_agent
 
 MIN_OBJECTIVE_LENGTH = 10
 MAX_OBJECTIVE_LENGTH = 500
-
-
 MAX_EXECUTION_SECONDS = 90
 
 AUDIT_LOG_PATH = Path("reports/audit_log.jsonl")
@@ -42,16 +41,20 @@ class ResearchResult:
         result["status"] = self.status.value
         return result
 
-def validate_objective(question: str) -> str:
-    """
-    Validate and clean the research objective.
 
-    Rejects:
-    - Empty objectives
-    - Objectives that are too short
-    - Objectives that are too long
-    - Known overly broad objectives
-    """
+def print_time(
+    task_name: str,
+    start_time: float,
+) -> None:
+    elapsed_time = perf_counter() - start_time
+
+    print(
+        f"[TIME] {task_name}: "
+        f"{elapsed_time:.2f} seconds"
+    )
+
+
+def validate_objective(question: str) -> str:
     if not isinstance(question, str):
         raise TypeError(
             "Research objective must be a string."
@@ -103,36 +106,41 @@ def record_orchestration_event(
     status: ResearchStatus,
     details: str | None = None,
 ) -> None:
-    """
-    Record an orchestration event linked to one report ID.
-    """
-    AUDIT_LOG_PATH.parent.mkdir(
-        parents=True,
-        exist_ok=True,
-    )
+    start_time = perf_counter()
 
-    event = {
-        "report_id": report_id,
-        "action": action,
-        "status": status.value,
-        "timestamp": datetime.now(
-            timezone.utc
-        ).isoformat(),
-    }
+    try:
+        AUDIT_LOG_PATH.parent.mkdir(
+            parents=True,
+            exist_ok=True,
+        )
 
-    if details:
-        event["details"] = details
+        event = {
+            "report_id": report_id,
+            "action": action,
+            "status": status.value,
+            "timestamp": datetime.now(
+                timezone.utc
+            ).isoformat(),
+        }
 
-    with AUDIT_LOG_PATH.open(
-        "a",
-        encoding="utf-8",
-    ) as audit_file:
-        audit_file.write(
-            json.dumps(
-                event,
-                ensure_ascii=False,
+        if details:
+            event["details"] = details
+
+        with AUDIT_LOG_PATH.open(
+            "a",
+            encoding="utf-8",
+        ) as audit_file:
+            audit_file.write(
+                json.dumps(
+                    event,
+                    ensure_ascii=False,
+                )
+                + "\n"
             )
-            + "\n"
+    finally:
+        print_time(
+            f"orchestrator: audit event [{action}]",
+            start_time,
         )
 
 
@@ -146,12 +154,21 @@ async def run_research(
     Approval belongs only to this function call.
     A new agent is created for every request.
     """
+    total_start = perf_counter()
+
     report_id = f"report-{uuid4().hex[:12]}"
     status = ResearchStatus.DRAFT
     tools_used: list[str] = []
 
     try:
+        validation_start = perf_counter()
+
         objective = validate_objective(question)
+
+        print_time(
+            "orchestrator: validate objective",
+            validation_start,
+        )
 
         record_orchestration_event(
             report_id=report_id,
@@ -160,9 +177,16 @@ async def run_research(
             details=objective,
         )
 
+        build_agent_start = perf_counter()
+
         agent = build_agent(
             approved_to_save=approved_to_save,
             tools_used=tools_used,
+        )
+
+        print_time(
+            "orchestrator: build agent",
+            build_agent_start,
         )
 
         if approved_to_save:
@@ -178,6 +202,8 @@ async def run_research(
                 "tool is unavailable. Return a draft response and "
                 "request explicit approval before saving."
             )
+
+        prompt_start = perf_counter()
 
         prompt = f"""
 Research identifier:
@@ -209,12 +235,24 @@ Use these response headings exactly once:
 ## Next Action
 """
 
+        print_time(
+            "orchestrator: build prompt",
+            prompt_start,
+        )
+
+        agent_run_start = perf_counter()
+
         async with asyncio.timeout(
             MAX_EXECUTION_SECONDS
         ):
             result = await agent.run(
                 user_msg=prompt
             )
+
+        print_time(
+            "orchestrator: agent run",
+            agent_run_start,
+        )
 
         if approved_to_save:
             status = ResearchStatus.APPROVED
@@ -223,7 +261,14 @@ Use these response headings exactly once:
             status = ResearchStatus.AWAITING_APPROVAL
             completed_action = "draft_research_completed"
 
+        conversion_start = perf_counter()
+
         content = str(result)
+
+        print_time(
+            "orchestrator: convert result to string",
+            conversion_start,
+        )
 
         record_orchestration_event(
             report_id=report_id,
@@ -231,14 +276,23 @@ Use these response headings exactly once:
             status=status,
         )
 
-        return ResearchResult(
+        research_result = ResearchResult(
             report_id=report_id,
             status=status,
             content=content,
             approved_to_save=approved_to_save,
             tools_used=tools_used,
-            unique_tools_used=list(dict.fromkeys(tools_used)),
+            unique_tools_used=list(
+                dict.fromkeys(tools_used)
+            ),
         )
+
+        print_time(
+            "orchestrator: total research request",
+            total_start,
+        )
+
+        return research_result
 
     except TimeoutError:
         status = ResearchStatus.FAILED
@@ -255,12 +309,47 @@ Use these response headings exactly once:
             details=error_message,
         )
 
+        print_time(
+            "orchestrator: total request before timeout",
+            total_start,
+        )
+
         return ResearchResult(
             report_id=report_id,
             status=status,
             content="",
             approved_to_save=approved_to_save,
             tools_used=tools_used,
-            unique_tools_used=list(dict.fromkeys(tools_used)),
+            unique_tools_used=list(
+                dict.fromkeys(tools_used)
+            ),
+            error=error_message,
+        )
+
+    except Exception as error:
+        status = ResearchStatus.FAILED
+        error_message = str(error)
+
+        record_orchestration_event(
+            report_id=report_id,
+            action="research_failed",
+            status=status,
+            details=error_message,
+        )
+
+        print_time(
+            "orchestrator: total request before failure",
+            total_start,
+        )
+
+        return ResearchResult(
+            report_id=report_id,
+            status=status,
+            content="",
+            approved_to_save=approved_to_save,
+            tools_used=tools_used,
+            unique_tools_used=list(
+                dict.fromkeys(tools_used)
+            ),
             error=error_message,
         )

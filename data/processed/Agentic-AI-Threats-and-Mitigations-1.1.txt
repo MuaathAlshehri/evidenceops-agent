@@ -77,12 +77,12 @@ plans or behaviors. Self-Critic, isa key component of reflection, where the agen
 its own reasoning or output to identify and correct errors.
 Chain of Thought is a step-by-step reasoning process in which the agent breaks down
 complex problems into sequential, logical steps. This can involve multi-step workflows,
-including ones without human interaction (
+including ones without human interaction 
 Subgoal Decomposition, which involves dividing a main goal into smaller, manageable tasks
 or milestones to achieve the overall objective .
 There is also growing use of Small Language Models(SLMs) in agentic systems as models under 10
 billion parameters begin to offer sufficient power for agentic applications while offering lower costs
-(
+
 Memory  Statefulness to retain and recall information. This is either information from previous
 runs or the previous steps it took in the current run(i.e., the reasoning behind their actions, tools
 they called, the information they retrieved, etc.). Memory can either be session-based short-term or

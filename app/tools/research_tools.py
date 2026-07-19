@@ -3,6 +3,9 @@ from __future__ import annotations
 import json
 from datetime import datetime, timezone
 from pathlib import Path
+from time import perf_counter
+from typing import Callable, TypeVar
+
 from llama_index.core import Settings
 from llama_index.core.tools import FunctionTool
 
@@ -12,11 +15,36 @@ from app.services.index_service import load_query_engine
 DEFAULT_EXPERIMENT = "chunk_350_overlap_50"
 MAX_TOPIC_LENGTH = 200
 
+T = TypeVar("T")
 
-def track_tool(tools_used: list[str],tool_name: str) -> None:
+
+def measure_time(
+    task_name: str,
+    function: Callable[[], T],
+) -> T:
+    start_time = perf_counter()
+
+    try:
+        return function()
+    finally:
+        elapsed_time = perf_counter() - start_time
+        print(
+            f"[TIME] {task_name}: "
+            f"{elapsed_time:.2f} seconds"
+        )
+
+
+def track_tool(
+    tools_used: list[str],
+    tool_name: str,
+) -> None:
     tools_used.append(tool_name)
 
-def save_report(title: str, content: str) -> str:
+
+def save_report(
+    title: str,
+    content: str,
+) -> str:
     title = title.strip()
     content = content.strip()
 
@@ -27,7 +55,10 @@ def save_report(title: str, content: str) -> str:
         raise ValueError("Report content cannot be empty.")
 
     reports_dir = Path("reports")
-    reports_dir.mkdir(parents=True, exist_ok=True)
+    reports_dir.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
 
     safe_name = "".join(
         character
@@ -43,7 +74,13 @@ def save_report(title: str, content: str) -> str:
             f"A report with this title already exists: {path}"
         )
 
-    path.write_text(content, encoding="utf-8")
+    measure_time(
+        "save_report: write file",
+        lambda: path.write_text(
+            content,
+            encoding="utf-8",
+        ),
+    )
 
     return json.dumps(
         {
@@ -54,7 +91,10 @@ def save_report(title: str, content: str) -> str:
     )
 
 
-def record_audit_event(action: str, detail: str) -> str:
+def record_audit_event(
+    action: str,
+    detail: str,
+) -> str:
     action = action.strip()
     detail = detail.strip()
 
@@ -65,22 +105,36 @@ def record_audit_event(action: str, detail: str) -> str:
         raise ValueError("Audit detail cannot be empty.")
 
     log_path = Path("reports/audit_log.jsonl")
-    log_path.parent.mkdir(parents=True, exist_ok=True)
+    log_path.parent.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
 
     event = {
-        "timestamp": datetime.now(timezone.utc).isoformat(),
+        "timestamp": datetime.now(
+            timezone.utc
+        ).isoformat(),
         "action": action,
         "detail": detail,
     }
 
-    with log_path.open("a", encoding="utf-8") as file:
-        file.write(
-            json.dumps(
-                event,
-                ensure_ascii=False,
+    def write_audit_event() -> None:
+        with log_path.open(
+            "a",
+            encoding="utf-8",
+        ) as file:
+            file.write(
+                json.dumps(
+                    event,
+                    ensure_ascii=False,
+                )
+                + "\n"
             )
-            + "\n"
-        )
+
+    measure_time(
+        "record_audit_event: write file",
+        write_audit_event,
+    )
 
     return json.dumps(
         {
@@ -103,16 +157,20 @@ def validate_topics(
 
     if len(topic_one) > MAX_TOPIC_LENGTH:
         raise ValueError(
-            f"Topic one must be {MAX_TOPIC_LENGTH} characters or fewer."
+            f"Topic one must be "
+            f"{MAX_TOPIC_LENGTH} characters or fewer."
         )
 
     if len(topic_two) > MAX_TOPIC_LENGTH:
         raise ValueError(
-            f"Topic two must be {MAX_TOPIC_LENGTH} characters or fewer."
+            f"Topic two must be "
+            f"{MAX_TOPIC_LENGTH} characters or fewer."
         )
 
     if topic_one.casefold() == topic_two.casefold():
-        raise ValueError("The two topics must be different.")
+        raise ValueError(
+            "The two topics must be different."
+        )
 
     return topic_one, topic_two
 
@@ -126,8 +184,11 @@ def compare_sources(
         topic_two,
     )
 
-    query_engine = load_query_engine(
-        experiment_name=DEFAULT_EXPERIMENT
+    query_engine = measure_time(
+        "compare_sources: load query engine",
+        lambda: load_query_engine(
+            experiment_name=DEFAULT_EXPERIMENT,
+        ),
     )
 
     analysis_template = """
@@ -145,16 +206,25 @@ Return exactly:
 Do not introduce unsupported external information.
 """
 
-    first_response = query_engine.query(
-        analysis_template.format(topic=topic_one)
+    first_response = measure_time(
+        f"compare_sources: analyze {topic_one}",
+        lambda: query_engine.query(
+            analysis_template.format(
+                topic=topic_one
+            )
+        ),
     )
 
-    second_response = query_engine.query(
-        analysis_template.format(topic=topic_two)
+    second_response = measure_time(
+        f"compare_sources: analyze {topic_two}",
+        lambda: query_engine.query(
+            analysis_template.format(
+                topic=topic_two
+            )
+        ),
     )
 
-    comparison_response = Settings.llm.complete(
-        f"""
+    comparison_prompt = f"""
 Compare the following two evidence summaries.
 
 Topic One: {topic_one}
@@ -175,6 +245,12 @@ Use only the supplied findings.
 Clearly distinguish evidence from inference.
 Do not introduce external information.
 """
+
+    comparison_response = measure_time(
+        "compare_sources: final LLM comparison",
+        lambda: Settings.llm.complete(
+            comparison_prompt
+        ),
     )
 
     result = {
@@ -182,9 +258,15 @@ Do not introduce external information.
             "topic_one": topic_one,
             "topic_two": topic_two,
         },
-        "topic_one_findings": str(first_response),
-        "topic_two_findings": str(second_response),
-        "comparison": str(comparison_response),
+        "topic_one_findings": str(
+            first_response
+        ),
+        "topic_two_findings": str(
+            second_response
+        ),
+        "comparison": str(
+            comparison_response
+        ),
     }
 
     return json.dumps(
@@ -201,17 +283,27 @@ def build_tools(
     if tools_used is None:
         tools_used = []
 
-    query_engine = load_query_engine(
-        experiment_name=DEFAULT_EXPERIMENT
+    query_engine = measure_time(
+        "build_tools: load query engine",
+        lambda: load_query_engine(
+            experiment_name=DEFAULT_EXPERIMENT,
+        ),
     )
 
-    def knowledge_base_search(query: str) -> str:
+    def knowledge_base_search(
+        query: str,
+    ) -> str:
         track_tool(
             tools_used,
             "knowledge_base_search",
         )
 
-        response = query_engine.query(query)
+        response = measure_time(
+            "knowledge_base_search: query",
+            lambda: query_engine.query(
+                query
+            ),
+        )
 
         return str(response)
 
@@ -224,9 +316,12 @@ def build_tools(
             "compare_sources",
         )
 
-        return compare_sources(
-            topic_one=topic_one,
-            topic_two=topic_two,
+        return measure_time(
+            "compare_sources: total",
+            lambda: compare_sources(
+                topic_one=topic_one,
+                topic_two=topic_two,
+            ),
         )
 
     def tracked_record_audit_event(
@@ -238,9 +333,12 @@ def build_tools(
             "record_audit_event",
         )
 
-        return record_audit_event(
-            action=action,
-            detail=detail,
+        return measure_time(
+            "record_audit_event: total",
+            lambda: record_audit_event(
+                action=action,
+                detail=detail,
+            ),
         )
 
     def tracked_save_report(
@@ -252,18 +350,22 @@ def build_tools(
             "save_report",
         )
 
-        return save_report(
-            title=title,
-            content=content,
+        return measure_time(
+            "save_report: total",
+            lambda: save_report(
+                title=title,
+                content=content,
+            ),
         )
 
     knowledge_tool = FunctionTool.from_defaults(
         fn=knowledge_base_search,
         name="knowledge_base_search",
         description=(
-            "Search the indexed AI governance and security knowledge base "
-            "for factual, source-grounded information. Use this tool for "
-            "questions about AI governance, risks, controls, standards, "
+            "Search the indexed AI governance and security "
+            "knowledge base for factual, source-grounded "
+            "information. Use this tool for questions about "
+            "AI governance, risks, controls, standards, "
             "compliance, incident response, or agent security."
         ),
     )
@@ -272,11 +374,13 @@ def build_tools(
         fn=tracked_compare_sources,
         name="compare_sources",
         description=(
-            "Compare two distinct AI governance, risk, security, or "
-            "compliance topics using the indexed knowledge base. "
-            "Use this only when the user explicitly requests a comparison. "
-            "Returns findings, overlap, differences, and evidence limitations. "
-            "This tool does not write files."
+            "Compare two distinct AI governance, risk, "
+            "security, or compliance topics using the "
+            "indexed knowledge base. Use this only when "
+            "the user explicitly requests a comparison. "
+            "Returns findings, overlap, differences, and "
+            "evidence limitations. This tool does not "
+            "write files."
         ),
     )
 
@@ -284,8 +388,9 @@ def build_tools(
         fn=tracked_record_audit_event,
         name="record_audit_event",
         description=(
-            "Record a concise audit event after an important or consequential "
-            "agent action, such as saving a report."
+            "Record a concise audit event after an important "
+            "or consequential agent action, such as saving "
+            "a report."
         ),
     )
 
@@ -300,8 +405,9 @@ def build_tools(
             fn=tracked_save_report,
             name="save_report",
             description=(
-                "Save approved Markdown content to the local reports directory. "
-                "Use only after explicit approval to create a file."
+                "Save approved Markdown content to the local "
+                "reports directory. Use only after explicit "
+                "approval to create a file."
             ),
         )
 

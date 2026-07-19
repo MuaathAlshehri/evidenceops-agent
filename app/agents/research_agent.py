@@ -5,6 +5,12 @@ from llama_index.core.agent.workflow import FunctionAgent
 
 import app.services.llm
 from app.tools.research_tools import build_tools
+from time import perf_counter
+
+
+def print_time(task_name: str, start_time: float) -> None:
+    elapsed = perf_counter() - start_time
+    print(f"[TIME] {task_name}: {elapsed:.2f} seconds")
 
 
 SYSTEM_PROMPT = """
@@ -64,12 +70,9 @@ def build_agent(
     approved_to_save: bool = False,
     tools_used: list[str] | None = None,
 ) -> FunctionAgent:
-    """
-    Build a new isolated EvidenceOps agent.
 
-    Each request receives its own tools_used list so tool calls
-    are tracked without mixing data between requests.
-    """
+    start_time = perf_counter()
+
     if tools_used is None:
         tools_used = []
 
@@ -78,7 +81,7 @@ def build_agent(
         tools_used=tools_used,
     )
 
-    return FunctionAgent(
+    agent = FunctionAgent(
         name="EvidenceOpsAgent",
         description=(
             "Plans research, retrieves evidence, "
@@ -88,3 +91,10 @@ def build_agent(
         tools=tools,
         llm=Settings.llm,
     )
+
+    print_time(
+        "research_agent: build agent",
+        start_time,
+    )
+
+    return agent
