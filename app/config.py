@@ -1,26 +1,29 @@
-from pydantic_settings import BaseSettings , SettingsConfigDict
 from pydantic import model_validator
+from pydantic_settings import BaseSettings, SettingsConfigDict
+
 
 class Config(BaseSettings):
     model_provider: str
     model_name: str
-    api_key: str | None = None
-    llm_temperature: float
-    embedding_model : str 
+    aws_region: str
+    aws_bearer_token_bedrock: str | None = None
+    llm_temperature: float = 0.1
+    embedding_model: str
     data_dir: str = "data/processed"
     storage_dir: str = "storage"
     top_k: int = 3
+    model_config = SettingsConfigDict(env_file=".env")
 
+    @model_validator(mode="after")
+    def validate_credentials(self):
+        provider = self.model_provider.lower().strip()
 
-    model_config = SettingsConfigDict(
-        env_file = ".env",
-        env_file_encoding="utf-8",
-    )
+        if provider == "bedrock" and not self.aws_bearer_token_bedrock:
+            raise ValueError(
+                "Amazon Bedrock API key is missing. "
+                "Add AWS_BEARER_TOKEN_BEDROCK to your .env file."
+            )
 
-    @model_validator(mode = "after")
-    def validate_api_key(self):
-        if self.model_provider.lower() == "openrouter" and not self.api_key:
-            raise ValueError("OpenRouter API key is missing. Please add API_KEY to your .env file.")
         return self
 
 

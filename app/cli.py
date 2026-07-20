@@ -1,6 +1,5 @@
 import asyncio
-
-from app.orchestrator import run_research
+from app.orchestrator import approve_and_save,run_research
 
 
 def display_result(result) -> None:
@@ -11,6 +10,9 @@ def display_result(result) -> None:
         print(f"Error: {result.error}")
         return
 
+    if result.saved_path:
+        print(f"Saved to: {result.saved_path}")
+
     print("\n" + result.content)
 
 
@@ -20,13 +22,15 @@ async def main() -> None:
     while True:
         question = input("\nResearch question: ").strip()
 
+        if not question:
+            continue
+
         if question.lower() in {"exit", "quit"}:
             print("Goodbye.")
             break
 
         draft = await run_research(
             question=question,
-            approved_to_save=False,
         )
 
         if draft.error:
@@ -36,17 +40,14 @@ async def main() -> None:
         print("\n--- Draft ---")
         display_result(draft)
 
-        approval = input(
-            "\nSave an approved final report? [y/N]: "
-        ).strip().lower()
+        approval = input("\nSave this exact draft? [y/N]: ").strip().lower()
 
         if approval == "y":
-            final_result = await run_research(
-                question=question,
-                approved_to_save=True,
+            final_result = await approve_and_save(
+                draft=draft,
             )
 
-            print("\n--- Final Run ---")
+            print("\n--- Approved Report ---")
             display_result(final_result)
         else:
             print("\nDraft was not saved.")

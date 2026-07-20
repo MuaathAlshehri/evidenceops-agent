@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import asyncio
 import json
 from datetime import datetime, timezone
 from pathlib import Path
@@ -14,6 +15,9 @@ from app.services.index_service import load_query_engine
 
 DEFAULT_EXPERIMENT = "chunk_350_overlap_50"
 MAX_TOPIC_LENGTH = 200
+MAX_SEARCH_CALLS = 4
+MAX_COMPARE_CALLS = 1
+MAX_PARALLEL_TOPICS = 4
 
 T = TypeVar("T")
 
@@ -82,13 +86,7 @@ def save_report(
         ),
     )
 
-    return json.dumps(
-        {
-            "status": "saved",
-            "path": str(path),
-        },
-        ensure_ascii=False,
-    )
+    return str(path)
 
 
 def record_audit_event(
@@ -276,10 +274,130 @@ Do not introduce external information.
     )
 
 
+def validate_parallel_topics(
+    topics: list[str],
+) -> list[str]:
+    if not topics:
+        raise ValueError(
+            "At least one search topic is required."
+        )
+
+    if len(topics) > MAX_PARALLEL_TOPICS:
+        raise ValueError(
+            "A maximum of "
+            f"{MAX_PARALLEL_TOPICS} parallel topics is allowed."
+        )
+
+    cleaned_topics: list[str] = []
+    seen_topics: set[str] = set()
+
+    for topic in topics:
+        cleaned_topic = topic.strip()
+
+        if not cleaned_topic:
+            raise ValueError(
+                "Parallel search topics cannot be empty."
+            )
+
+        if len(cleaned_topic) > MAX_TOPIC_LENGTH:
+            raise ValueError(
+                "Each parallel search topic must be "
+                f"{MAX_TOPIC_LENGTH} characters or fewer."
+            )
+
+        normalized_topic = cleaned_topic.casefold()
+
+        if normalized_topic in seen_topics:
+            continue
+
+        seen_topics.add(normalized_topic)
+        cleaned_topics.append(cleaned_topic)
+
+    if not cleaned_topics:
+        raise ValueError(
+            "No unique search topics were provided."
+        )
+
+    return cleaned_topics
+
+
+async def parallel_knowledge_search(
+    topics: list[str],
+) -> dict[str, str]:
+    """Search multiple independent topics concurrently.
+
+    The query engine is loaded once, then each synchronous query is
+    delegated to a worker thread so the searches can run in parallel.
+    A failure for one topic is returned as an evidence limitation for that
+    topic instead of cancelling all remaining searches.
+    """
+    cleaned_topics = validate_parallel_topics(
+        topics
+    )
+
+    total_start = perf_counter()
+
+    query_engine = measure_time(
+        "parallel_knowledge_search: load query engine",
+        lambda: load_query_engine(
+            experiment_name=DEFAULT_EXPERIMENT,
+        ),
+    )
+
+    async def search_topic(
+        topic: str,
+        search_number: int,
+    ) -> tuple[str, str]:
+        start_time = perf_counter()
+
+        try:
+            response = await asyncio.to_thread(
+                query_engine.query,
+                topic,
+            )
+            result = str(response)
+        except Exception as exc:
+            result = (
+                "Evidence retrieval failed for this topic. "
+                f"Error: {type(exc).__name__}: {exc}"
+            )
+        finally:
+            elapsed_time = perf_counter() - start_time
+            print(
+                "[TIME] parallel_knowledge_search: query "
+                f"[{search_number}/{len(cleaned_topics)}]: "
+                f"{elapsed_time:.2f} seconds"
+            )
+
+        return topic, result
+
+    results = await asyncio.gather(
+        *(
+            search_topic(
+                topic=topic,
+                search_number=index,
+            )
+            for index, topic in enumerate(
+                cleaned_topics,
+                start=1,
+            )
+        )
+    )
+
+    elapsed_total = perf_counter() - total_start
+    print(
+        "[TIME] parallel_knowledge_search: total "
+        f"[{len(cleaned_topics)} topics]: "
+        f"{elapsed_total:.2f} seconds"
+    )
+
+    return dict(results)
+
+
 def build_tools(
     approved_to_save: bool = False,
     tools_used: list[str] | None = None,
-):
+) -> list[FunctionTool]:
     if tools_used is None:
         tools_used = []
 
@@ -293,15 +411,33 @@ def build_tools(
     def knowledge_base_search(
         query: str,
     ) -> str:
+        search_count = tools_used.count(
+            "knowledge_base_search"
+        )
+
+        if search_count >= MAX_SEARCH_CALLS:
+            return (
+                "Knowledge base search limit reached. "
+                "Do not call this tool again. "
+                "Use the evidence already retrieved and produce "
+                "the final response. Clearly state any remaining "
+                "evidence limitations."
+            )
+
         track_tool(
             tools_used,
             "knowledge_base_search",
         )
 
+        current_search_number = search_count + 1
+
         response = measure_time(
-            "knowledge_base_search: query",
+            (
+                "knowledge_base_search: query "
+                f"[{current_search_number}/{MAX_SEARCH_CALLS}]"
+            ),
             lambda: query_engine.query(
-                query
+                query.strip()
             ),
         )
 
@@ -311,13 +447,30 @@ def build_tools(
         topic_one: str,
         topic_two: str,
     ) -> str:
+        compare_count = tools_used.count(
+            "compare_sources"
+        )
+
+        if compare_count >= MAX_COMPARE_CALLS:
+            return (
+                "Source comparison limit reached. "
+                "Do not call this tool again. "
+                "Use the existing search and comparison evidence "
+                "to produce the final response."
+            )
+
         track_tool(
             tools_used,
             "compare_sources",
         )
 
+        current_compare_number = compare_count + 1
+
         return measure_time(
-            "compare_sources: total",
+            (
+                "compare_sources: total "
+                f"[{current_compare_number}/{MAX_COMPARE_CALLS}]"
+            ),
             lambda: compare_sources(
                 topic_one=topic_one,
                 topic_two=topic_two,
@@ -364,9 +517,11 @@ def build_tools(
         description=(
             "Search the indexed AI governance and security "
             "knowledge base for factual, source-grounded "
-            "information. Use this tool for questions about "
-            "AI governance, risks, controls, standards, "
-            "compliance, incident response, or agent security."
+            "information. Use concise, non-overlapping queries. "
+            "A maximum of four searches is permitted per research "
+            "request. Do not repeat a search for the same topic. "
+            "After sufficient evidence is retrieved, stop using "
+            "tools and produce the response."
         ),
     )
 
@@ -374,13 +529,14 @@ def build_tools(
         fn=tracked_compare_sources,
         name="compare_sources",
         description=(
-            "Compare two distinct AI governance, risk, "
-            "security, or compliance topics using the "
-            "indexed knowledge base. Use this only when "
-            "the user explicitly requests a comparison. "
-            "Returns findings, overlap, differences, and "
-            "evidence limitations. This tool does not "
-            "write files."
+            "Compare exactly two distinct AI governance, risk, "
+            "security, or compliance topics using the indexed "
+            "knowledge base. This tool may be called at most once "
+            "per research request. Do not use it repeatedly for "
+            "pairwise comparisons. For more than two frameworks, "
+            "retrieve evidence using knowledge_base_search and "
+            "perform the final multi-framework synthesis directly "
+            "in the response."
         ),
     )
 
@@ -397,9 +553,11 @@ def build_tools(
     tools = [
         knowledge_tool,
         compare_tool,
-        audit_tool,
     ]
 
+    # Kept for backward compatibility. In the corrected approval flow,
+    # run_research should always build the agent with approved_to_save=False.
+    # Saving the existing draft is handled directly by the orchestrator.
     if approved_to_save:
         save_tool = FunctionTool.from_defaults(
             fn=tracked_save_report,
@@ -410,7 +568,6 @@ def build_tools(
                 "approval to create a file."
             ),
         )
-
         tools.append(save_tool)
 
     return tools
